@@ -1,0 +1,6713 @@
+# Vagante Ukrainian Translation (masquerading as Czech)
+# Copyright (C) 2026
+# This file is distributed under the same license as the Vagante package.
+# Mykyta Kuznietsov, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Vagante\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-05 21:00+0200\n"
+"PO-Revision-Date: 2026-01-07 10:33+0200\n"
+"Last-Translator: Mykyta Kuznietsov\n"
+"Language-Team: Ukrainian\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+"X-Generator: Poedit 3.8\n"
+
+#: src/AffinityPetDefense.cpp:12
+msgid "Pet Bond"
+msgstr "Зв'язок з улюбленцем"
+
+#: src/AffinityPetDefense.cpp:13
+msgid "Share Potion"
+msgstr "Поділитися зіллям"
+
+#: src/AffinityPetDefense.cpp:13
+msgid "Share beneficial potions with your pet."
+msgstr "Поділіться корисними зіллями зі своїм улюбленцем."
+
+#: src/AffinityPetDefense.cpp:14
+msgid "Command Aura"
+msgstr "Аура команди"
+
+#: src/AffinityPetDefense.cpp:14
+msgid "You now have an aura that increases your pets stats when near."
+msgstr "Тепер у вас є аура, яка підвищує характеристики вашого улюбленця, коли він поруч."
+
+#: src/AffinityPetDefense.cpp:15
+msgid "Substitute"
+msgstr "Заміна"
+
+#: src/AffinityPetDefense.cpp:15
+msgid "Damage you take is split between you and your pet."
+msgstr "Отримані вами пошкодження розподіляються між вами та вашим улюбленцем."
+
+#: src/AffinityPetDefense.cpp:16
+msgid "Item Bond"
+msgstr "Зв'язок предметів"
+
+#: src/AffinityPetDefense.cpp:16
+msgid "Your equipped weapon and chest armor gives bonuses to your pet."
+msgstr "Ваша екіпірована зброя та наплічний бронежилет надають бонуси вашому улюбленцю."
+
+#: src/Background.cpp:35
+msgid "No Background"
+msgstr "Без минулого"
+
+#: src/Background.cpp:36
+msgid "There's nothing special about you."
+msgstr "У вас немає нічого особливого."
+
+#: src/Background.cpp:39 src/Stats.cpp:112 src/ItemAttribute.cpp:270
+msgid "Strong"
+msgstr "Сильний"
+
+#: src/Background.cpp:40
+msgid "You might not be the sharpest tool in the shed, but you're stronger than most."
+msgstr "Ви може не найкмітніший, але сильніший за більшість."
+
+#: src/Background.cpp:41
+msgid "Heavy throws"
+msgstr "Сильні кидки"
+
+#: src/Background.cpp:42
+msgid "+2 STR"
+msgstr "+2 СИЛ"
+
+#: src/Background.cpp:43
+msgid "-2 INT"
+msgstr "-2 ІНТ"
+
+#: src/Background.cpp:46 src/Stats.cpp:109
+msgid "Experienced"
+msgstr "Досвідчений"
+
+#: src/Background.cpp:47
+msgid "You're older and more experienced than the average adventurer, but you've used up most of your beginner's luck."
+msgstr "Ви старший і досвідченіший за середнього мандрівника, але витратили більшу частину початківської удачі."
+
+#: src/Background.cpp:48
+msgid "+1 Starting Level"
+msgstr "+1 Початковий рівень"
+
+#: src/Background.cpp:49
+msgid "-3 LUK"
+msgstr "-3 ВДА"
+
+#: src/Background.cpp:52 src/Stats.cpp:115
+msgid "Bookworm"
+msgstr "Книголюб"
+
+#: src/Background.cpp:53
+msgid "Due to your sickly nature, you've spent most of your life indoors reading books."
+msgstr "Через слабке здоров’я ви провели більшу частину життя вдома, читаючи книги."
+
+#: src/Background.cpp:54
+msgid "+1 Spellbook Starting Level"
+msgstr "+1 Початковий рівень заклинань"
+
+#: src/Background.cpp:55
+msgid "-1 STR"
+msgstr "-1 СИЛ"
+
+#: src/Background.cpp:56
+msgid "-1 DEX"
+msgstr "-1 СПР"
+
+#: src/Background.cpp:59 src/Stats.cpp:110
+msgid "Survivor"
+msgstr "Виживець"
+
+#: src/Background.cpp:60
+msgid "Years of living in the harsh wilderness have left you with impressive survival skills."
+msgstr "Роки життя в суворій глушині наділили вас вражаючими навичками виживання."
+
+#: src/Background.cpp:61
+msgid "+5 Bonfire Healing"
+msgstr "+5 Лікування біля багаття"
+
+#: src/Background.cpp:64 src/Stats.cpp:117
+msgid "Illiterate"
+msgstr "Неписьменний"
+
+#: src/Background.cpp:65
+msgid "Instead of going to school and learning how to read, you spent your time tinkering with explosives."
+msgstr "Замість того, щоб ходити до школи та вчитися читати, ви витрачали час на виготовлення вибухівки."
+
+#: src/Background.cpp:66
+msgid "+5 Bombs"
+msgstr "+5 Бомб"
+
+#: src/Background.cpp:67
+msgid "+Charred Helmet"
+msgstr "+Обвуглений шолом"
+
+#: src/Background.cpp:68
+msgid "Cannot read scrolls or books"
+msgstr "Не можете читати сувої чи книги"
+
+#: src/Background.cpp:71
+msgid "Raised by Merchant"
+msgstr "Вихований купцем"
+
+#: src/Background.cpp:72
+msgid "Growing up as a merchant's child has taught you how to bargain effectively."
+msgstr "Виростаючи в родині купця, ви навчилися ефективно торгуватися."
+
+#: src/Background.cpp:73
+msgid "+25 Starting Gold"
+msgstr "+25 Початкового золота"
+
+#: src/Background.cpp:74
+msgid "Discount at Shops"
+msgstr "Знижка в магазинах"
+
+#: src/Background.cpp:77 src/Stats.cpp:122
+msgid "Wanted"
+msgstr "Розшукуваний"
+
+#: src/Background.cpp:78
+msgid "You were caught stealing something you shouldn't have. Now, you have a price on your head."
+msgstr "Вас спіймали на крадіжці того, чого не слід було чіпати. Тепер на вас призначено винагороду."
+
+#: src/Background.cpp:79
+msgid "+Item: Stolen Ring"
+msgstr "+Предмет: Вкрадене кільце"
+
+#: src/Background.cpp:80
+msgid "Shopkeepers attack on sight"
+msgstr "Продавці атакують при виявленні"
+
+#: src/Background.cpp:83 src/Stats.cpp:120
+msgid "Farsighted"
+msgstr "Далекозорий"
+
+#: src/Background.cpp:84
+msgid "You have exceptional long-ranged vision which lets you aim much better with ranged weapons."
+msgstr "Ви маєте винятковий зір на далекі відстані, що дозволяє краще цілитися зі зброї дальнього бою."
+
+#: src/Background.cpp:85
+msgid "+1 Light Radius"
+msgstr "+1 Радіус світла"
+
+#: src/Background.cpp:86
+msgid "Increased Ranged Damage"
+msgstr "Збільшені пошкодження від дальньої зброї"
+
+#: src/Background.cpp:89 src/Stats.cpp:119 src/ItemAttribute.cpp:480
+msgid "Ascetic"
+msgstr "Аскетичний"
+
+#: src/Background.cpp:90
+msgid "You've taken an ascetic vow. Wearing equipment will break your holy vow."
+msgstr "Ви дали обітницю аскетизму. Ношення обладунків порушить вашу святу обітницю."
+
+#: src/Background.cpp:91
+msgid "Increased stats for each floor beaten without equipment"
+msgstr "Підвищення характеристик за кожен пройдений поверх без обладунків"
+
+#: src/Background.cpp:92
+msgid "Breaking holy vow is permanent"
+msgstr "Порушення святої обітниці — незворотне"
+
+#: src/Background.cpp:95 src/Stats.cpp:121
+msgid "Snake Eater"
+msgstr "Зміїд"
+
+#: src/Background.cpp:96
+msgid "Years of ingesting poisons to train your body has changed your metabolism."
+msgstr "Роки вживання отрут для тренування тіла змінили ваш обмін речовин."
+
+#: src/Background.cpp:97
+msgid "+ Poison Potions"
+msgstr "+ Зілля отрути"
+
+#: src/Background.cpp:98
+msgid "+1 POISRES"
+msgstr "+1 ОТРУЙСТ"
+
+#: src/Background.cpp:99
+msgid "Poison Potions heal"
+msgstr "Зілля отрути лікують"
+
+#: src/Background.cpp:100
+msgid "Healing Potion effect reduced"
+msgstr "Ефект лікувального зілля знижено"
+
+#: src/Background.cpp:103 src/Stats.cpp:113
+msgid "Nimble"
+msgstr "Спритний"
+
+#: src/Background.cpp:104
+msgid "You're generally quicker and nimbler than normal."
+msgstr "Ви загалом швидший та спритніший за звичайних."
+
+#: src/Background.cpp:105
+msgid "+2 SPD"
+msgstr "+2 ШВ"
+
+#: src/Background.cpp:106
+msgid "Reduced fall damage"
+msgstr "Зменшені пошкодження від падіння"
+
+#: src/Background.cpp:109
+msgid "Wisp Curse"
+msgstr "Прокляття вогників"
+
+#: src/Background.cpp:110
+msgid "They've followed you for most of your life, but you've learned to deal with it."
+msgstr "Вогники супроводжували вас більшу частину життя, але ви навчилися з цим жити."
+
+#: src/Background.cpp:113
+msgid "Synchronized"
+msgstr "Синхронізований"
+
+#: src/Background.cpp:114
+msgid "The world moves in step with you."
+msgstr "Світ рухається в такт з вами."
+
+#: src/Background.cpp:117 src/Stats.cpp:145
+msgid "Death's Acolyte"
+msgstr "Послідовник Смерті"
+
+#: src/Background.cpp:118
+msgid "Two tattoos of demonic dragons etched into your skin fill your body with deadly strength, at great cost. The souls of mortals tremble from your presence."
+msgstr "Два татуювання демонічних драконів, викарбувані на вашій шкірі, наповнюють ваше тіло смертельною силою, але за велику ціну. Душі смертних тремтять від вашої присутності."
+
+#: src/Background.cpp:119 src/Background.cpp:120
+msgid "Death is easier to encounter"
+msgstr "Смерть легше знайти"
+
+#: src/Background.cpp:123 src/ItemGenerator.cpp:505 src/Stats.cpp:157
+msgid "Heirloom"
+msgstr "Родинна реліквія"
+
+#: src/Background.cpp:124
+msgid "You're not sure how old this ring is, but it's been passed down within the family for generations."
+msgstr "Ви не впевнені, скільки років цьому перстеню, але він передається у вашій родині поколіннями."
+
+#: src/Background.cpp:125
+msgid "+Item: Heirloom Ring"
+msgstr "+Предмет: Родинний перстень"
+
+#: src/Background.cpp:128 src/Item.cpp:866
+msgid "Crossbow"
+msgstr "Арбалет"
+
+#: src/Background.cpp:129
+msgid "Instead of spending your hard-earned money on a regular bow, you decided to invest in an enchanted crossbow."
+msgstr "Замість того, щоб витрачати зароблені гроші на звичайний лук, ви вирішили інвестувати в зачарований арбалет."
+
+#: src/Background.cpp:130
+msgid "+Item: Enchanted Crossbow"
+msgstr "+Предмет: Зачарований арбалет"
+
+#: src/Background.cpp:131
+msgid "-Item: Short Bow"
+msgstr "-Предмет: Короткий лук"
+
+#: src/Background.cpp:134 src/Stats.cpp:149
+msgid "Armored"
+msgstr "Броньований"
+
+#: src/Background.cpp:135
+msgid "You used your inheritance to purchase a full plate of the finest armor you could buy."
+msgstr "Ви використали спадок, щоб придбати найкращий комплект латів, який тільки могли дозволити собі."
+
+#: src/Background.cpp:136
+msgid "+Item: Full Plate Armor"
+msgstr "+Предмет: Повний латний обладунок"
+
+#: src/Background.cpp:139 src/Stats.cpp:161
+msgid "Will of the Elements"
+msgstr "Воля стихій"
+
+#: src/Background.cpp:140
+msgid "Start with a caestus blessed by the elements."
+msgstr "Починаєте з кестуса, благословленого стихіями."
+
+#: src/Background.cpp:141
+msgid "+Item: Elemental Caestus"
+msgstr "+Предмет: Стихійний кестус"
+
+#: src/Background.cpp:144 src/Stats.cpp:123
+msgid "Potion Addict"
+msgstr "Залежний від зілля"
+
+#: src/Background.cpp:145
+msgid "You *really* love drinking potions."
+msgstr "Ви *дуже* любите пити зілля."
+
+#: src/Background.cpp:146
+msgid "Heal +4 when drinking any potion"
+msgstr "+4 до лікування при вживанні будь-якого зілля"
+
+#: src/Background.cpp:149 src/Stats.cpp:124
+msgid "Stoic"
+msgstr "Стоїк"
+
+#: src/Background.cpp:150
+msgid "With your well-disciplined body, you can shrug off damage quicker than others."
+msgstr "Завдяки добре дисциплінованому тілу ви можете швидше відновлюватися від пошкоджень, ніж інші."
+
+#: src/Background.cpp:151
+msgid "Status Effect Duration -33%"
+msgstr "Тривалість ефектів стану -33%"
+
+#: src/Background.cpp:152
+msgid "Reduced received knockback"
+msgstr "Зменшене відкидання"
+
+#: src/Background.cpp:155 src/Stats.cpp:141
+msgid "Tinkerer"
+msgstr "Винахідник"
+
+#: src/Background.cpp:156
+msgid "You've compensated for your bad leg by crafting something to help out your mobility."
+msgstr "Ви компенсували проблеми з ногою, створивши щось для покращення рухливості."
+
+#: src/Background.cpp:157
+msgid "+Item: Grappling Hook"
+msgstr "+Предмет: Гачок-кошка"
+
+#: src/Background.cpp:158
+msgid "-1 SPD"
+msgstr "-1 ШВ"
+
+#: src/Background.cpp:161 src/Item.cpp:885 src/Stats.cpp:125
+msgid "Boomerang"
+msgstr "Бумеранг"
+
+#: src/Background.cpp:162
+msgid "You decided to use your spare time on the journey here carve a pair of throwing sticks."
+msgstr "Ви вирішили використати вільний час у дорозі, щоб виготовити пару метальних палиць."
+
+#: src/Background.cpp:163
+msgid "+Item: Boomerangs"
+msgstr "+Предмет: Бумеранги"
+
+#: src/Background.cpp:166 src/Stats.cpp:165
+msgid "Flail Wielder"
+msgstr "Володар кистеня"
+
+#: src/Background.cpp:167
+msgid "You're not a fan of conventional weapons."
+msgstr "Вам не до вподоби звичайна зброя."
+
+#: src/Background.cpp:169
+msgid "+Item: Heavy Flail"
+msgstr "+Предмет: Важкий кистень"
+
+#: src/Background.cpp:170
+msgid "-Item: Wooden Club"
+msgstr "-Предмет: Дерев’яна палиця"
+
+#: src/Background.cpp:173 src/Stats.cpp:128
+msgid "Mimic Whisperer"
+msgstr "Шептун міміків"
+
+#: src/Background.cpp:174
+msgid "You've learned the secret behind the origin of mimics."
+msgstr "Ви дізналися таємницю походження міміків."
+
+#: src/Background.cpp:177 src/Stats.cpp:129
+msgid "Bloody Adherent"
+msgstr "Кровожерливий послідовник"
+
+#: src/Background.cpp:178
+msgid "Followers of The God of Blood and War are most holy when in the thick of combat."
+msgstr "Послідовники Бога Крові та Війни найсвятіші в самому пеклі бою."
+
+#: src/Background.cpp:179
+msgid "Heal in combat when low on health"
+msgstr "Лікування в бою при низькому рівні здоров’я"
+
+#: src/Background.cpp:182 src/Stats.cpp:130
+msgid "Disciple of the Smith"
+msgstr "Учень Коваля"
+
+#: src/Background.cpp:183
+msgid "The Smith looks favorably upon devotees that take care of their equipment."
+msgstr "Коваль прихильно ставиться до тих, хто дбає про своє спорядження."
+
+#: src/Background.cpp:184
+msgid "Bonfires have a chance to grant stacking bonus to equipped items until unequipped"
+msgstr "Багаття мають шанс надавати накопичувальні бонуси екіпірованому спорядженню, поки його не знімете"
+
+#: src/Background.cpp:187 src/Stats.cpp:131
+msgid "Disciple of the Scholar"
+msgstr "Учень Вченого"
+
+#: src/Background.cpp:188
+msgid "Followers of The Scholar strive to comprehend the language of magic."
+msgstr "Послідовники Вченого прагнуть зрозуміти мову магії."
+
+#: src/Background.cpp:189
+msgid "Sacrifices to the Scholar are rewarded more."
+msgstr "Жертви Вченому винагороджуються щедріше."
+
+#: src/Background.cpp:192 src/Stats.cpp:132
+msgid "Cursed Adherent"
+msgstr "Послідовник Проклятих"
+
+#: src/Background.cpp:193
+msgid "Adherents to the Shackled are blessed with more opportunities to embrace cursedness."
+msgstr "Послідовники Скутих отримують більше можливостей прийняти прокляття."
+
+#: src/Background.cpp:194
+msgid "Greatly increased chance of cursed items from chests"
+msgstr "Значно збільшений шанс знайти прокляті предмети у скринях"
+
+#: src/Background.cpp:197 src/Stats.cpp:133
+msgid "Acolyte of Light"
+msgstr "Послідовник Світла"
+
+#: src/Background.cpp:198
+msgid "Acolytes of Light can heal their allies through the use of holy light."
+msgstr "Послідовники Світла можуть лікувати союзників за допомогою святого світла."
+
+#: src/Background.cpp:199
+msgid "Ability: Circle of Light"
+msgstr "Здібність: Коло Світла"
+
+#: src/Background.cpp:202 src/Stats.cpp:134
+msgid "Acolyte of Chaos"
+msgstr "Послідовник Хаосу"
+
+#: src/Background.cpp:203
+msgid "The Deranged finds you interesting."
+msgstr "Безумний вважає вас цікавим."
+
+#: src/Background.cpp:208
+msgid "Faithless Heathen"
+msgstr "Безвірник"
+
+#: src/Background.cpp:209
+msgid "You reject the gods and they reject you."
+msgstr "Ви відкидаєте богів, і вони відкидають вас."
+
+#: src/Background.cpp:210
+msgid "Gain stats from destroying shrines"
+msgstr "Отримуйте характеристики за знищення святинь"
+
+#: src/Background.cpp:211
+msgid "Very Unlucky"
+msgstr "Дуже нещасливий"
+
+#: src/AffinityBerserk.cpp:12 src/StatusEffect.cpp:123
+msgid "Berserk"
+msgstr "Берсерк"
+
+#: src/AffinityBerserk.cpp:13 src/AffinityStats.cpp:109
+msgid "Berserker's Blood"
+msgstr "Кров Берсерка"
+
+#: src/AffinityBerserk.cpp:13
+msgid "Continuous attacks will cause you to go berserk!"
+msgstr "Безперервні атаки змусять вас впасти в берсерк!"
+
+#: src/AffinityBerserk.cpp:14
+msgid "Pain Tolerance"
+msgstr "Стійкість до болю"
+
+#: src/AffinityBerserk.cpp:14
+msgid "Take less damage while berserking."
+msgstr "Отримуйте менше пошкоджень у стані берсерка."
+
+#: src/AffinityBerserk.cpp:15
+msgid "Berserker's Blood 2"
+msgstr "Кров Берсерка 2"
+
+#: src/AffinityBerserk.cpp:15
+msgid "Attacks while berserking steal life. Increased berserk duration."
+msgstr "Атаки в стані берсерка крадуть життя. Збільшено тривалість берсерка."
+
+#: src/AffinityBerserk.cpp:16
+msgid "Killing Bonus"
+msgstr "Бонус за вбивство"
+
+#: src/AffinityBerserk.cpp:16
+msgid "Each enemy killed while berserking will increase your strength."
+msgstr "Кожен ворог, убитий у стані берсерка, збільшить вашу силу."
+
+#: src/AffinityBerserk.cpp:17
+msgid "Berserker's Blood 3"
+msgstr "Кров Берсерка 3"
+
+#: src/AffinityBerserk.cpp:17
+msgid "Increase the effect of berserk."
+msgstr "Посилює ефект берсерка."
+
+#: src/AffinityArchery.cpp:14
+msgid "Archery"
+msgstr "Стрілецтво"
+
+#: src/AffinityArchery.cpp:15
+msgid "Advanced Movement"
+msgstr "Покращене пересування"
+
+#: src/AffinityArchery.cpp:15
+msgid "Enables strafing and jumping while drawing a bow."
+msgstr "Дозволяє рухатися боком і стрибати під час натягування лука."
+
+#: src/AffinityArchery.cpp:16
+msgid "Rebound"
+msgstr "Рикошет"
+
+#: src/AffinityArchery.cpp:16
+msgid "Arrows bounce off the first surface hit."
+msgstr "Стріли відскакують від першої поверхні, в яку влучають."
+
+#: src/AffinityArchery.cpp:17
+msgid "Penetrate"
+msgstr "Проникнення"
+
+#: src/AffinityArchery.cpp:17
+msgid "Arrows penetrate the first target."
+msgstr "Стріли пронизують першу ціль."
+
+#: src/AffinityArchery.cpp:18
+msgid "Pierce"
+msgstr "Прокол"
+
+#: src/AffinityArchery.cpp:18
+msgid "Arrows pierce through two targets."
+msgstr "Стріли проколюють дві цілі."
+
+#: src/AffinityArchery.cpp:19
+msgid "Ricochet"
+msgstr "Багаторазовий рикошет"
+
+#: src/AffinityArchery.cpp:19
+msgid "Arrows bounce many times."
+msgstr "Стріли відскакують багато разів."
+
+#: src/AffinityAcrobatics.cpp:16
+msgid "Acrobatics"
+msgstr "Акробатика"
+
+#: src/AffinityAcrobatics.cpp:17
+msgid "Tumbling"
+msgstr "Кульбіти"
+
+#: src/AffinityAcrobatics.cpp:17
+msgid "Press [Interact] while holding left or right to roll. Holding a direction when taking fall damage will roll."
+msgstr "Натисніть [Взаємодія], утримуючи рух лівою або правою, щоб скотитися. Утримання напрямку під час падіння дозволить скотитися."
+
+#: src/AffinityAcrobatics.cpp:18
+msgid "Advanced Maneuvers"
+msgstr "Покращені маневри"
+
+#: src/AffinityAcrobatics.cpp:18
+msgid "Jump off of walls. Also, rolls can be canceled by jumping."
+msgstr "Можна стрибати від стін. Також кульбіти можна скасувати стрибком."
+
+#: src/AffinityAcrobatics.cpp:19
+msgid "Evasion 1"
+msgstr "Ухилення 1"
+
+#: src/AffinityAcrobatics.cpp:19
+#, c-format
+msgid "Gain a 20% chance to evade any physical attack."
+msgstr "20% c шанс ухилитися від фізичної атаки."
+
+#: src/AffinityAcrobatics.cpp:20
+msgid "Evasion 2"
+msgstr "Ухилення 2"
+
+#: src/AffinityAcrobatics.cpp:20
+#, c-format
+msgid "Gain a 40% chance to evade any physical attack."
+msgstr "40% c шанс уникнути фізичної атаки."
+
+#: src/ItemGenerator.cpp:14
+msgid "Red Potion"
+msgstr "Червоне зілля"
+
+#: src/ItemGenerator.cpp:14
+msgid "As red as fresh blood."
+msgstr "Червоне, як свіжа кров."
+
+#: src/ItemGenerator.cpp:15
+msgid "Blue Potion"
+msgstr "Синє зілля"
+
+#: src/ItemGenerator.cpp:15
+msgid "Looks refreshing."
+msgstr "Виглядає освіжаюче."
+
+#: src/ItemGenerator.cpp:16
+msgid "Green Potion"
+msgstr "Зелене зілля"
+
+#: src/ItemGenerator.cpp:16
+msgid "Doesn't look completely natural."
+msgstr "Не виглядає повністю природним."
+
+#: src/ItemGenerator.cpp:17
+msgid "Orange Potion"
+msgstr "Помаранчеве зілля"
+
+#: src/ItemGenerator.cpp:17
+msgid "Almost looks like juice."
+msgstr "Має вигляд соку."
+
+#: src/ItemGenerator.cpp:18
+msgid "Brown Potion"
+msgstr "Коричневе зілля"
+
+#: src/ItemGenerator.cpp:18
+msgid "Doesn't look very appetizing."
+msgstr "Не виглядає апетитно."
+
+#: src/ItemGenerator.cpp:19
+msgid "Cyan Potion"
+msgstr "Блакитне зілля"
+
+#: src/ItemGenerator.cpp:19
+msgid "It's slightly transluscent."
+msgstr "Трохи напівпрозоре."
+
+#: src/ItemGenerator.cpp:20
+msgid "Purple Potion"
+msgstr "Фіолетове зілля"
+
+#: src/ItemGenerator.cpp:20
+msgid "Reminds you of eggplants."
+msgstr "Нагадує баклажани."
+
+#: src/ItemGenerator.cpp:21
+msgid "Yellow Potion"
+msgstr "Жовте зілля"
+
+#: src/ItemGenerator.cpp:21
+msgid "Captured sunshine."
+msgstr "Захоплене сонячне світло."
+
+#: src/ItemGenerator.cpp:23
+msgid "Black Elixer"
+msgstr "Чорний еліксир"
+
+#: src/ItemGenerator.cpp:23
+msgid "Completely opaque."
+msgstr "Абсолютно непрозорий."
+
+#: src/ItemGenerator.cpp:24
+msgid "Indigo Elixer"
+msgstr "Індиговий еліксир"
+
+#: src/ItemGenerator.cpp:24
+msgid "Almost looks black."
+msgstr "Має вигляд майже чорного."
+
+#: src/ItemGenerator.cpp:25
+msgid "Pink Elixer"
+msgstr "Рожевий еліксир"
+
+#: src/ItemGenerator.cpp:25
+msgid "It looks unnatural."
+msgstr "Виглядає ненатурально."
+
+#: src/ItemGenerator.cpp:26
+msgid "White Elixer"
+msgstr "Білий еліксир"
+
+#: src/ItemGenerator.cpp:26
+msgid "Is it milk?"
+msgstr "Чи це молоко?"
+
+#: src/ItemGenerator.cpp:27
+msgid "Red Elixer"
+msgstr "Червоний еліксир"
+
+#: src/ItemGenerator.cpp:27
+msgid "It looks spicy. "
+msgstr "Виглядає гострим. "
+
+#: src/ItemGenerator.cpp:28
+msgid "Blue Elixer"
+msgstr "Синій еліксир"
+
+#: src/ItemGenerator.cpp:28
+msgid "It feels cold to the touch."
+msgstr "На дотик холодний."
+
+#: src/ItemGenerator.cpp:29
+msgid "Green Elixer"
+msgstr "Зелений еліксир"
+
+#: src/ItemGenerator.cpp:29
+msgid "Feels surprisingly heavy."
+msgstr "Дивно важкий на вагу."
+
+#: src/ItemGenerator.cpp:30
+msgid "Orange Elixer"
+msgstr "Помаранчевий еліксир"
+
+#: src/ItemGenerator.cpp:30
+msgid "It feels warm to the touch."
+msgstr "На дотик теплий."
+
+#: src/ItemGenerator.cpp:32
+msgid "Red Tincture"
+msgstr "Червона настойка"
+
+#: src/ItemGenerator.cpp:32
+msgid "It smells like roses."
+msgstr "Пахне трояндами."
+
+#: src/ItemGenerator.cpp:33
+msgid "Teal Tincture"
+msgstr "Блакитно-зелена настойка"
+
+#: src/ItemGenerator.cpp:33
+msgid "It smells like the mountains."
+msgstr "Пахне горами."
+
+#: src/ItemGenerator.cpp:34
+msgid "Purple Tincture"
+msgstr "Фіолетова настойка"
+
+#: src/ItemGenerator.cpp:34
+msgid "It smells like violets."
+msgstr "Пахне фіалками."
+
+#: src/ItemGenerator.cpp:35
+msgid "Yellow Tincture"
+msgstr "Жовта настойка"
+
+#: src/ItemGenerator.cpp:35
+msgid "It smells like bananas."
+msgstr "Пахне бананами."
+
+#: src/ItemGenerator.cpp:36
+msgid "Black Tincture"
+msgstr "Чорна настойка"
+
+#: src/ItemGenerator.cpp:36
+msgid "It smells like death."
+msgstr "Пахне смертю."
+
+#: src/ItemGenerator.cpp:37
+msgid "Indigo Tincture"
+msgstr "Індигова настойка"
+
+#: src/ItemGenerator.cpp:37
+msgid "It smells like the ocean."
+msgstr "Пахне океаном."
+
+#: src/ItemGenerator.cpp:38
+msgid "Pink Tincture"
+msgstr "Рожева настойка"
+
+#: src/ItemGenerator.cpp:38
+msgid "It smells fruity."
+msgstr "Пахне фруктами."
+
+#: src/ItemGenerator.cpp:39
+msgid "White Tincture"
+msgstr "Біла настойка"
+
+#: src/ItemGenerator.cpp:39
+msgid "It smells like sugar."
+msgstr "Пахне цукром."
+
+#: src/ItemGenerator.cpp:41
+msgid "Red Draught"
+msgstr "Червоний відвар"
+
+#: src/ItemGenerator.cpp:41
+msgid "It glows faintly red in the darkness."
+msgstr "Тьмяно світиться червоним у темряві."
+
+#: src/ItemGenerator.cpp:42
+msgid "Blue Draught"
+msgstr "Синій відвар"
+
+#: src/ItemGenerator.cpp:42
+msgid "It glows faintly blue in the darkness."
+msgstr "Тьмяно світиться синім у темряві."
+
+#: src/ItemGenerator.cpp:43
+msgid "Green Draught"
+msgstr "Зелений відвар"
+
+#: src/ItemGenerator.cpp:43
+msgid "It glows faintly green in the darkness."
+msgstr "Тьмяно світиться зеленим у темряві."
+
+#: src/ItemGenerator.cpp:44
+msgid "Orange Draught"
+msgstr "Помаранчевий відвар"
+
+#: src/ItemGenerator.cpp:44
+msgid "It glows faintly orange in the darkness."
+msgstr "Тьмяно світиться помаранчевим у темряві."
+
+#: src/ItemGenerator.cpp:45
+msgid "Brown Draught"
+msgstr "Коричневий відвар"
+
+#: src/ItemGenerator.cpp:45
+msgid "It glows faintly brown in the darkness."
+msgstr "Тьмяно світиться коричневим у темряві."
+
+#: src/ItemGenerator.cpp:46
+msgid "Teal Draught"
+msgstr "Блакитно-зелений відвар"
+
+#: src/ItemGenerator.cpp:46
+msgid "It glows faintly teal in the darkness."
+msgstr "Тьмяно світиться блакитно-зеленим у темряві."
+
+#: src/ItemGenerator.cpp:47
+msgid "Purple Draught"
+msgstr "Фіолетовий відвар"
+
+#: src/ItemGenerator.cpp:47
+msgid "It glows faintly purple in the darkness."
+msgstr "Тьмяно світиться фіолетовим у темряві."
+
+#: src/ItemGenerator.cpp:48
+msgid "Yellow Draught"
+msgstr "Жовтий відвар"
+
+#: src/ItemGenerator.cpp:48
+msgid "It glows faintly yellow in the darkness."
+msgstr "Тьмяно світиться жовтим у темряві."
+
+#: src/ItemGenerator.cpp:62
+msgid "It is inscribed with mysterious arcane glyphs."
+msgstr "Покритий таємничими арканними гліфами."
+
+#: src/ItemGenerator.cpp:63
+msgid "Grey Scroll"
+msgstr "Сірий сувій"
+
+#: src/ItemGenerator.cpp:64
+msgid "Light Brown Scroll"
+msgstr "Світло-коричневий сувій"
+
+#: src/ItemGenerator.cpp:65
+msgid "Brown Scroll"
+msgstr "Коричневий сувій"
+
+#: src/ItemGenerator.cpp:66
+msgid "Purple Scroll"
+msgstr "Фіолетовий сувій"
+
+#: src/ItemGenerator.cpp:67
+msgid "Pink Scroll"
+msgstr "Рожевий сувій"
+
+#: src/ItemGenerator.cpp:68
+msgid "Red Scroll"
+msgstr "Червоний сувій"
+
+#: src/ItemGenerator.cpp:69
+msgid "Light Green Scroll"
+msgstr "Світло-зелений сувій"
+
+#: src/ItemGenerator.cpp:70
+msgid "Blue Scroll"
+msgstr "Синій сувій"
+
+#: src/ItemGenerator.cpp:71
+msgid "Tan Scroll"
+msgstr "Світло-бежевий сувій"
+
+#: src/ItemGenerator.cpp:73
+msgid "Green Scroll"
+msgstr "Зелений Сувій"
+
+#: src/ItemGenerator.cpp:74
+msgid "Teal Scroll"
+msgstr "Бірюзовий Сувій"
+
+#: src/ItemGenerator.cpp:75
+msgid "Golden Scroll"
+msgstr "Золотий Сувій"
+
+#: src/ItemGenerator.cpp:420
+msgid "Sparkling"
+msgstr "Іскристий"
+
+#: src/ItemGenerator.cpp:421
+msgid "Shiny"
+msgstr "Блискучий"
+
+#: src/ItemGenerator.cpp:422
+msgid "Glowing"
+msgstr "Сяючий"
+
+#: src/ItemGenerator.cpp:423
+msgid "Shimmering"
+msgstr "Мерехтливий"
+
+#: src/ItemGenerator.cpp:424
+msgid "Translucent"
+msgstr "Напівпрозорий"
+
+#: src/ItemGenerator.cpp:425
+msgid "Runed"
+msgstr "Руничний"
+
+#: src/ItemGenerator.cpp:426
+msgid "Blessed"
+msgstr "Благословенний"
+
+#: src/ItemGenerator.cpp:427
+msgid "Artisan"
+msgstr "Майстерний"
+
+#: src/ItemGenerator.cpp:428
+msgid "Masterwork"
+msgstr "Виріб Майстра"
+
+#: src/ItemGenerator.cpp:429
+msgid "Hallowed"
+msgstr "Святковий"
+
+#: src/ItemGenerator.cpp:430
+msgid "Unearthly"
+msgstr "Неземний"
+
+#: src/ItemGenerator.cpp:431
+msgid "Kingly"
+msgstr "Королівський"
+
+#: src/ItemGenerator.cpp:432
+msgid "Smoking"
+msgstr "Димний"
+
+#: src/ItemGenerator.cpp:433
+msgid "Weird"
+msgstr "Дивний"
+
+#: src/ItemGenerator.cpp:434
+msgid "Strange"
+msgstr "Чудернацький"
+
+#: src/ItemGenerator.cpp:435
+msgid "Peculiar"
+msgstr "Химерний"
+
+#: src/ItemGenerator.cpp:436
+msgid "Unnatural"
+msgstr "Ненатуральний"
+
+#: src/ItemGenerator.cpp:437
+msgid "Grotesque"
+msgstr "Гротескний"
+
+#: src/ItemGenerator.cpp:438
+msgid "Fantastic"
+msgstr "Фантастичний"
+
+#: src/ItemGenerator.cpp:439
+msgid "Bizarre"
+msgstr "Екстравагантний"
+
+#: src/ItemGenerator.cpp:440
+msgid "Uncanny"
+msgstr "Дивовижний"
+
+#: src/ItemGenerator.cpp:441
+msgid "Pale"
+msgstr "Блідий"
+
+#: src/ItemGenerator.cpp:442
+msgid "Magnificent"
+msgstr "Величний"
+
+#: src/ItemGenerator.cpp:443
+msgid "Angelic"
+msgstr "Ангельський"
+
+#: src/ItemGenerator.cpp:444 src/AffinityDemon.cpp:17
+msgid "Demonic"
+msgstr "Демоничний"
+
+#: src/ItemGenerator.cpp:445
+msgid "Resplendent"
+msgstr "Сяючий"
+
+#: src/ItemGenerator.cpp:448
+msgid "Terrible"
+msgstr "Жахливий"
+
+#: src/ItemGenerator.cpp:449
+msgid "Possessed"
+msgstr "Оволоділий"
+
+#: src/ItemGenerator.cpp:450 src/ItemAttribute.cpp:630
+msgid "Haunted"
+msgstr "Примарний"
+
+#: src/ItemGenerator.cpp:451
+msgid "Unpleasant"
+msgstr "Неприємний"
+
+#: src/ItemGenerator.cpp:452
+msgid "Inconvenient"
+msgstr "Незручний"
+
+#: src/ItemGenerator.cpp:453
+msgid "Unnerving"
+msgstr "Тривожний"
+
+#: src/ItemGenerator.cpp:454
+msgid "Repulsive"
+msgstr "Відразливий"
+
+#: src/ItemGenerator.cpp:455 src/ItemAttribute.cpp:829
+msgid "Unfortunate"
+msgstr "Нещасливий"
+
+#: src/ItemGenerator.cpp:456
+msgid "Fetid"
+msgstr "Смердючий"
+
+#: src/ItemGenerator.cpp:457
+msgid "Rancid"
+msgstr "Гнилий"
+
+#: src/ItemGenerator.cpp:458
+msgid "Stinking"
+msgstr "Смердючий"
+
+#: src/ItemGenerator.cpp:459
+msgid "Foul-smelling"
+msgstr "Неприємно пахнучий"
+
+#: src/ItemGenerator.cpp:460
+msgid "Foul"
+msgstr "Смердючий"
+
+#: src/ItemGenerator.cpp:461
+msgid "Malodorous"
+msgstr "Погано пахнучий"
+
+#: src/ItemGenerator.cpp:462
+msgid "Putrid"
+msgstr "Тухлий"
+
+#: src/ItemGenerator.cpp:463
+msgid "Evil-smelling"
+msgstr "Зловонний"
+
+#: src/ItemGenerator.cpp:464
+msgid "Unsightly"
+msgstr "Непривабливий"
+
+#: src/ItemGenerator.cpp:465
+msgid "Corrupt"
+msgstr "Розбещений"
+
+#: src/ItemGenerator.cpp:466
+msgid "Malicious"
+msgstr "Зловмисний"
+
+#: src/ItemGenerator.cpp:467
+msgid "Wicked"
+msgstr "Підступний"
+
+#: src/ItemGenerator.cpp:468
+msgid "Vile"
+msgstr "Мерзенний"
+
+#: src/ItemGenerator.cpp:473
+msgid "Faena's"
+msgstr "Фаени"
+
+#: src/ItemGenerator.cpp:474
+msgid "Atoru's"
+msgstr "Атору"
+
+#: src/ItemGenerator.cpp:475
+msgid "Odenar's"
+msgstr "Оденара"
+
+#: src/ItemGenerator.cpp:476
+msgid "Vihena's"
+msgstr "Віхени"
+
+#: src/ItemGenerator.cpp:477
+msgid "Zudite's"
+msgstr "Зудіте"
+
+#: src/ItemGenerator.cpp:478
+msgid "Yorr's"
+msgstr "Йорра"
+
+#: src/ItemGenerator.cpp:479
+msgid "Galdir's"
+msgstr "Гальдіра"
+
+#: src/ItemGenerator.cpp:480
+msgid "Zyheia's"
+msgstr "Зіхеї"
+
+#: src/ItemGenerator.cpp:481
+msgid "Hyone's"
+msgstr "Гіоне"
+
+#: src/ItemGenerator.cpp:482
+msgid "Xiqzotl's"
+msgstr "Сікзотля"
+
+#: src/ItemGenerator.cpp:483
+msgid "Imir's"
+msgstr "Іміра"
+
+#: src/ItemGenerator.cpp:484
+msgid "Urist's"
+msgstr "Юріста"
+
+#: src/ItemGenerator.cpp:489
+msgid "Black"
+msgstr "Чорний"
+
+#: src/ItemGenerator.cpp:490
+msgid "White"
+msgstr "Білий"
+
+#: src/ItemGenerator.cpp:491
+msgid "Lava-Forged"
+msgstr "Вулканічний"
+
+#: src/ItemGenerator.cpp:492
+msgid "Twilight"
+msgstr "Сутінковий"
+
+#: src/ItemGenerator.cpp:493
+msgid "Shining"
+msgstr "Сяючий"
+
+#: src/ItemGenerator.cpp:494
+msgid "Winter"
+msgstr "Зимовий"
+
+#: src/ItemGenerator.cpp:495
+msgid "Summer"
+msgstr "Літній"
+
+#: src/ItemGenerator.cpp:496
+msgid "Forgotten"
+msgstr "Забутий"
+
+#: src/ItemGenerator.cpp:497
+msgid "Screaming"
+msgstr "Крикуючий"
+
+#: src/ItemGenerator.cpp:498
+msgid "Brooding"
+msgstr "Задумливий"
+
+#: src/ItemGenerator.cpp:499
+msgid "Sentient"
+msgstr "Свідомий"
+
+#: src/ItemGenerator.cpp:503
+msgid "Relic"
+msgstr "Реліквія"
+
+#: src/ItemGenerator.cpp:504
+msgid "Curio"
+msgstr "Куріоз"
+
+#: src/ItemGenerator.cpp:506
+msgid "Token"
+msgstr "Жетон"
+
+#: src/ItemGenerator.cpp:507 src/Stats.cpp:137
+msgid "Trophy"
+msgstr "Трофей"
+
+#: src/ItemGenerator.cpp:508
+msgid "Vestige"
+msgstr "Сліди"
+
+#: src/ItemGenerator.cpp:509
+msgid "Remnant"
+msgstr "Залишок"
+
+#: src/ItemGenerator.cpp:510
+msgid "Fragment"
+msgstr "Фрагмент"
+
+#: src/ItemGenerator.cpp:511
+msgid "Legacy"
+msgstr "Спадщина"
+
+#: src/ItemGenerator.cpp:512
+msgid "Elation"
+msgstr "Піднесення"
+
+#: src/ItemGenerator.cpp:513
+msgid "Disappointment"
+msgstr "Розчарування"
+
+#: src/ItemGenerator.cpp:514
+msgid "Sorrow"
+msgstr "Сум"
+
+#: src/ItemGenerator.cpp:807
+msgid "Courageous"
+msgstr "Сміливий"
+
+#: src/AffinityAnimal.cpp:12
+msgid "Animal"
+msgstr "Тварина"
+
+#: src/AffinityAnimal.cpp:13
+msgid "Lion's Roar"
+msgstr "Рев Лева"
+
+#: src/AffinityAnimal.cpp:13
+msgid "Tap interact while holding up to unleash an intimidating roar."
+msgstr "Натисніть [Взаємодія] вгору, щоб випустити грізний рев."
+
+#: src/AffinityAnimal.cpp:14
+msgid "Bear's Stomp"
+msgstr "Топіт Ведмедя"
+
+#: src/AffinityAnimal.cpp:14
+msgid "While airborne, press down and jump to perform a crushing attack."
+msgstr "У повітрі натисніть вниз і стрибок для потужного удару."
+
+#: src/AffinityAnimal.cpp:15
+msgid "Wolf's Sprint"
+msgstr "Спринт Вовка"
+
+#: src/AffinityAnimal.cpp:15
+msgid "Press [Interact] while holding left or right to roll to enable inhuman sprint capabilities.  Cannot be used while exausted."
+msgstr "Натисніть [Взаємодія] вліво чи вправо для крутого перекату і нечуваного спринту. Не можна використовувати втомленим."
+
+#: src/AffinityAnimal.cpp:16
+msgid "Eagle's Rise"
+msgstr "Підйом Орла"
+
+#: src/AffinityAnimal.cpp:16
+msgid "Hold up and press jump in mid-air to ascend!"
+msgstr "Тримайте вгору і натисніть стрибок у повітрі, щоб піднятися!"
+
+#: src/GuiFriendBrowser.cpp:165
+msgid "Friends Playing Vagante"
+msgstr "Друзі грають у Vagante"
+
+#: src/GuiFriendBrowser.cpp:190
+msgid "EMPTY"
+msgstr "ПУСТО"
+
+#: src/GuiFriendBrowser.cpp:256
+msgid "JOIN GAME"
+msgstr "ПРИЄДНАТИСЯ"
+
+#: src/Item.cpp:461
+msgid "Treasure Key"
+msgstr "Ключ Скарбу"
+
+#: src/Item.cpp:462
+msgid "This key opens up a hoard of treasure."
+msgstr "Цей ключ відкриває скарбницю."
+
+#: src/Item.cpp:466
+msgid "Life Water"
+msgstr "Вода Життя"
+
+#: src/Item.cpp:467
+msgid "A single drop of water from the Fountain of Life."
+msgstr "Одна крапля води з Джерела Життя."
+
+#: src/Item.cpp:474
+msgid "Arrow"
+msgid_plural "Arrows"
+msgstr[0] "Стріла"
+msgstr[1] "Стріли"
+msgstr[2] "Стріл"
+
+#: src/Item.cpp:476
+msgid "Stone tipped, and fletched with an Ozir's feathers."
+msgstr "З кам’яним наконечником і оперена пір’ям Озира."
+
+#: src/Item.cpp:486
+msgid "Explosive Arrow"
+msgid_plural "Explosive Arrows"
+msgstr[0] "Вибухова стріла"
+msgstr[1] "Вибухові стріли"
+msgstr[2] "Вибухових стріл"
+
+#: src/Item.cpp:488
+msgid "A common arrow, with a bomb attached to the end of it."
+msgstr "Звичайна стріла з бомбою на кінці."
+
+#: src/Item.cpp:496
+msgid "Potion of Regeneration"
+msgstr "Зілля Відновлення"
+
+#: src/Item.cpp:497
+msgid "Heals everything from papercuts to broken bones."
+msgstr "Лікує все, від порізів до переломів."
+
+#: src/Item.cpp:498
+msgid "You begin to regenerate."
+msgstr "Ви починаєте відновлюватися."
+
+#: src/Item.cpp:501
+msgid "Potion of Poison"
+msgstr "Зілля Отрути"
+
+#: src/Item.cpp:502
+msgid "Best not drink this."
+msgstr "Краще цього не пити."
+
+#: src/Item.cpp:503
+msgid "That tasted strange."
+msgstr "Смакував дивно."
+
+#: src/Item.cpp:506
+msgid "Potion of Featherfall"
+msgstr "Зілля Легкості"
+
+#: src/Item.cpp:507
+msgid "Grants a feeling of weightlessness."
+msgstr "Дарує відчуття невагомості."
+
+#: src/Item.cpp:508
+msgid "Your body feels weightless."
+msgstr "Тіло відчуває невагомість."
+
+#: src/Item.cpp:511
+msgid "Potion of Quickness"
+msgstr "Зілля Швидкості"
+
+#: src/Item.cpp:512
+msgid "The very essence of wind is stoppered in this flask."
+msgstr "Суть вітру збережена в цій пляшці."
+
+#: src/Item.cpp:513
+msgid "You feel quicker."
+msgstr "Ви відчуваєте себе швидшим."
+
+#: src/Item.cpp:516
+msgid "Potion of Defense"
+msgstr "Зілля Захисту"
+
+#: src/Item.cpp:517
+msgid "Drinking this hardens the skin."
+msgstr "Пиття цього зміцнює шкіру."
+
+#: src/Item.cpp:518
+msgid "Your skin hardens."
+msgstr "Ваша шкіра стає твердішою."
+
+#: src/Item.cpp:521
+msgid "Potion of Vigor"
+msgstr "Зілля Сили"
+
+#: src/Item.cpp:522
+msgid "It's imbued with the fortitude of a giant."
+msgstr "Воно насичене витривалістю гіганта."
+
+#: src/Item.cpp:523
+msgid "You feel strong."
+msgstr "Ви відчуваєте себе сильним."
+
+#: src/Item.cpp:526
+msgid "Potion of Magic"
+msgstr "Зілля Магії"
+
+#: src/Item.cpp:527
+msgid "Grants increased magic power and recharges your skills."
+msgstr "Збільшує магічну силу та відновлює здібності."
+
+#: src/Item.cpp:528
+msgid "Magic courses through you."
+msgstr "Магія протікає крізь вас."
+
+#: src/Item.cpp:531
+msgid "Potion of Strength"
+msgstr "Зілля СИЛ"
+
+#: src/Item.cpp:532
+msgid "Increases your STR by one."
+msgstr "Збільшує вашу СИЛ на 1."
+
+#: src/Item.cpp:533
+msgid "STR +1"
+msgstr "СИЛ +1"
+
+#: src/Item.cpp:536
+msgid "Potion of Intelligence"
+msgstr "Зілля ІНТ"
+
+#: src/Item.cpp:537
+msgid "Increases your INT by one."
+msgstr "Збільшує вашу ІНТ на 1."
+
+#: src/Item.cpp:538
+msgid "INT +1"
+msgstr "ІНТ +1"
+
+#: src/Item.cpp:541
+msgid "Potion of Dexterity"
+msgstr "Зілля ЛОВ"
+
+#: src/Item.cpp:542
+msgid "Increases your DEX by one."
+msgstr "Збільшує вашу ЛОВ на 1."
+
+#: src/Item.cpp:543
+msgid "DEX +1"
+msgstr "ЛОВ +1"
+
+#: src/Item.cpp:546
+msgid "Potion of Luck"
+msgstr "Зілля УДА"
+
+#: src/Item.cpp:547
+msgid "Increases your LUK by one."
+msgstr "Збільшує вашу УДА на 1."
+
+#: src/Item.cpp:548
+msgid "LUK +1"
+msgstr "УДА +1"
+
+#: src/Item.cpp:551
+msgid "Potion of Vitality"
+msgstr "Зілля ВИТ"
+
+#: src/Item.cpp:552
+msgid "Increases your VIT by one."
+msgstr "Збільшує вашу ВИТ на 1."
+
+#: src/Item.cpp:553
+msgid "VIT +1"
+msgstr "ВИТ +1"
+
+#: src/Item.cpp:556
+msgid "Potion of Speed"
+msgstr "Зілля ШВ"
+
+#: src/Item.cpp:557
+msgid "Increases your SPD by one."
+msgstr "Збільшує вашу ШВ на 1."
+
+#: src/Item.cpp:558
+msgid "SPD +1"
+msgstr "ШВ +1"
+
+#: src/Item.cpp:561
+msgid "Potion of Fire Resistance"
+msgstr "Зілля ВОГНЯНИЙ"
+
+#: src/Item.cpp:562
+msgid "Increases your Fire Res by one."
+msgstr "Збільшує вашу ВОГНЯНИЙ на 1."
+
+#: src/Item.cpp:563
+msgid "FIRERES +1"
+msgstr "ВОГНЯНИЙ +1"
+
+#: src/Item.cpp:566
+msgid "Potion of Cold Resistance"
+msgstr "Зілля ХОЛОДНИЙ"
+
+#: src/Item.cpp:567
+msgid "Increases your Cold Res by one."
+msgstr "Збільшує вашу ХОЛОДНИЙ на 1."
+
+#: src/Item.cpp:568
+msgid "COLDRES +1"
+msgstr "ХОЛОДНИЙ +1"
+
+#: src/Item.cpp:571
+msgid "Potion of Lightning Resistance"
+msgstr "Зілля СТРУМ"
+
+#: src/Item.cpp:572
+msgid "Increases your Light Res by one."
+msgstr "Збільшує вашу СТРУМ на 1."
+
+#: src/Item.cpp:573
+msgid "ELECRES +1"
+msgstr "СТРУМ +1"
+
+#: src/Item.cpp:576
+msgid "Potion of Poison Resistance"
+msgstr "Зілля ОТРУТА"
+
+#: src/Item.cpp:577
+msgid "Increases your Poison Res by one."
+msgstr "Збільшує вашу ОТРУТА на 1."
+
+#: src/Item.cpp:578
+msgid "POISRES +1"
+msgstr "ОТРУТА +1"
+
+#: src/Item.cpp:581
+msgid "Potion of Lower Strength"
+msgstr "Зілля Зменшення СИЛ"
+
+#: src/Item.cpp:582
+msgid "Decreases your STR by one."
+msgstr "Зменшує вашу СИЛ на 1."
+
+#: src/Item.cpp:583
+msgid "STR -1"
+msgstr "СИЛ -1"
+
+#: src/Item.cpp:586
+msgid "Potion of Lower Intelligence"
+msgstr "Зілля Зменшення ІНТ"
+
+#: src/Item.cpp:587
+msgid "Decreases your INT by one."
+msgstr "Зменшує вашу ІНТ на 1."
+
+#: src/Item.cpp:588
+msgid "INT -1"
+msgstr "ІНТ -1"
+
+#: src/Item.cpp:591
+msgid "Potion of Lower Dexterity"
+msgstr "Зілля Зменшення ЛОВ"
+
+#: src/Item.cpp:592
+msgid "Decreases your DEX by one."
+msgstr "Зменшує вашу ЛОВ на 1."
+
+#: src/Item.cpp:593
+msgid "DEX -1"
+msgstr "ЛОВ -1"
+
+#: src/Item.cpp:596
+msgid "Potion of Lower Luck"
+msgstr "Зілля Зменшення УДА"
+
+#: src/Item.cpp:597
+msgid "Decreases your LUK by one."
+msgstr "Зменшує вашу УДА на 1."
+
+#: src/Item.cpp:598
+msgid "LUK -1"
+msgstr "УДА -1"
+
+#: src/Item.cpp:601
+msgid "Potion of Lower Vitality"
+msgstr "Зілля Зменшення ВИТ"
+
+#: src/Item.cpp:602
+msgid "Decreases your VIT by one."
+msgstr "Зменшує вашу ВИТ на 1."
+
+#: src/Item.cpp:603
+msgid "VIT -1"
+msgstr "ВИТ -1"
+
+#: src/Item.cpp:606
+msgid "Potion of Lower Fire Resistance"
+msgstr "Зілля Зменшення ВОГНЯНИЙ"
+
+#: src/Item.cpp:607
+msgid "Decreases your Fire Res by one."
+msgstr "Зменшує вашу ВОГНЯНИЙ на 1."
+
+#: src/Item.cpp:608
+msgid "FIRERES -1"
+msgstr "ВОГНЯНИЙ -1"
+
+#: src/Item.cpp:611
+msgid "Potion of Lower Cold Resistance"
+msgstr "Зілля Зменшення ХОЛОДНИЙ"
+
+#: src/Item.cpp:612
+msgid "Decreases your Cold Res by one."
+msgstr "Зменшує вашу ХОЛОДНИЙ на 1."
+
+#: src/Item.cpp:613
+msgid "COLDRES -1"
+msgstr "ХОЛОДНИЙ -1"
+
+#: src/Item.cpp:616
+msgid "Potion of Lower Lightning Resistance"
+msgstr "Зілля Зменшення СТРУМ"
+
+#: src/Item.cpp:617
+msgid "Decreases your Light Res by one."
+msgstr "Зменшує вашу СТРУМ на 1."
+
+#: src/Item.cpp:618
+msgid "ELECRES -1"
+msgstr "СТРУМ -1"
+
+#: src/Item.cpp:621
+msgid "Potion of Lower Poison Resistance"
+msgstr "Зілля Зменшення ОТРУТА"
+
+#: src/Item.cpp:622
+msgid "Decreases your Poison Res by one."
+msgstr "Зменшує вашу ОТРУТА на 1."
+
+#: src/Item.cpp:623
+msgid "POISRES -1"
+msgstr "ОТРУТА -1"
+
+#: src/Item.cpp:627
+msgid "Scroll of Magic Mapping"
+msgstr "Сувій Магічної Картографії"
+
+#: src/Item.cpp:628
+msgid "Reveals the layout of the current level."
+msgstr "Відкриває план поточного рівня."
+
+#: src/Item.cpp:629
+msgid "MAGIC MAPPING"
+msgstr "МАГІЧНА КАРТОГРАФІЯ"
+
+#: src/Item.cpp:632
+msgid "Scroll of Enchant"
+msgstr "Сувій Чарування"
+
+#: src/Item.cpp:633
+msgid "Permanently enchant an item."
+msgstr "Назавжди чарує предмет."
+
+#: src/Item.cpp:634
+msgid "ENCHANT"
+msgstr "ЧАРУВАННЯ"
+
+#: src/Item.cpp:639
+msgid "Scroll of Jump"
+msgstr "Сувій Стрибка"
+
+#: src/Item.cpp:640
+msgid "Imbues the reader with the power to jump incredibly high once."
+msgstr "Дає можливість одного разу стрибнути неймовірно високо."
+
+#: src/Item.cpp:641
+msgid "JUMP"
+msgstr "СТРИБОК"
+
+#: src/Item.cpp:644
+msgid "Scroll of Teleport"
+msgstr "Сувій Телепортації"
+
+#: src/Item.cpp:645
+msgid "Randomly teleport to another location."
+msgstr "Випадково телепортує в інше місце."
+
+#: src/Item.cpp:646
+msgid "TELEPORT"
+msgstr "ТЕЛЕПОРТ"
+
+#: src/Item.cpp:649
+msgid "Scroll of Chaos"
+msgstr "Сувій Хаосу"
+
+#: src/Item.cpp:650
+msgid "Unleashes powerful and unpredictable effects. Dangerous to the unlucky."
+msgstr "Випускає потужні і непередбачувані ефекти. Небезпечно для нещасливих."
+
+#: src/Item.cpp:651
+msgid "CHAOS"
+msgstr "ХАОС"
+
+#: src/Item.cpp:654
+msgid "Scroll of Recharge"
+msgstr "Сувій Перезарядки"
+
+#: src/Item.cpp:655
+msgid "Apply to wands to replenish their magic charges."
+msgstr "Застосовуйте до жезлів для відновлення магічних зарядів."
+
+#: src/Item.cpp:657
+msgid "RECHARGE"
+msgstr "ПЕРЕЗАРЯДКА"
+
+#: src/Item.cpp:660
+msgid "Scroll of Uncurse"
+msgstr "Сувій Зняття Прокляття"
+
+#: src/Item.cpp:661
+msgid "Purifies all currently equipped items."
+msgstr "Очищає всі наразі одягнені предмети."
+
+#: src/Item.cpp:662
+msgid "UNCURSE"
+msgstr "ЗНЯТТЯ ПРОКЛЯТТЯ"
+
+#: src/Item.cpp:665
+msgid "Scroll of Identify"
+msgstr "Сувій Виявлення"
+
+#: src/Item.cpp:666
+msgid "Apply to unidentified items to reveal their secrets."
+msgstr "Застосуйте до невиявлених предметів, щоб розкрити їхні секрети."
+
+#: src/Item.cpp:667
+msgid "IDENTIFY"
+msgstr "ВИЯВЛЕННЯ"
+
+#: src/Item.cpp:672
+msgid "Wooden Club"
+msgstr "Дерев'яна Булава"
+
+#: src/Item.cpp:673
+msgid "It's a stout stick of wood, with nails sticking out of its blunt end."
+msgstr "Це товстий дерев'яний палиця з цвяхами на тупому кінці."
+
+#: src/Item.cpp:677
+msgid "Hammer"
+msgstr "Молот"
+
+#: src/Item.cpp:678
+msgid "A crude hammer, its head fashioned from stone."
+msgstr "Грубий молот із кам'яною головкою."
+
+#: src/Item.cpp:682
+msgid "Flanged Mace"
+msgstr "Флангова Булава"
+
+#: src/Item.cpp:683
+msgid "Not the spicy kind of mace."
+msgstr "Не та гостра булава, про яку ти подумав."
+
+#: src/Item.cpp:687
+msgid "Morning Star"
+msgstr "Сонячна Зірка"
+
+#: src/Item.cpp:688
+msgid "Everything is better with spikes!"
+msgstr "Все стає кращим із шипами!"
+
+#: src/Item.cpp:692
+msgid "War Hammer"
+msgstr "Військовий Молот"
+
+#: src/Item.cpp:693
+msgid "One blow from this would crush even the mightiest of armors."
+msgstr "Один удар здатен розчавити навіть найміцнішу броню."
+
+#: src/Item.cpp:697
+msgid "Bludgeon"
+msgstr "Булава"
+
+#: src/Item.cpp:698
+msgid "VERY difficult to clean..."
+msgstr "Дуже важко чистити..."
+
+#: src/Item.cpp:702
+msgid "Spearheaded Baton"
+msgstr "Булава з Наконечником"
+
+#: src/Item.cpp:703
+msgid "It looks like a spear, but swings like a club!"
+msgstr "Виглядає як спис, але махається як булава!"
+
+#: src/Item.cpp:707
+msgid "Flail"
+msgstr "Флейл"
+
+#: src/Item.cpp:708
+msgid "Difficult to control, but it packs a punch."
+msgstr "Складний у керуванні, але сильний у ударі."
+
+#: src/Item.cpp:712
+msgid "Woodsman's Axe"
+msgstr "Лісорубний Сокира"
+
+#: src/Item.cpp:713
+msgid "Ideal for chopping wood and foes alike."
+msgstr "Ідеальна для рубання дерева та ворогів."
+
+#: src/Item.cpp:717
+msgid "Battle Axe"
+msgstr "Бойова Сокира"
+
+#: src/Item.cpp:718
+msgid "Heavy, yet perfectly balanced."
+msgstr "Важка, але ідеально збалансована."
+
+#: src/Item.cpp:722
+msgid "Lightning Wand"
+msgstr "Жезл Блискавки"
+
+#: src/Item.cpp:723
+msgid "A tool which converts magic charges into electricity.  The device appears to be magically grounded."
+msgstr "Прилад, який перетворює магічні заряди на електрику. Магічно заземлений."
+
+#: src/Item.cpp:728
+msgid "Fire Wand"
+msgstr "Жезл Вогню"
+
+#: src/Item.cpp:729
+msgid "A tool which converts magic charges into balls of fire."
+msgstr "Прилад, що перетворює магічні заряди на кулі вогню."
+
+#: src/Item.cpp:734
+msgid "Ice Wand"
+msgstr "Жезл Льоду"
+
+#: src/Item.cpp:735
+msgid "A tool which converts magic charges into shards of ice."
+msgstr "Прилад, що перетворює магічні заряди на осколки льоду."
+
+#: src/Item.cpp:740
+msgid "Wand of Chaos"
+msgstr "Жезл Хаосу"
+
+#: src/Item.cpp:741
+msgid "A tool which converts magic charges into unpredictable effects. Dangerous to the unlucky."
+msgstr "Прилад, який перетворює магічні заряди на непередбачувані ефекти. Небезпечний для нещасливих."
+
+#: src/Item.cpp:746
+msgid "Wand of Blink"
+msgstr "Жезл Миготіння"
+
+#: src/Item.cpp:747
+msgid "A tool which uses magic charges to teleport the wielder a short distance."
+msgstr "Прилад, що використовує магічні заряди для короткого телепорту користувача."
+
+#: src/Item.cpp:752
+msgid "Wand of Pestilence"
+msgstr "Жезл Мору"
+
+#: src/Item.cpp:753
+msgid "A tool which converts magic charges into particularly foul toxic clouds."
+msgstr "Прилад, що перетворює магічні заряди на особливо отруйні хмари."
+
+#: src/Item.cpp:758
+msgid "Wand of Digging"
+msgstr "Жезл Копання"
+
+#: src/Item.cpp:759
+msgid "A tool which uses magic charges to dismantle terrain."
+msgstr "Прилад, що використовує магічні заряди для руйнування місцевості."
+
+#: src/Item.cpp:764
+msgid "Wand of Healing"
+msgstr "Жезл Зцілення"
+
+#: src/Item.cpp:765
+msgid "A tool which conjures magical healing orbs."
+msgstr "Прилад, який створює магічні сфери зцілення."
+
+#: src/Item.cpp:778
+msgid "Magic Rod"
+msgstr "Магічний Жезл"
+
+#: src/Item.cpp:779
+msgid "A magic weapon that recharges from hitting enemies. Hold attack to use."
+msgstr "Магічна зброя, що заряджається від ударів по ворогах. Утримуйте атаку для використання."
+
+#: src/Item.cpp:784
+msgid "Spacer Rod"
+msgstr "Розширювальний Жезл"
+
+#: src/Item.cpp:785 src/Item.cpp:791
+msgid "A magic weapon that recharges from hitting enemies.  Hold attack to use."
+msgstr "Магічна зброя, що заряджається від ударів по ворогах. Утримуйте атаку для використання."
+
+#: src/Item.cpp:790
+msgid "Wave Rod"
+msgstr "Хвильовий Жезл"
+
+#: src/Item.cpp:796
+msgid "Spear"
+msgstr "Спис"
+
+#: src/Item.cpp:797
+msgid "It's just a knife at the end of a stick."
+msgstr "Це просто ніж на кінці палиці."
+
+#: src/Item.cpp:801
+msgid "Caestus"
+msgstr "Кестус"
+
+#: src/Item.cpp:802
+msgid "Drastically improve effectiveness of your punches."
+msgstr "Суттєво підвищує ефективність ваших ударів."
+
+#: src/Item.cpp:806
+msgid "Claw"
+msgstr "Кігті"
+
+#: src/Item.cpp:807
+msgid "A savage device that rips flesh to shreds."
+msgstr "Жорстокий пристрій, що розриває плоть на шматки."
+
+#: src/Item.cpp:811
+msgid "Qatar"
+msgstr "Катар"
+
+#: src/Item.cpp:812
+msgid "Hand-mounted blade that can be easily concealed."
+msgstr "Лезо, що кріпиться на руку і легко приховується."
+
+#: src/Item.cpp:816
+msgid "Copper Sword"
+msgstr "Мідний Меч"
+
+#: src/Item.cpp:817
+msgid "Not the sharpest edge, but it does its job."
+msgstr "Не надто гострий, але справляється зі своєю роботою."
+
+#: src/Item.cpp:821
+msgid "Steel Sword"
+msgstr "Стальний Меч"
+
+#: src/Item.cpp:822
+msgid "A perfectly balanced steel sword."
+msgstr "Ідеально збалансований стальний меч."
+
+#: src/Item.cpp:826
+msgid "Broad Sword"
+msgstr "Широкий Меч"
+
+#: src/Item.cpp:827
+msgid "A little heavy, but still quite sharp."
+msgstr "Трохи важкий, але все ще гострий."
+
+#: src/Item.cpp:831
+msgid "Dragon Slayer"
+msgstr "Вбивця Драконів"
+
+#: src/Item.cpp:832
+msgid "It's simply TOO BIG."
+msgstr "Він просто ЗАНАДТО ВЕЛИКИЙ."
+
+#: src/Item.cpp:836
+msgid "Bone Sword"
+msgstr "Кістяний Меч"
+
+#: src/Item.cpp:837
+msgid "Its jagged edge is carved from a large creature's bone. It looks well suited to ripping flesh."
+msgstr "Його зубчастий край вирізаний із кістки великої істоти. Ідеально підходить для розривання плоті."
+
+#: src/Item.cpp:841 src/AffinityDagger.cpp:16
+msgid "Dagger"
+msgstr "Кинджал"
+
+#: src/Item.cpp:842
+msgid "Its small size belies its sharp point."
+msgstr "Малий розмір приховує його гострий наконечник."
+
+#: src/Item.cpp:846
+msgid "Baselard"
+msgstr "Базелард"
+
+#: src/Item.cpp:847
+msgid "Its distinctive hilt fits easily in the hands."
+msgstr "Його характерна руків'я зручно лягає в руку."
+
+#: src/Item.cpp:851
+msgid "Glass Blade"
+msgstr "Скляне Лезо"
+
+#: src/Item.cpp:852
+msgid "It has an exceptionally sharp edge."
+msgstr "Має надзвичайно гострий край."
+
+#: src/Item.cpp:856
+msgid "Short Bow"
+msgstr "Короткий Лук"
+
+#: src/Item.cpp:857
+msgid "A bow well-suited to a beginner archer."
+msgstr "Лук, що добре підходить для початківця-лучника."
+
+#: src/Item.cpp:861
+msgid "Longbow"
+msgstr "Довгий Лук"
+
+#: src/Item.cpp:862
+msgid "Strung on the ends of a large piece of yew, this bow requires some strength to pull."
+msgstr "Натягнутий на кінцях великого тиса, цей лук потребує сили для натягування."
+
+#: src/Item.cpp:867
+msgid "Always ready to fire, as long as you reload it after shooting."
+msgstr "Завжди готовий до пострілу, якщо перезаряджати після кожного вистрілу."
+
+#: src/Item.cpp:871
+msgid "Arm Cannon"
+msgstr "Рука-гармата"
+
+#: src/Item.cpp:872
+msgid "Capable of destroying most military-grade biological AI constructs."
+msgstr "Здатний знищувати більшість військових біо-АІ конструкцій."
+
+#: src/Item.cpp:877
+msgid "Bomb"
+msgstr "Бомба"
+
+#: src/Item.cpp:878
+msgid "Packs quite a punch."
+msgstr "Має потужний удар."
+
+#: src/Item.cpp:886
+msgid "It always seems to come back to you.  Sometimes..."
+msgstr "Здається, вона завжди повертається до тебе. Іноді..."
+
+#: src/Item.cpp:890
+msgid "Enchanted Boomerang"
+msgstr "Зачарований Бумеранг"
+
+#: src/Item.cpp:891
+msgid "It always seems to come back to you!"
+msgstr "Здається, він завжди повертається до тебе!"
+
+#: src/Item.cpp:895
+msgid "Snowball"
+msgstr "Сніжка"
+
+#: src/Item.cpp:896
+msgid "Fly straight and true, hit hard and square!"
+msgstr "Летить прямо й точно, б'є сильно та впевнено!"
+
+#: src/Item.cpp:902
+msgid "Throwing Dagger"
+msgstr "Метальний Кинджал"
+
+#: src/Item.cpp:903
+msgid "A short and thin dagger, designed to fly straight when thrown."
+msgstr "Короткий і тонкий кинджал, спроектований для прямого польоту."
+
+#: src/Item.cpp:910
+msgid "Kerchief"
+msgstr "Хустинка"
+
+#: src/Item.cpp:911
+msgid "Whether you wear it around your head or your neck, it offers more in style than protection."
+msgstr "Носиш на голові чи шиї — більше для стилю, ніж для захисту."
+
+#: src/Item.cpp:916
+msgid "Cross Amulet"
+msgstr "Хрестовий Амулет"
+
+#: src/Item.cpp:917
+msgid "Commonly used to ward off evil."
+msgstr "Зазвичай використовується для відлякування зла."
+
+#: src/Item.cpp:922
+msgid "Monster Tooth"
+msgstr "Зуб Монстра"
+
+#: src/Item.cpp:923
+msgid "Careful, it's still sharp."
+msgstr "Обережно, він ще гострий."
+
+#: src/Item.cpp:928
+msgid "Magic Stone"
+msgstr "Чарівний Камінь"
+
+#: src/Item.cpp:929
+msgid "Many adventurers carry one of these for good luck."
+msgstr "Багато мандрівників носять його на удачу."
+
+#: src/Item.cpp:935
+msgid "Compass"
+msgstr "Компас"
+
+#: src/Item.cpp:936
+msgid "An essential tool for every navigator."
+msgstr "Незамінний інструмент для будь-якого навігатора."
+
+#: src/Item.cpp:942
+msgid "Bird Amulet"
+msgstr "Пташиний Амулет"
+
+#: src/Item.cpp:943
+msgid "A tiny figurine of the mythological bird, Aketh."
+msgstr "Маленька фігурка міфічного птаха Акет."
+
+#: src/Item.cpp:949
+msgid "Feather Talisman"
+msgstr "Пір'яний Талісман"
+
+#: src/Item.cpp:950
+msgid "These feathers float as if unaffected by gravity."
+msgstr "Ці пір'я літають, ніби не підкоряючись гравітації."
+
+#: src/Item.cpp:956
+msgid "Scarf"
+msgstr "Шарф"
+
+#: src/Item.cpp:957
+msgid "Not as comfy as the one you left at home, but still quite warm."
+msgstr "Не такий зручний, як вдома, але все ще досить теплий."
+
+#: src/Item.cpp:963
+msgid "Skull Necklace"
+msgstr "Нашийник з Черепів"
+
+#: src/Item.cpp:964
+msgid "Its made of the tiny skulls of various animals."
+msgstr "Зроблений з маленьких черепів різних тварин."
+
+#: src/Item.cpp:970
+msgid "Locket"
+msgstr "Медальйон"
+
+#: src/Item.cpp:971
+msgid "It protects the faded picture of a beautiful red-haired woman."
+msgstr "Захищає вицвілій портрет гарної рудоволосої жінки."
+
+#: src/Item.cpp:977
+msgid "Studded Collar"
+msgstr "Шипований Нашийник"
+
+#: src/Item.cpp:978
+msgid "Perfect for those troubled by the thought of decapitation."
+msgstr "Ідеальний для тих, хто боїться обезголовлення."
+
+#: src/Item.cpp:984
+msgid "Shrunken Head"
+msgstr "Зменшена Голова"
+
+#: src/Item.cpp:985
+msgid "It's impossible to tell whether it was once a man or woman."
+msgstr "Неможливо визначити, чи це була людина чи жінка."
+
+#: src/Item.cpp:992
+msgid "Lion Talisman"
+msgstr "Талісман Лева"
+
+#: src/Item.cpp:993
+msgid "A common symbol carried by all Knights of Kernev."
+msgstr "Поширений символ, що носиться всіма Рицарями Кернева."
+
+#: src/Item.cpp:999
+msgid "Pocket Watch"
+msgstr "Кишеньковий Годинник"
+
+#: src/Item.cpp:1000
+msgid "The seconds hand still moves, but the other parts remain frozen."
+msgstr "Стрілка секунд рухається, інші частини залишаються нерухомими."
+
+#: src/Item.cpp:1006
+msgid "Wise Man's Beard"
+msgstr "Борода Мудреця"
+
+#: src/Item.cpp:1007
+msgid "You're not sure where this came from."
+msgstr "Ти не впевнений, звідки це взялося."
+
+#: src/Item.cpp:1013
+msgid "Scarab"
+msgstr "Скарабей"
+
+#: src/Item.cpp:1014
+msgid "It appears to be made of solid gold."
+msgstr "Схоже, що він зроблений із чистого золота."
+
+#: src/Item.cpp:1020
+msgid "Wooden Helm"
+msgstr "Дерев'яний Шолом"
+
+#: src/Item.cpp:1021
+msgid "Better protection than nothing."
+msgstr "Краще, ніж зовсім без захисту."
+
+#: src/Item.cpp:1026
+msgid "Old Hood"
+msgstr "Старий Капюшон"
+
+#: src/Item.cpp:1027
+msgid "An old, patched, fur-lined hood."
+msgstr "Старий, латаний капюшон з хутряною підкладкою."
+
+#: src/Item.cpp:1032
+msgid "Wizard Hat"
+msgstr "Чарівницький Капелюх"
+
+#: src/Item.cpp:1033
+msgid "Worn by many mages for its magic boosting capabilities."
+msgstr "Носиться багатьма магами для посилення магії."
+
+#: src/Item.cpp:1039
+msgid "Boar Head"
+msgstr "Голова Кабана"
+
+#: src/Item.cpp:1040
+msgid "Made from the head of a common wild boar."
+msgstr "Зроблена з голови звичайного дикого кабана."
+
+#: src/Item.cpp:1045
+msgid "Studded Helm"
+msgstr "Шипований Шолом"
+
+#: src/Item.cpp:1046
+msgid "Large metal studs line the top of this helmet."
+msgstr "Великі металеві шипи по верхівці шолома."
+
+#: src/Item.cpp:1052
+msgid "Vagabond Cap"
+msgstr "Капелюх Бродяги"
+
+#: src/Item.cpp:1053
+msgid "A large traveller's cap."
+msgstr "Великий капелюх мандрівника."
+
+#: src/Item.cpp:1059
+msgid "Bird Mask"
+msgstr "Пташина Маска"
+
+#: src/Item.cpp:1060
+msgid "It magically rests without aid on the bridge of the nose."
+msgstr "Магічно тримається на переніссі без допомоги."
+
+#: src/Item.cpp:1066
+msgid "Roc Head"
+msgstr "Голова Рока"
+
+#: src/Item.cpp:1067
+msgid "Crafted from the head of a giant roc."
+msgstr "Виготовлено з голови гігантського року."
+
+#: src/Item.cpp:1073
+msgid "Great Helm"
+msgstr "Великий Шолом"
+
+#: src/Item.cpp:1074
+msgid "Although quite heavy, there's no better in terms of physical protection."
+msgstr "Хоч важкий, але кращого фізичного захисту немає."
+
+#: src/Item.cpp:1080
+msgid "Flat Cap"
+msgstr "Плоский Капелюх"
+
+#: src/Item.cpp:1081
+msgid "These hats are popular among merchants and traders."
+msgstr "Популярний серед купців та торговців."
+
+#: src/Item.cpp:1087
+msgid "Demon Mask"
+msgstr "Демонична Маска"
+
+#: src/Item.cpp:1088
+msgid "Seeing this demonic visage can instill fear in even the bravest warriors."
+msgstr "Погляд на це демоничне обличчя може налякати навіть відважних воїнів."
+
+#: src/Item.cpp:1094
+msgid "Wolf Head"
+msgstr "Голова Вовка"
+
+#: src/Item.cpp:1095
+msgid "Made from the head of a white dire wolf."
+msgstr "Зроблено з голови білого великого вовка."
+
+#: src/Item.cpp:1101
+msgid "Royal Crown"
+msgstr "Королівська Корона"
+
+#: src/Item.cpp:1102
+msgid "It's lined with the sigils of a kingdom long forgotten."
+msgstr "Встелена символами давно забутого королівства."
+
+#: src/Item.cpp:1109
+msgid "Assassin Hood"
+msgstr "Капюшон Вбивці"
+
+#: src/Item.cpp:1110
+msgid "This deceiving hood's pockets hide small sheets of metal to better protect the head."
+msgstr "Кишені цього оманливого капюшона приховують металеві пластини для кращого захисту голови."
+
+#: src/Item.cpp:1116
+msgid "Lunar Circlet"
+msgstr "Місячний Вінок"
+
+#: src/Item.cpp:1117
+msgid "It gleams unnaturally."
+msgstr "Він світиться неприродно."
+
+#: src/Item.cpp:1124
+msgid "Dragon Head"
+msgstr "Голова Дракона"
+
+#: src/Item.cpp:1125
+msgid "The head of a dragon."
+msgstr "Голова дракона."
+
+#: src/Item.cpp:1131
+msgid "Incomplete Ring"
+msgstr "Неповне Кільце"
+
+#: src/Item.cpp:1132
+msgid "The setting is missing its gemstone."
+msgstr "Вставка не має дорогоцінного каменю."
+
+#: src/Item.cpp:1137
+msgid "Ring"
+msgstr "Кільце"
+
+#: src/Item.cpp:1138
+msgid "A simple ring, set with a common gemstone."
+msgstr "Просте кільце з звичайним каменем."
+
+#: src/Item.cpp:1144
+msgid "Damaged Ring"
+msgstr "Пошкоджене Кільце"
+
+#: src/Item.cpp:1145
+msgid "Part of its stone is chipped."
+msgstr "Частина каменю відколота."
+
+#: src/Item.cpp:1151
+msgid "Gem Studded Ring"
+msgstr "Кільце з Дорогоцінними Каменями"
+
+#: src/Item.cpp:1152
+msgid "It's lined with several smaller gemstones."
+msgstr "Встелене кількома маленькими каменями."
+
+#: src/Item.cpp:1158
+msgid "Wood Ring"
+msgstr "Дерев'яне Кільце"
+
+#: src/Item.cpp:1165
+msgid "Leaf Ring"
+msgstr "Листкове Кільце"
+
+#: src/Item.cpp:1166
+msgid "A tiny bunch of intricately carved leaves adorn this ring."
+msgstr "Маленький пучок витончено вирізаних листків прикрашає це кільце."
+
+#: src/Item.cpp:1172
+msgid "Flower Ring"
+msgstr "Кільце з Квіткою"
+
+#: src/Item.cpp:1173
+msgid "Flowers."
+msgstr "Квіти."
+
+#: src/Item.cpp:1179
+msgid "Sun Ring"
+msgstr "Сонячне Кільце"
+
+#: src/Item.cpp:1180
+msgid "It gleams with yellow light."
+msgstr "Воно світиться жовтим світлом."
+
+#: src/Item.cpp:1186
+msgid "Bone Ring"
+msgstr "Кістяне Кільце"
+
+#: src/Item.cpp:1187
+msgid "A ring adorned with a bone."
+msgstr "Кільце, прикрашене кісткою."
+
+#: src/Item.cpp:1193
+msgid "Skull Ring"
+msgstr "Кільце з Черепом"
+
+#: src/Item.cpp:1194
+msgid "The likeness of a human skull adorns this ring."
+msgstr "На кільці зображено людський череп."
+
+#: src/Item.cpp:1200
+msgid "Star Ring"
+msgstr "Кільце з Зіркою"
+
+#: src/Item.cpp:1201
+msgid "A ring adorned with a star."
+msgstr "Кільце, прикрашене зіркою."
+
+#: src/Item.cpp:1207
+msgid "Shield Ring"
+msgstr "Кільце з Щитом"
+
+#: src/Item.cpp:1208
+msgid "A ring adorned with a shield."
+msgstr "Кільце, прикрашене щитом."
+
+#: src/Item.cpp:1214
+msgid "Mystery Ring"
+msgstr "Таємниче Кільце"
+
+#: src/Item.cpp:1215
+msgid "Who would make such a ring?"
+msgstr "Хто б створив таке кільце?"
+
+#: src/Item.cpp:1220
+msgid "Sword Ring"
+msgstr "Кільце з Мечем"
+
+#: src/Item.cpp:1221
+msgid "A ring adorned with a sword."
+msgstr "Кільце, прикрашене мечем."
+
+#: src/Item.cpp:1227
+msgid "Moon Ring"
+msgstr "Місячне Кільце"
+
+#: src/Item.cpp:1228
+msgid "The symbol of love and justice adorns this ring."
+msgstr "На кільці символ любові та справедливості."
+
+#: src/Item.cpp:1234
+msgid "Eye Ring"
+msgstr "Кільце з Оком"
+
+#: src/Item.cpp:1235
+msgid "The eye on this ring meets your gaze no matter the angle you hold it."
+msgstr "Око на кільці зустрічає твій погляд під будь-яким кутом."
+
+#: src/Item.cpp:1242
+msgid "Breast Plate"
+msgstr "Нагрудник"
+
+#: src/Item.cpp:1243
+msgid "The most basic protection worn by aspiring fighters."
+msgstr "Найпростіший захист для початківців воїнів."
+
+#: src/Item.cpp:1248
+msgid "Traveler's Tunic"
+msgstr "Туніка Мандрівника"
+
+#: src/Item.cpp:1249
+msgid "It's light and comfy, but doesn't offer much protection."
+msgstr "Легка та зручна, але мало захищає."
+
+#: src/Item.cpp:1254
+msgid "Robes"
+msgstr "Роба"
+
+#: src/Item.cpp:1255
+msgid "Loose and flowing robes."
+msgstr "Вільна та легка роба."
+
+#: src/Item.cpp:1260
+msgid "Animal Skin"
+msgstr "Шкіра Тварини"
+
+#: src/Item.cpp:1261
+msgid "The pelt of some unfortunate beast."
+msgstr "Шкура нещасної тварини."
+
+#: src/Item.cpp:1266
+msgid "Reinforced Armor"
+msgstr "Укріплена Броня"
+
+#: src/Item.cpp:1267
+msgid "Metal plates protect the wearer from basic attacks."
+msgstr "Металеві пластини захищають від звичайних атак."
+
+#: src/Item.cpp:1273
+msgid "Ranger Uniform"
+msgstr "Уніформа Рейнджера"
+
+#: src/Item.cpp:1274
+msgid "Designed to hold up even under the harshest of conditions."
+msgstr "Створена, щоб витримати найсуворіші умови."
+
+#: src/Item.cpp:1280
+msgid "Acolyte's Robes"
+msgstr "Роба Послушника"
+
+#: src/Item.cpp:1281
+msgid "The sleeves of these robes have many hidden pockets."
+msgstr "Рукави цієї роби мають багато прихованих кишень."
+
+#: src/Item.cpp:1287
+msgid "Druid Cloak"
+msgstr "Мантия Друїда"
+
+#: src/Item.cpp:1288
+msgid "It's lined with numerous small totems and effigies."
+msgstr "Встелена численними маленькими тотемами та фігурками."
+
+#: src/Item.cpp:1294
+msgid "Full Plate Armor"
+msgstr "Повна Лати"
+
+#: src/Item.cpp:1295
+msgid "Very heavy, but almost indestructible."
+msgstr "Дуже важка, але майже незламна."
+
+#: src/Item.cpp:1301
+msgid "Leather Armor"
+msgstr "Шкіряна Броня"
+
+#: src/Item.cpp:1302
+msgid "The armor of choice for those who value manueverability over pure defense."
+msgstr "Броня для тих, хто цінує маневреність понад захист."
+
+#: src/Item.cpp:1308
+msgid "High Priest's Robes"
+msgstr "Роба Верховного Жерця"
+
+#: src/Item.cpp:1309
+msgid "These robes radiate soft white light."
+msgstr "Роба випромінює м’яке біле світло."
+
+#: src/Item.cpp:1315
+msgid "Berserker's Armor"
+msgstr "Броня Берсеркера"
+
+#: src/Item.cpp:1316
+msgid "This style of armor is famously worn by barbarians of the Northlands."
+msgstr "Цю броню носять відомі варвари Півночі."
+
+#: src/Item.cpp:1323
+msgid "Half Plate"
+msgstr "Напівлата"
+
+#: src/Item.cpp:1324
+msgid "Light, yet protects all the vitals."
+msgstr "Легка, але захищає всі життєво важливі частини."
+
+#: src/Item.cpp:1331
+msgid "Assassin's Leathers"
+msgstr "Шкіряний Одяг Вбивці"
+
+#: src/Item.cpp:1332
+msgid "Masterly crafted with the highest quality hardened leather."
+msgstr "Виготовлений майстерно з високоякісної загартованої шкіри."
+
+#: src/Item.cpp:1338
+msgid "Conjurer's Robes"
+msgstr "Роба Заклинателя"
+
+#: src/Item.cpp:1339
+msgid "Magically weaved to incorporate all the elemental magics."
+msgstr "Магічно виткана, включає всі стихійні магії."
+
+#: src/Item.cpp:1345
+msgid "Gold Plate"
+msgstr "Золота Лата"
+
+#: src/Item.cpp:1346
+msgid "Magically forged gold plates offer faultless protection."
+msgstr "Магічно ковані золоті пластини забезпечують ідеальний захист."
+
+#: src/Item.cpp:1353
+msgid "Page Greaves"
+msgstr "Латні панцирі пажа"
+
+#: src/Item.cpp:1354
+msgid "Even pages need to protect their feet."
+msgstr "Навіть пажам потрібно захищати ноги."
+
+#: src/Item.cpp:1359
+msgid "Peddler Boots"
+msgstr "Чоботи мандрівника"
+
+#: src/Item.cpp:1360
+msgid "Rugged boots perfect for travelers."
+msgstr "Міцні чоботи, ідеальні для подорожей."
+
+#: src/Item.cpp:1366
+msgid "Peasant Shoes"
+msgstr "Селяниські черевики"
+
+#: src/Item.cpp:1367
+msgid "Old, worn out, and a little smelly. But they fit!"
+msgstr "Старі, потерті і трохи смердючі. Але підходять!"
+
+#: src/Item.cpp:1372
+msgid "Fighter Sandals"
+msgstr "Сандалі бійця"
+
+#: src/Item.cpp:1373
+msgid "Not to be worn with socks."
+msgstr "Не носити з шкарпетками."
+
+#: src/Item.cpp:1378
+msgid "Mercenary Greaves"
+msgstr "Латні панцирі найманця"
+
+#: src/Item.cpp:1379
+msgid "Iconic greaves worn by the infamous \"Hawk\" mercenary group."
+msgstr "Знакові панцирі, що носила сумнозвісна група найманців «Яструб»."
+
+#: src/Item.cpp:1385
+msgid "Highwayman Boots"
+msgstr "Чоботи розбійника"
+
+#: src/Item.cpp:1386
+msgid "A necessity for those who need to ride their horse swiftly."
+msgstr "Необхідні для тих, хто швидко скаче верхи."
+
+#: src/Item.cpp:1392
+msgid "Mage Shoes"
+msgstr "Черевики мага"
+
+#: src/Item.cpp:1393
+msgid "They help channel magic, and they're quite comfy too."
+msgstr "Допомагають спрямовувати магію і досить зручні."
+
+#: src/Item.cpp:1399
+msgid "Colosseum Clogs"
+msgstr "Клогери Колізею"
+
+#: src/Item.cpp:1400
+msgid "Gladiators who escape the colosseum often never stop wearing these."
+msgstr "Гладіатори, що втекли з колізею, часто не знімають їх."
+
+#: src/Item.cpp:1406
+msgid "Knight Greaves"
+msgstr "Латні панцирі лицаря"
+
+#: src/Item.cpp:1407
+msgid "You'll be hard-pressed to find better foot protection."
+msgstr "Важко буде знайти кращий захист для ніг."
+
+#: src/Item.cpp:1413
+msgid "Bandit Boots"
+msgstr "Чоботи бандита"
+
+#: src/Item.cpp:1414
+msgid "They hardly make any noise when you walk."
+msgstr "Вони майже не видають звуку під час ходьби."
+
+#: src/Item.cpp:1420
+msgid "Warlock Shoes"
+msgstr "Черевики чаклуна"
+
+#: src/Item.cpp:1421
+msgid "It's lined with the finest spidersilk."
+msgstr "Встелені найтоншим павутинням."
+
+#: src/Item.cpp:1427
+msgid "Savage Sandals"
+msgstr "Сандалі дикаря"
+
+#: src/Item.cpp:1428
+msgid "Reinforced sandals lined with the fur of a dire wolf."
+msgstr "Зміцнені сандалі, вистелені хутром лютих вовків."
+
+#: src/Item.cpp:1434
+msgid "Champion Greaves"
+msgstr "Латні панцирі чемпіона"
+
+#: src/Item.cpp:1435
+msgid "Tempered with a magical gold alloy, these greaves are fit for a true champion."
+msgstr "Загартовані магічним золотим сплавом, ці панцирі гідні справжнього чемпіона."
+
+#: src/Item.cpp:1441
+msgid "Assassin's Boots"
+msgstr "Чоботи асасина"
+
+#: src/Item.cpp:1442
+msgid "These boots hide a small sleeve, perfect for hiding a dagger in."
+msgstr "У цих чоботах є невеликий кишень, ідеальний для прихованого кинджала."
+
+#: src/Item.cpp:1449
+msgid "Witch's Boots"
+msgstr "Чоботи відьми"
+
+#: src/Item.cpp:1450
+msgid "Crafted from magical demon-hide."
+msgstr "Виготовлені з магічної демонської шкіри."
+
+#: src/Item.cpp:1456
+msgid "Dragon Slayer Boots"
+msgstr "Чоботи Драконоборця"
+
+#: src/Item.cpp:1457
+msgid "It fills you with courage and strength."
+msgstr "Дарують мужність і силу."
+
+#: src/Item.cpp:1464
+msgid "Page Gloves"
+msgstr "Рукавиці пажа"
+
+#: src/Item.cpp:1465
+msgid "The leather is falling apart at the seams."
+msgstr "Шкіра розходиться по швах."
+
+#: src/Item.cpp:1470
+msgid "Peddler Mitts"
+msgstr "Рукавиці мандрівника"
+
+#: src/Item.cpp:1471
+msgid "They're warm, but don't offer much else."
+msgstr "Теплі, але більше нічого не пропонують."
+
+#: src/Item.cpp:1477
+msgid "Apprentice Gloves"
+msgstr "Рукавиці учня"
+
+#: src/Item.cpp:1478
+msgid "It bears the sigil of some forgotten mage academy."
+msgstr "Мають печатку забутої академії магії."
+
+#: src/Item.cpp:1483
+msgid "Fighter's Gloves"
+msgstr "Рукавиці бійця"
+
+#: src/Item.cpp:1484
+msgid "They're thickly padded with leather and reinforced with bandages."
+msgstr "Щільно обшиті шкірою і зміцнені бинтами."
+
+#: src/Item.cpp:1489
+msgid "Knight Gauntlets"
+msgstr "Рукавиці лицаря"
+
+#: src/Item.cpp:1490
+msgid "Every knight who wields a sword needs also to protect their hands."
+msgstr "Кожен лицар, що володіє мечем, повинен захищати руки."
+
+#: src/Item.cpp:1496
+msgid "Thief Gloves"
+msgstr "Рукавиці злодія"
+
+#: src/Item.cpp:1497
+msgid "The almost-sticky fingertips of these gloves have incredible grip."
+msgstr "Майже клейкі кінчики пальців цих рукавиць дають неймовірне зчеплення."
+
+#: src/Item.cpp:1503
+msgid "Mystic Gloves"
+msgstr "Містичні рукавиці"
+
+#: src/Item.cpp:1504
+msgid "These gloves are socketed with elemental stones to help channel magic."
+msgstr "У ці рукавиці вставлені елементальні камені для спрямування магії."
+
+#: src/Item.cpp:1510
+msgid "Gladiator Gloves"
+msgstr "Рукавиці гладіатора"
+
+#: src/Item.cpp:1511
+msgid "The thick backplates on these gloves can deflect steel, and even arrows."
+msgstr "Товсті задні пластини цих рукавиць можуть відбивати сталь і навіть стріли."
+
+#: src/Item.cpp:1516
+msgid "Crusader Gloves"
+msgstr "Рукавиці хрестоносця"
+
+#: src/Item.cpp:1517
+msgid "Forged by a master blacksmith, then blessed by a high priest."
+msgstr "Виточені майстром-кузнем, а потім освячені верховним жерцем."
+
+#: src/Item.cpp:1523
+msgid "Rogue Gloves"
+msgstr "Рукавиці розбійника"
+
+#: src/Item.cpp:1524
+msgid "The hidden pocket on these gloves can be used to store lockpicks or a tiny blade."
+msgstr "Схований кишень у цих рукавицях можна використати для відмичок або маленького клинка."
+
+#: src/Item.cpp:1530
+msgid "Voodoo Gloves"
+msgstr "Вуду-рукавиці"
+
+#: src/Item.cpp:1531
+msgid "The eyes on these gloves only blink when their wearer does."
+msgstr "Очі на цих рукавицях моргають лише коли моргає їх власник."
+
+#: src/Item.cpp:1538
+msgid "Savage Gloves"
+msgstr "Дикі рукавиці"
+
+#: src/Item.cpp:1539
+msgid "Crafted from the thick fur of a monstrous yeti."
+msgstr "Виготовлені з товстого хутра гігантського йеті."
+
+#: src/Item.cpp:1545
+msgid "Champion Gauntlets"
+msgstr "Рукавиці чемпіона"
+
+#: src/Item.cpp:1546
+msgid "Despite its age, somehow it gleams as if new."
+msgstr "Незважаючи на вік, сяють, ніби нові."
+
+#: src/Item.cpp:1553
+msgid "Master Thief Gloves"
+msgstr "Рукавиці майстерного злодія"
+
+#: src/Item.cpp:1554
+msgid "Wearing these gloves bestows a supernatural dexterity."
+msgstr "Носіння цих рукавиць надає надприродну спритність."
+
+#: src/Item.cpp:1560
+msgid "Sage Gloves"
+msgstr "Рукавиці мудреця"
+
+#: src/Item.cpp:1561
+msgid "Magic artificers can spend weeks infusing such gloves with magic."
+msgstr "Маги-ремісники можуть тижнями наповнювати ці рукавиці магією."
+
+#: src/Item.cpp:1567
+msgid "Dragon Slayer Gloves"
+msgstr "Рукавиці Драконоборця"
+
+#: src/Item.cpp:1568
+msgid "Inpenetrable protection against the fiercest fires known to man."
+msgstr "Непробивний захист від найжорстокіших відомих людині вогнів."
+
+#: src/Item.cpp:1575
+msgid "Ring of Zygox"
+msgstr "Перстень Зигокса"
+
+#: src/Item.cpp:1576
+msgid "Open your eyes and see your foes for what they are."
+msgstr "Відкрий очі та побач ворогів такими, якими вони є."
+
+#: src/Item.cpp:1586
+msgid "Ring of Elrien"
+msgstr "Перстень Елріена"
+
+#: src/Item.cpp:1587
+msgid "Creates physical after-images."
+msgstr "Створює фізичні послідовні образи."
+
+#: src/Item.cpp:1594
+msgid "Ring of Calatris"
+msgstr "Перстень Калатріса"
+
+#: src/Item.cpp:1595
+msgid "Reflect all incoming projectiles.  It can never be wielded correctly by mortals."
+msgstr "Відбиває всі ворожі снаряди. Смертним ніколи не підкориться правильно."
+
+#: src/Item.cpp:1602
+msgid "Stolen Ring"
+msgstr "Вкрадений перстень"
+
+#: src/Item.cpp:1603
+msgid "You lifted this off of a sleazy merchant in Erifort."
+msgstr "Ти підібрав його у хитрого торговця в Еріфорті."
+
+#: src/Item.cpp:1611
+msgid "Adherent's Ring of the Shackled"
+msgstr "Перстень Прихильника Зачинених"
+
+#: src/Item.cpp:1612
+msgid "This ring was gifted you by a god. Wearing cursed equipment empowers you."
+msgstr "Цей перстень подарував тобі бог. Носіння проклятого спорядження надає сили."
+
+#: src/Item.cpp:1621
+msgid "Ring of Seltioc"
+msgstr "Перстень Сельтіока"
+
+#: src/Item.cpp:1622
+msgid "Only a strong mind can grasp the power of this ring."
+msgstr "Лише сильний розум може осягнути силу цього персня."
+
+#: src/Item.cpp:1631
+msgid "Heirloom Ring"
+msgstr "Сімейний перстень"
+
+#: src/Item.cpp:1632
+msgid "Your grandfather gave you this ring before he passed away."
+msgstr "Дідусь подарував тобі цей перстень перед смертю."
+
+#: src/Item.cpp:1640
+msgid "Grappling Hook"
+msgstr "Крюк-кішка"
+
+#: src/Item.cpp:1641
+msgid "A crossbow specially modified to launch a chain and hook. Hold up and range attack to use."
+msgstr "Арбалет спеціально модифікований для запуску ланцюга з крюком. Натисни вгору та атакуй здалеку, щоб використати."
+
+#: src/Item.cpp:1649
+msgid "Pet Whistle"
+msgstr "Свисток для вихованця"
+
+#: src/Item.cpp:1650
+msgid "Hold Up and Interact to use. Whistle once to summon your companion, twice to order them to wait."
+msgstr "Тримай вгору та взаємодій, щоб використати. Один раз свистни, щоб покликати супутника, двічі — щоб наказати чекати."
+
+#: src/Item.cpp:1659
+msgid "Magic Quiver"
+msgstr "Магічний колчан"
+
+#: src/Item.cpp:1660
+msgid "This mysterious item never runs out of arrows if it is powered by enough mana."
+msgstr "Цей таємничий предмет ніколи не вичерпується зі стрілами, якщо його живить достатньо мани."
+
+#: src/Item.cpp:1668
+msgid "Blink Dagger"
+msgstr "Кинджал телепортації"
+
+#: src/Item.cpp:1669
+msgid "If you stare into the blade, you can see a distant place."
+msgstr "Якщо дивитись у лезо, можна побачити віддалене місце."
+
+#: src/Item.cpp:1677
+msgid "Thunder God's Hammer"
+msgstr "Молот Бога Грому"
+
+#: src/Item.cpp:1678
+msgid "Only a god can wield it correctly."
+msgstr "Тільки бог може ним правильно володіти."
+
+#: src/Item.cpp:1696
+msgid "Pork Chop"
+msgstr "Свиняча відбивна"
+
+#: src/Item.cpp:1697
+msgid "What's the worst that could happen?!"
+msgstr "Що найгірше може статися?!"
+
+#: src/Item.cpp:1706 src/Item.cpp:1715 src/Item.cpp:1724 src/Item.cpp:1733
+msgid "Rune Orb"
+msgstr "Руничний кристал"
+
+#: src/Item.cpp:1707 src/Item.cpp:1716 src/Item.cpp:1725 src/Item.cpp:1734
+msgid "It's inscribed with pulsing magic runes."
+msgstr "На ньому вирізані пульсуючі магічні руни."
+
+#: src/Item.cpp:1742
+msgid "Backpack"
+msgstr "Рюкзак"
+
+#: src/Item.cpp:1743
+msgid "The belongings of an unfortunate traveler."
+msgstr "Речі нещасного мандрівника."
+
+#: src/Item.cpp:1749
+msgid "Shopkeeper's Stash"
+msgstr "Схованка крамаря"
+
+#: src/Item.cpp:1750
+msgid "It has to have SOMETHING valuable in it!..."
+msgstr "Тут має бути щось цінне!..."
+
+#: src/Item.cpp:1756
+msgid "Roasted Chicken"
+msgstr "Смажений півень"
+
+#: src/Item.cpp:1757
+msgid "Organic, Cage-free, Dungeon Raised Grade A Chicken."
+msgstr "Органічна, вільна, вирощена у підземеллі курка класу А."
+
+#: src/Item.cpp:1763
+msgid "Rotten Chicken"
+msgstr "Гнила курка"
+
+#: src/Item.cpp:1764
+msgid "Check the expiration date."
+msgstr "Перевір термін придатності."
+
+#: src/Item.cpp:1770
+msgid "Cooked Eye"
+msgstr "Приготоване око"
+
+#: src/Item.cpp:1771
+msgid "Juicy like a grape."
+msgstr "Соковите, як виноград."
+
+#: src/Item.cpp:1777
+msgid "Sashimi"
+msgstr "Сашимі"
+
+#: src/Item.cpp:1778
+msgid "Serve with soy sauce."
+msgstr "Подавайте з соєвим соусом."
+
+#: src/Item.cpp:1784
+msgid "Cooked Rat"
+msgstr "Приготований щур"
+
+#: src/Item.cpp:1785
+msgid "Rat on a stick."
+msgstr "Щур на паличці."
+
+#: src/Item.cpp:1791
+msgid "Candy"
+msgstr "Цукерка"
+
+#: src/Item.cpp:1792
+msgid "Pure sugar goodness."
+msgstr "Чиста цукрова насолода."
+
+#: src/Item.cpp:1798
+msgid "Sack of Loot"
+msgstr "Мішок здобичі"
+
+#: src/Item.cpp:1799
+msgid "It could contain *anything*."
+msgstr "Тут може бути *будь-що*."
+
+#: src/Item.cpp:1805
+msgid "Unarmed"
+msgstr "Без зброї"
+
+#: src/Item.cpp:1890
+msgid "This doesn't belong to you!.. Thief!!!"
+msgstr "Це тобі не належить!.. Злодію!!!"
+
+#: src/Item.cpp:4453
+msgid "unidentified"
+msgstr "невідомо"
+
+#: src/Item.cpp:4458
+msgid "99 Damage On Explosion"
+msgstr "99 ушкоджень при вибуху"
+
+#: src/Item.cpp:4462
+msgid "Deals 0 Damage"
+msgstr "Завдає 0 ушкоджень"
+
+#: src/Item.cpp:4470
+msgctxt "3-7 Damage"
+msgid "{1}-{2} Damage"
+msgstr "{1}-{2} ушкоджень"
+
+#: src/Item.cpp:4485
+msgid "Charges"
+msgstr "Заряджання"
+
+#: src/Item.cpp:4509
+msgid "Vorpal Attack Speed"
+msgstr "Швидкість удару Ворпала"
+
+#: src/Item.cpp:4513
+msgid "Very Fast Attack Speed"
+msgstr "Дуже швидка атака"
+
+#: src/Item.cpp:4517
+msgid "Fast Attack Speed"
+msgstr "Швидка атака"
+
+#: src/Item.cpp:4521
+msgid "Normal Attack Speed"
+msgstr "Звичайна швидкість атаки"
+
+#: src/Item.cpp:4525
+msgid "Slow Attack Speed"
+msgstr "Повільна атака"
+
+#: src/Item.cpp:4529
+msgid "Very Slow Attack Speed"
+msgstr "Дуже повільна атака"
+
+#: src/Item.cpp:4626
+msgid "God Cursed!"
+msgstr "Боже проклятий!"
+
+#: src/Item.cpp:4630
+msgid "Cursed!"
+msgstr "Проклятий!"
+
+#: src/Item.cpp:4638
+msgid "Stolen"
+msgstr "Вкрадено"
+
+#: src/Item.cpp:4851
+msgctxt "item name order 1(prefix) 2(base item name) 3(suffix)"
+msgid "{1} {2} {3}"
+msgstr "{1} {2} {3}"
+
+#: src/Item.cpp:4855
+msgctxt "item name order 1(prefix) 2(base item name)"
+msgid "{1} {2}"
+msgstr "{1} {2}"
+
+#: src/Item.cpp:4859
+msgctxt "item name order 1(base item name) 2(suffix)"
+msgid "{1} {2}"
+msgstr "{1} {2}"
+
+#: src/AffinityPetUtility.cpp:12
+msgid "Pet Utility"
+msgstr "Супутник"
+
+#: src/AffinityPetUtility.cpp:13
+msgid "Loud Bark"
+msgstr "Гучний гавкіт"
+
+#: src/AffinityPetUtility.cpp:13
+msgid "Your pet's barks are more effective."
+msgstr "Гавкіт вашого вихованця ефективніший."
+
+#: src/AffinityPetUtility.cpp:14
+msgid "Unceasing Din"
+msgstr "Безперервний галас"
+
+#: src/AffinityPetUtility.cpp:14
+msgid "Your pet can bark more often."
+msgstr "Вихованець може гавкати частіше."
+
+#: src/AffinityPetUtility.cpp:15
+msgid "Noisy Passenger"
+msgstr "Гучний пасажир"
+
+#: src/AffinityPetUtility.cpp:15
+msgid "Your pet can bark at enemies while carried."
+msgstr "Вихованець може гавкати на ворогів, поки його несуть."
+
+#: src/AffinityPetUtility.cpp:16
+msgid "Bouncy Missile"
+msgstr "Стрибучий снаряд"
+
+#: src/AffinityPetUtility.cpp:16
+msgid "Your pet bounces when thrown."
+msgstr "Вихованець стрибає, коли його кидають."
+
+#: src/AffinitySword.cpp:13
+msgid "Sword"
+msgstr "Меч"
+
+#: src/AffinitySword.cpp:14
+msgid "Sword Dance"
+msgstr "Мечовий танець"
+
+#: src/AffinitySword.cpp:14
+msgid "Slide backwards or forwards while stabbing. Hitting an enemy while sliding deals extra damage."
+msgstr "Ковзай вперед або назад під час удару. Влучання по ворогу під час ковзання завдає додаткових ушкоджень."
+
+#: src/AffinitySword.cpp:15
+msgid "Omnistab"
+msgstr "Універсальний удар"
+
+#: src/AffinitySword.cpp:15
+msgid "Hold down and attack while falling for a falling attack. Hold up and attack to do a weaker overhead slash."
+msgstr "Тримай натиснутим і атакуй під час падіння для удару з висоти. Натисни вгору та атакуй для слабшого верхнього удару."
+
+#: src/AffinitySword.cpp:16
+msgid "Power Attack"
+msgstr "Сильний удар"
+
+#: src/AffinitySword.cpp:16
+msgid "Hold your attack button to gather strength."
+msgstr "Тримай кнопку атаки, щоб накопичити силу."
+
+#: src/AffinitySword.cpp:17
+msgid "Quick Draw"
+msgstr "Швидке витягнення"
+
+#: src/AffinitySword.cpp:17
+msgid "Hone your dexterity.  Draw your sword faster than the enemy can react."
+msgstr "Вдосконалюй спритність. Витягуй меч швидше, ніж ворог встигне відреагувати."
+
+#: src/AffinitySword.cpp:18
+msgid "Sword Spin"
+msgstr "Обертання меча"
+
+#: src/AffinitySword.cpp:18
+msgid "Move left or right while holding down in the air to perform a powerful sword spin attack."
+msgstr "Рухайся вліво або вправо, тримаючи вниз у повітрі, щоб виконати потужний обертальний удар мечем."
+
+#: src/Credits.cpp:656
+msgid "PROGRAMMING"
+msgstr "ПРОГРАМУВАННЯ"
+
+#: src/Credits.cpp:707
+msgid "GRAPHICS"
+msgstr "ГРАФІКА"
+
+#: src/Credits.cpp:756
+msgid "MUSIC & SOUND"
+msgstr "МУЗИКА ТА ЗВУК"
+
+#: src/Credits.cpp:813
+msgid "SPECIAL THANKS"
+msgstr "ОСОБЛИВА ПОДЯКА"
+
+#: src/Credits.cpp:818
+msgid "Our friends and family..."
+msgstr "Нашим друзям та родині…"
+
+#: src/Credits.cpp:823
+msgid "Everyone who supported us during Early Access..."
+msgstr "Усім, хто підтримував нас під час Раннього Доступу…"
+
+#: src/Credits.cpp:828
+msgid "And YOU!"
+msgstr "І ТОБІ!"
+
+#: src/Credits.cpp:836
+msgid "THE END"
+msgstr "КІНЕЦЬ"
+
+#: src/Skill.cpp:55
+msgid "Dash a short distance."
+msgstr "Ривок на коротку відстань."
+
+#: src/Skill.cpp:64
+msgid "Temporarily gain a shield of fire that reduces damage and burns attackers."
+msgstr "Тимчасово отримуй вогняний щит, що зменшує ушкодження та обпалює атакуючих."
+
+#: src/Skill.cpp:74
+msgid "Exert a mysterious force on surrounding entities."
+msgstr "Застосуй таємничу силу до оточуючих об'єктів."
+
+#: src/Skill.cpp:83
+msgid "Create a portal, or teleport to an existing one."
+msgstr "Створи портал або телепортуйся до існуючого."
+
+#: src/Skill.cpp:94
+msgid "Instantly teleport to a new location."
+msgstr "Миттєво телепортуйся на нове місце."
+
+#: src/Skill.cpp:104
+msgid "Create Potion"
+msgstr "Зварити зілля"
+
+#: src/Skill.cpp:105
+msgid "Create a new random potion."
+msgstr "Створи нове випадкове зілля."
+
+#: src/Skill.cpp:112
+msgid "Throw Potion"
+msgstr "Кинути зілля"
+
+#: src/Skill.cpp:113
+msgid "Throw the first potion in your inventory."
+msgstr "Кинь перше зілля з інвентарю."
+
+#: src/Skill.cpp:119
+msgid "Toss a ball of incredibly cold magic."
+msgstr "Кинь кулю надзвичайно холодної магії."
+
+#: src/Skill.cpp:131
+msgid "Launch a burning mass of destruction."
+msgstr "Запусти палаючу масу руйнування."
+
+#: src/Skill.cpp:141
+msgid "Charm a target enemy."
+msgstr "Очаруй цільового ворога."
+
+#: src/Skill.cpp:152
+msgid "Summon a friendly monster that will attack enemies."
+msgstr "Заклич дружнього монстра, який атакуватиме ворогів."
+
+#: src/Skill.cpp:161
+msgid "Summon the power of storms upon your enemies."
+msgstr "Заклич силу бурі на ворогів."
+
+#: src/Skill.cpp:174
+msgid "Powerful electricity will arc to multiple enemies."
+msgstr "Потужна електрика вразить кількох ворогів."
+
+#: src/Skill.cpp:187
+msgid "Summon spirits to protect you."
+msgstr "Заклич духів для свого захисту."
+
+#: src/Skill.cpp:197
+msgid "Cast a homing physical attack."
+msgstr "Виконай керовану фізичну атаку."
+
+#: src/Skill.cpp:211
+msgid "Manipulate certain objects with your mind, then toss them at your foes."
+msgstr "Маніпулюй певними об'єктами розумом і кидай їх у ворогів."
+
+#: src/Skill.cpp:221
+msgid "Launch an earth-trembling wave of destruction."
+msgstr "Запусти землетрусаючу хвилю руйнування."
+
+#: src/Skill.cpp:233
+msgid "Release an otherworldly burst of cold flame."
+msgstr "Вивільни потойбічний спалах холодного вогню."
+
+#: src/Skill.cpp:247
+msgid "Summon a circle of light that heals allies and damages enemies."
+msgstr "Заклич коло світла, що лікує союзників та шкодить ворогам."
+
+#: src/Skill.cpp:258
+msgid "Thrust with powerful photonic energies."
+msgstr "Штовхни потужними фотонними енергіями."
+
+#: src/Skill.cpp:269
+msgid "Deep-freeze your surroundings."
+msgstr "Заморозь навколишнє середовище."
+
+#: src/Skill.cpp:279
+msgid "Call forth a raging inferno before you."
+msgstr "Заклич бушуюче пекло попереду."
+
+#: src/Skill.cpp:289
+msgid "A forbidden technique developed by cursed immortal beings."
+msgstr "Заборонена техніка, створена проклятими безсмертними істотами."
+
+#: src/Skill.cpp:301
+msgid "Sheath your body in a holy shield of invulnerability."
+msgstr "Огорни своє тіло святим щитом невразливості."
+
+#: src/Skill.cpp:310
+msgid "Attack with holy light."
+msgstr "Атакуй святим світлом."
+
+#: src/Skill.cpp:319
+msgid "Throw a bone."
+msgstr "Кинь кістку."
+
+#: src/Skill.cpp:327
+msgid "Raise shards of ice from the ground."
+msgstr "Підніми уламки льоду з землі."
+
+#: src/Skill.cpp:335
+msgid "Ignite flammable elements."
+msgstr "Запали легкозаймисті елементи."
+
+#: src/Skill.cpp:344
+msgid "Whistle for your companion."
+msgstr "Свистни, щоб покликати супутника."
+
+#: src/Skill.cpp:387
+msgid "Dash"
+msgstr "Ривок"
+
+#: src/Skill.cpp:388 src/StatusEffect.cpp:145
+msgid "Fire Shield"
+msgstr "Вогняний щит"
+
+#: src/Skill.cpp:389
+msgid "Psychic Push"
+msgstr "Психічний поштовх"
+
+#: src/Skill.cpp:390
+msgid "Portal"
+msgstr "Портал"
+
+#: src/Skill.cpp:391
+msgid "Iceball"
+msgstr "Крижана куля"
+
+#: src/Skill.cpp:392
+msgid "Fireball"
+msgstr "Вогняна куля"
+
+#: src/Skill.cpp:393
+msgid "Charm"
+msgstr "Очарування"
+
+#: src/Skill.cpp:394
+msgid "Summon Monster"
+msgstr "Заклик монстра"
+
+#: src/Skill.cpp:395
+msgid "Lightning"
+msgstr "Блискавка"
+
+#: src/Skill.cpp:396
+msgid "Chain Lightning"
+msgstr "Ланцюгова блискавка"
+
+#: src/Skill.cpp:397
+msgid "Spirits"
+msgstr "Духи"
+
+#: src/Skill.cpp:398 src/ItemAttribute.cpp:679
+msgid "Blink"
+msgstr "Телепорт"
+
+#: src/Skill.cpp:399
+msgid "Magic Missile"
+msgstr "Магічна ракета"
+
+#: src/Skill.cpp:400
+msgid "Telekinesis"
+msgstr "Телекинез"
+
+#: src/Skill.cpp:401
+msgid "Shockwave"
+msgstr "Ударна хвиля"
+
+#: src/Skill.cpp:402
+msgid "Blue Firebolt"
+msgstr "Блакитний вогняний болт"
+
+#: src/Skill.cpp:403
+msgid "Circle of Light"
+msgstr "Коло світла"
+
+#: src/Skill.cpp:404
+msgid "Eleclance"
+msgstr "Електрична стріла"
+
+#: src/Skill.cpp:405
+msgid "Frost Nova"
+msgstr "Крижана нова"
+
+#: src/Skill.cpp:406
+msgid "Flame Pillar"
+msgstr "Вогняний стовп"
+
+#: src/Skill.cpp:407 src/StatusEffect.cpp:169
+msgid "Evil Transformation"
+msgstr "Зла трансформація"
+
+#: src/Skill.cpp:408
+msgid "Ice Spire"
+msgstr "Крижаний шпиль"
+
+#: src/Skill.cpp:409
+msgid "Flare Nova"
+msgstr "Спалах нова"
+
+#: src/Skill.cpp:410
+msgid "Holy Shield"
+msgstr "Святий щит"
+
+#: src/Skill.cpp:411
+msgid "Divine Weapon"
+msgstr "Божественна зброя"
+
+#: src/Skill.cpp:412
+msgid "Throw Bone"
+msgstr "Кинути кістку"
+
+#: src/Skill.cpp:413
+msgid "Whistle"
+msgstr "Свист"
+
+#: src/Skill.cpp:513
+msgctxt "Skill book name"
+msgid "Book of {1}"
+msgstr "Книга {1}"
+
+#: src/Skill.cpp:523
+msgid "Level: {1}"
+msgstr "Рівень: {1}"
+
+#: src/PlayerCustomizer.cpp:217
+msgid "Weathered"
+msgstr "Зношений"
+
+#: src/PlayerCustomizer.cpp:232
+msgid "Enchanted"
+msgstr "Зачарований"
+
+#: src/PlayerCustomizer.cpp:274
+msgid "Elemental"
+msgstr "Елементальний"
+
+#: src/PlayerCustomizer.cpp:282 src/ItemAttribute.cpp:426
+msgid "Heavy"
+msgstr "Тяжкий"
+
+#: src/PlayerCustomizer.cpp:316
+msgid "Charred"
+msgstr "Обпечений"
+
+#: src/AffinityDagger.cpp:17
+msgid "Anatomy Studies"
+msgstr "Вивчення анатомії"
+
+#: src/AffinityDagger.cpp:17
+msgid "Increased dagger damage and critical chance."
+msgstr "Збільшує шкоду кинджалом та шанс критичного удару."
+
+#: src/AffinityDagger.cpp:18
+msgid "Dagger Tricks"
+msgstr "Фокуси з кинджалом"
+
+#: src/AffinityDagger.cpp:18
+msgid "Hold up and attack to throw your dagger. Thrown daggers will return to their owner."
+msgstr "Тримай вгору і атакуй, щоб кинути кинджал. Кинджали повертаються до власника."
+
+#: src/AffinityDagger.cpp:19
+msgid "Dagger Mastery"
+msgstr "Майстерність кинджала"
+
+#: src/AffinityDagger.cpp:19
+msgid "Thrown daggers strike twice."
+msgstr "Кинджали влучають двічі."
+
+#: src/AffinityDemon.cpp:18
+msgid "Familiar 1"
+msgstr "Супутник 1"
+
+#: src/AffinityDemon.cpp:18
+msgid ""
+"Gain a weak demonic familiar.\n"
+"Increases mana regen."
+msgstr ""
+"Отримуєш слабкого демонічного супутника.\n"
+"Збільшує реген мани."
+
+#: src/AffinityDemon.cpp:19
+msgid "Familiar 2"
+msgstr "Супутник 2"
+
+#: src/AffinityDemon.cpp:19
+msgid ""
+"Gain a lesser demonic familiar.\n"
+"Familiar sometimes attacks enemies."
+msgstr ""
+"Отримуєш менше сильного демонічного супутника.\n"
+"Супутник інколи атакує ворогів."
+
+#: src/AffinityDemon.cpp:20
+msgid "Familiar 3"
+msgstr "Супутник 3"
+
+#: src/AffinityDemon.cpp:20
+msgid ""
+"Gain a greater demonic familiar.\n"
+"Familiar's damage increased."
+msgstr ""
+"Отримуєш сильного демонічного супутника.\n"
+"Шкода супутника збільшена."
+
+#: src/ConfigGui.cpp:109
+msgid "Settings"
+msgstr "Налаштування"
+
+#: src/ConfigGui.cpp:110
+msgid "Controls"
+msgstr "Керування"
+
+#: src/ConfigGui.cpp:111 src/ProgressionGui.cpp:867
+msgid "Unlocks"
+msgstr "Розблокування"
+
+#: src/ConfigGui.cpp:112
+msgid "View Credits"
+msgstr "Переглянути титри"
+
+#: src/ConfigGui.cpp:114
+msgid "Exit"
+msgstr "Вийти"
+
+#: src/ConfigGui.cpp:116
+msgid "Return"
+msgstr "Повернутися"
+
+#: src/ConfigGui.cpp:122 src/MainMenu.cpp:141
+msgid "Exit Game"
+msgstr "Вийти з гри"
+
+#: src/ConfigGui.cpp:123 src/ConfigGui.cpp:1893
+msgid "Exit to Main Menu"
+msgstr "Вийти в головне меню"
+
+#: src/ConfigGui.cpp:125 src/NetMenu.cpp:158
+msgid "Cancel"
+msgstr "Скасувати"
+
+#: src/ConfigGui.cpp:188
+msgid "Music Volume"
+msgstr "Гучність музики"
+
+#: src/ConfigGui.cpp:190
+msgid "Effects Volume"
+msgstr "Гучність ефектів"
+
+#: src/ConfigGui.cpp:192
+msgid "Gamma Correction"
+msgstr "Корекція гами"
+
+#: src/ConfigGui.cpp:195
+msgid "Zoom"
+msgstr "Зум"
+
+#: src/ConfigGui.cpp:197
+msgid "Minimap Scale"
+msgstr "Масштаб мінімапи"
+
+#: src/ConfigGui.cpp:204
+msgid "Particles"
+msgstr "Частинки"
+
+#: src/ConfigGui.cpp:205
+msgid "Load from Archive"
+msgstr "Завантажити з архіву"
+
+#: src/ConfigGui.cpp:213
+msgid "Fullscreen"
+msgstr "Повноекранний режим"
+
+#: src/ConfigGui.cpp:222
+msgid "Enable Shader"
+msgstr "Увімкнути шейдер"
+
+#: src/ConfigGui.cpp:229
+msgid "Use Vertex Arrays"
+msgstr "Використовувати масиви вершин"
+
+#: src/ConfigGui.cpp:231
+msgid "Enable Vertical Sync"
+msgstr "Увімкнути вертикальну синхронізацію"
+
+#: src/ConfigGui.cpp:233
+msgid "Menu Tooltips"
+msgstr "Підказки меню"
+
+#: src/ConfigGui.cpp:235
+msgid "In-Game Tooltips"
+msgstr "Підказки в грі"
+
+#: src/ConfigGui.cpp:237
+msgid "Show Debug Info"
+msgstr "Показати відладкову інформацію"
+
+#: src/ConfigGui.cpp:240
+msgid "Cumulative Combat Numbers"
+msgstr "Сумарні бойові показники"
+
+#: src/ConfigGui.cpp:244
+msgid "Show Network Information"
+msgstr "Показати інформацію мережі"
+
+#: src/ConfigGui.cpp:246
+msgid "Pixel-perfect Scaling"
+msgstr "Масштабування до пікселя"
+
+#: src/ConfigGui.cpp:249
+msgid "DirectInput Support"
+msgstr "Підтримка DirectInput"
+
+#: src/ConfigGui.cpp:258
+msgctxt "Back to the previous menu"
+msgid "Back"
+msgstr "Назад"
+
+#: src/ConfigGui.cpp:262
+msgid "Warning: Enabling shader may cause issues on some machines."
+msgstr "Увага: увімкнення шейдера може викликати проблеми на деяких комп'ютерах."
+
+#: src/ConfigGui.cpp:285
+msgctxt "Player 1"
+msgid "Player {1}"
+msgstr "Гравець {1}"
+
+#: src/ConfigGui.cpp:295
+msgid "Load Preset"
+msgstr "Завантажити профіль"
+
+#: src/ConfigGui.cpp:296 src/ConfigGui.cpp:1791 src/ConfigGui.cpp:1808
+msgid "Rebind All"
+msgstr "Перепризначити всі клавіші"
+
+#: src/ConfigGui.cpp:306
+msgid "  Player Enabled"
+msgstr "  Гравець активний"
+
+#: src/ConfigGui.cpp:312
+msgid "Input Devices"
+msgstr "Пристрої вводу"
+
+#: src/ConfigGui.cpp:954
+msgid "Really Exit?"
+msgstr "Дійсно вийти?"
+
+#: src/ConfigGui.cpp:958
+msgid "PAUSED"
+msgstr "ПАУЗА"
+
+#: src/ConfigGui.cpp:962
+msgid "OPTIONS"
+msgstr "НАЛАШТУВАННЯ"
+
+#: src/ConfigGui.cpp:968
+msgctxt "Player 1 Controls"
+msgid "Player {1} Controls"
+msgstr "Керування гравця {1}"
+
+#: src/ConfigGui.cpp:1720
+msgid "Gamepad Presets"
+msgstr "Профілі геймпада"
+
+#: src/ConfigGui.cpp:1724
+msgid "Keyboard Presets"
+msgstr "Профілі клавіатури"
+
+#: src/ConfigGui.cpp:1803
+msgid "Rebind Steam"
+msgstr "Перепризначити Steam"
+
+#: src/ConfigGui.cpp:1907
+msgid "Disconnect from Game"
+msgstr "Повернутись до лоббі"
+
+#: src/ConfigGui.cpp:1917
+msgid "Exit to Character Select"
+msgstr "Вийти до вибору персонажа"
+
+#: src/AffinityHoly.cpp:13 src/ItemAttribute.cpp:387
+msgid "Holy"
+msgstr "Святий"
+
+#: src/AffinityHoly.cpp:14
+msgid "Angelic Wings"
+msgstr "Ангельські крила"
+
+#: src/AffinityHoly.cpp:14
+msgid "Take no damage from falling."
+msgstr "Не отримуєш шкоди від падіння."
+
+#: src/AffinityHoly.cpp:15
+msgctxt "holy affinity"
+msgid "Divine Weapon"
+msgstr "Божественна зброя"
+
+#: src/AffinityHoly.cpp:15
+msgid "Swinging your weapon after damaging enemies manifests holy light."
+msgstr "Замахнувшись зброєю після ушкодження ворогів, випромінюється святий світло."
+
+#: src/AffinityHoly.cpp:17
+msgctxt "holy affinity"
+msgid "Holy Shield"
+msgstr "Святий щит"
+
+#: src/AffinityHoly.cpp:17
+msgid "Stored Divine Weapon charges give bonus defense against elemental damage."
+msgstr "Збережені заряди Божественної зброї дають бонус до захисту від стихійних ушкоджень."
+
+#: src/AffinityHoly.cpp:18
+msgid "Second Chance"
+msgstr "Другий шанс"
+
+#: src/AffinityHoly.cpp:18
+msgid "Negate fatal damage once per floor."
+msgstr "Раз на поверх уникнути смертельної шкоди."
+
+#: src/Level.cpp:6596
+msgid "Tutorial"
+msgstr "Підручник"
+
+#: src/Level.cpp:6608
+msgid "Dark Cavern {1}"
+msgstr "Темна печера {1}"
+
+#: src/Level.cpp:6612
+msgid "Dark Caves {1}"
+msgstr "Темні печери {1}"
+
+#: src/Level.cpp:6619
+msgid "Wilderness {1}"
+msgstr "Дика місцевість {1}"
+
+#: src/Level.cpp:6623
+msgid "Forest {1}"
+msgstr "Ліс {1}"
+
+#: src/Level.cpp:6630
+msgid "Crypts {1}"
+msgstr "Крипти {1}"
+
+#: src/Level.cpp:6634
+msgid "Catacombs {1}"
+msgstr "Катакомби {1}"
+
+#: src/Level.cpp:6641
+msgid "Plane of Despair {1}"
+msgstr "Площина відчаю {1}"
+
+#: src/Level.cpp:6645
+msgid "Rift {1}"
+msgstr "Розлом {1}"
+
+#: src/Level.cpp:6651
+msgid "Corrupted Temple"
+msgstr "Зіпсований храм"
+
+#: src/Level.cpp:6655
+msgid "The Ruins"
+msgstr "Руїни"
+
+#: src/Level.cpp:6661
+msgid "Halls of Blood"
+msgstr "Зали крові"
+
+#: src/Level.cpp:6665
+msgid "Forest Temple"
+msgstr "Лісовий храм"
+
+#: src/Level.cpp:6672
+msgid "Corrupted Tower"
+msgstr "Зіпсована вежа"
+
+#: src/Level.cpp:6676
+msgid "The Tower"
+msgstr "Вежа"
+
+#: src/Level.cpp:6683
+msgid "The Workshop"
+msgstr "Майстерня"
+
+#: src/Level.cpp:6687
+msgid "The Factory"
+msgstr "Фабрика"
+
+#: src/SecretsBook.cpp:119
+msgid "Book of Secrets"
+msgstr "Книга Таємниць"
+
+#: src/SecretsBook.cpp:154 src/ProgressionGui.cpp:606
+msgid "LOCKED"
+msgstr "ЗАБЛОКОВАНО"
+
+#: src/PlayerMenu.cpp:391
+msgctxt "Tooltip, button sprite is drawn after 'Press'"
+msgid "Press"
+msgstr "Натисни"
+
+#: src/PlayerMenu.cpp:1123 src/PlayerMenu.cpp:3567
+msgid "Quick Cast"
+msgstr "Швидке закляття"
+
+#: src/PlayerMenu.cpp:1123
+msgid "When enabled, cast specific spell depending on direction held."
+msgstr "При увімкненні закляття виконуються залежно від напрямку натискання."
+
+#: src/PlayerMenu.cpp:1127 src/PlayerMenu.cpp:3568
+msgid "Quick Swap"
+msgstr "Швидка зміна"
+
+#: src/PlayerMenu.cpp:1127
+msgid "When enabled, swap to specific spell depending on direction held."
+msgstr "При увімкненні відбувається зміна закляття залежно від напрямку натискання."
+
+#: src/PlayerMenu.cpp:1131
+msgid "Configure Spells"
+msgstr "Налаштувати закляття"
+
+#: src/PlayerMenu.cpp:1131
+msgid "Choose which spells are used in Quick Cast or Quick Swap."
+msgstr "Виберіть закляття для Швидкого закляття або Швидкої зміни."
+
+#: src/PlayerMenu.cpp:1594
+msgid "{1} point available"
+msgid_plural "{1} points available"
+msgstr[0] "{1} очко доступне"
+msgstr[1] "{1} очок доступно"
+msgstr[2] "{1} очок доступно"
+
+#: src/PlayerMenu.cpp:1727 src/StatusEffect.cpp:80 src/AffinityStats.cpp:24
+msgid "Strength"
+msgstr "Сила"
+
+#: src/PlayerMenu.cpp:1727 src/AffinityStats.cpp:25
+msgid "Strength increases your damage, especially with melee weapons."
+msgstr "Сила збільшує вашу шкоду, особливо від ближньої зброї."
+
+#: src/PlayerMenu.cpp:1728 src/AffinityStats.cpp:29
+msgid "Dexterity"
+msgstr "Спритність"
+
+#: src/PlayerMenu.cpp:1728
+msgid "Dexterity increases your attack speed and damage, especially with ranged weapons."
+msgstr "Спритність збільшує швидкість атаки та шкоду, особливо зі стрілецької зброї."
+
+#: src/PlayerMenu.cpp:1729 src/AffinityStats.cpp:34
+msgid "Vitality"
+msgstr "Витривалість"
+
+#: src/PlayerMenu.cpp:1729 src/AffinityStats.cpp:35
+msgid "Vitality increases your maximum health."
+msgstr "Витривалість збільшує максимальне здоров'я."
+
+#: src/PlayerMenu.cpp:1730 src/AffinityStats.cpp:39
+msgid "Intelligence"
+msgstr "Інтелект"
+
+#: src/PlayerMenu.cpp:1730
+msgid "Intelligence affects spell power as well as the number of spell charge each spell has."
+msgstr "Інтелект впливає на силу заклять та кількість зарядів у кожного закляття."
+
+#: src/PlayerMenu.cpp:1731 src/AffinityStats.cpp:44
+msgid "Luck"
+msgstr "Удача"
+
+#: src/PlayerMenu.cpp:1731 src/AffinityStats.cpp:45
+msgid "Luck affects your critical strike rate and evasion, as well as chance based effects."
+msgstr "Удача впливає на шанс критичного удару, ухилення та ефекти, що залежать від випадку."
+
+#: src/PlayerMenu.cpp:1733 src/AffinityDefense.cpp:10
+msgid "Defense"
+msgstr "Захист"
+
+#: src/PlayerMenu.cpp:1733
+msgid "Defense is how resistant you are to physical damage."
+msgstr "Захист визначає вашу стійкість до фізичної шкоди."
+
+#: src/PlayerMenu.cpp:1734
+msgid "Fire Resist"
+msgstr "Стійкість до вогню"
+
+#: src/PlayerMenu.cpp:1734
+msgid "Each point of fire resistance increases your resistance to fire damage by 25%"
+msgstr "Кожен пункт стійкості до вогню збільшує опір вогняній шкоді на 25%"
+
+#: src/PlayerMenu.cpp:1735
+msgid "Cold Resist"
+msgstr "Стійкість до холоду"
+
+#: src/PlayerMenu.cpp:1735
+msgid "Each point of cold resistance increases your resistance to cold damage by 25%"
+msgstr "Кожен пункт стійкості до холоду збільшує опір шкоді від холоду на 25%"
+
+#: src/PlayerMenu.cpp:1736
+msgid "Lightning Resist"
+msgstr "Стійкість до блискавки"
+
+#: src/PlayerMenu.cpp:1736
+msgid "Each point of lightning resistance increases your resistance to lightning damage by 25%"
+msgstr "Кожен пункт стійкості до блискавки збільшує опір шкоді від блискавки на 25%"
+
+#: src/PlayerMenu.cpp:1737
+msgid "Poison Resist"
+msgstr "Стійкість до отрути"
+
+#: src/PlayerMenu.cpp:1737
+msgid "Each point of poison resistance increases your resistance to poison damage by 25%"
+msgstr "Кожен пункт стійкості до отрути збільшує опір шкоді від отрути на 25%"
+
+#: src/PlayerMenu.cpp:1739
+msgid "Melee Damage"
+msgstr "Шкода від ближньої атаки"
+
+#: src/PlayerMenu.cpp:1739
+msgid "Increased damage of melee weapons."
+msgstr "Збільшує шкоду від ближньої зброї."
+
+#: src/PlayerMenu.cpp:1740
+msgid "Ranged Damage"
+msgstr "Шкода від дальньої атаки"
+
+#: src/PlayerMenu.cpp:1740
+msgid "Increased damage of thrown or ranged weapons."
+msgstr "Збільшує шкоду від метальної або стрілецької зброї."
+
+#: src/PlayerMenu.cpp:1741
+msgid "Critical"
+msgstr "Критичний удар"
+
+#: src/PlayerMenu.cpp:1741
+#, c-format
+msgid "% Chance of a critical hit."
+msgstr "% C Шанс критичного удару."
+
+#: src/PlayerMenu.cpp:1742
+msgid "Attack Speed"
+msgstr "Швидкість атаки"
+
+#: src/PlayerMenu.cpp:1742
+msgid "% Increased attack speed."
+msgstr "% Збільшення швидкості атаки."
+
+#: src/PlayerMenu.cpp:1743
+msgid "Move Speed"
+msgstr "Швидкість руху"
+
+#: src/PlayerMenu.cpp:1743
+msgid "Increased movement speed amount."
+msgstr "Збільшує швидкість пересування."
+
+#: src/PlayerMenu.cpp:1809
+msgid "Knight"
+msgstr "Лицар"
+
+#: src/PlayerMenu.cpp:1812
+msgid "Rogue"
+msgstr "Розбійник"
+
+#: src/PlayerMenu.cpp:1815
+msgid "Mage"
+msgstr "Маг"
+
+#: src/PlayerMenu.cpp:1818 src/Stats.cpp:111
+msgid "Wildling"
+msgstr "Дикий"
+
+#: src/PlayerMenu.cpp:1821 src/Stats.cpp:127
+msgid "Houndmaster"
+msgstr "Майстер гончих"
+
+#: src/PlayerMenu.cpp:1848
+msgid "Died to {1}"
+msgstr "Загинув від {1}"
+
+#: src/PlayerMenu.cpp:1855
+msgid "{1} Deaths to {2}"
+msgstr "{1} смертей від {2}"
+
+#: src/PlayerMenu.cpp:1862 src/StatusEffect.cpp:68
+msgid "Poisoned"
+msgstr "Отруєний"
+
+#: src/PlayerMenu.cpp:1866
+msgid "Corroded"
+msgstr "Пошкоджений корозією"
+
+#: src/PlayerMenu.cpp:1870 src/StatusEffect.cpp:107
+msgid "Frozen"
+msgstr "Заморожений"
+
+#: src/PlayerMenu.cpp:1874
+msgid "Burned"
+msgstr "Обпікся"
+
+#: src/PlayerMenu.cpp:1878
+msgid "Electrocuted"
+msgstr "Удар електрикою"
+
+#: src/PlayerMenu.cpp:1882
+msgid "Mysteriously Died"
+msgstr "Таємничо загинув"
+
+#: src/PlayerMenu.cpp:1940
+msgid "{1} Deaths as a {2}"
+msgstr "{1} смертей як {2}"
+
+#: src/PlayerMenu.cpp:1959
+msgctxt "Game over menu"
+msgid "Ready"
+msgstr "Готово"
+
+#: src/PlayerMenu.cpp:1974
+msgctxt "Game over menu"
+msgid "Press Start"
+msgstr "Натисніть Пуск"
+
+#: src/PlayerMenu.cpp:2063
+msgid "Prev Tab"
+msgstr "Попередня вкладка"
+
+#: src/PlayerMenu.cpp:2067
+msgid "Next Tab"
+msgstr "Наступна вкладка"
+
+#: src/PlayerMenu.cpp:2073
+msgid "Place"
+msgstr "Помістити"
+
+#: src/PlayerMenu.cpp:2077
+msgid "Apply to item"
+msgstr "Застосувати до предмета"
+
+#: src/PlayerMenu.cpp:2089 src/PlayerMenu.cpp:2134
+msgid "Unequip"
+msgstr "Зняти"
+
+#: src/PlayerMenu.cpp:2093 src/PlayerMenu.cpp:2138
+msgid "Equip"
+msgstr "Одягти"
+
+#: src/PlayerMenu.cpp:2100
+msgid "Quaff"
+msgstr "Випити"
+
+#: src/PlayerMenu.cpp:2104
+msgid "Read"
+msgstr "Прочитати"
+
+#: src/PlayerMenu.cpp:2108
+msgid "Use"
+msgstr "Використати"
+
+#: src/PlayerMenu.cpp:2115
+msgid "Apply to"
+msgstr "Застосувати до"
+
+#: src/PlayerMenu.cpp:2120
+msgid "Drop"
+msgstr "Викинути"
+
+#: src/PlayerMenu.cpp:2122
+msgid "Move"
+msgstr "Перемістити"
+
+#: src/PlayerMenu.cpp:2159
+msgid "Prev rank"
+msgstr "Попередній рівень"
+
+#: src/PlayerMenu.cpp:2163
+msgid "Next rank"
+msgstr "Наступний рівень"
+
+#: src/PlayerMenu.cpp:2167
+msgid "Level up"
+msgstr "Підвищити рівень"
+
+#: src/PlayerMenu.cpp:3569
+msgid "Configure"
+msgstr "Налаштувати"
+
+#: src/Shop.cpp:288
+msgid "Purchase"
+msgstr "Придбати"
+
+#: src/GuiServerDetails.cpp:18
+msgid "Join"
+msgstr "Приєднатися"
+
+#: src/ProgressionGui.cpp:582
+msgid "BACKGROUND"
+msgstr "ФОН"
+
+#: src/ProgressionGui.cpp:585
+msgid "SPECIAL"
+msgstr "СПЕЦІАЛЬНЕ"
+
+#: src/ProgressionGui.cpp:588
+msgid "MUSIC"
+msgstr "МУЗИКА"
+
+#: src/ProgressionGui.cpp:591
+msgid "GAME MODE"
+msgstr "РЕЖИМ ГРИ"
+
+#: src/ProgressionGui.cpp:594
+msgid "CLASS"
+msgstr "КЛАС"
+
+#: src/ProgressionGui.cpp:1101
+msgid "New Unlocks!"
+msgstr "Нові розблокування!"
+
+#: src/ProgressionGui.cpp:1105
+msgid "New Unlock!"
+msgstr "Нове розблокування!"
+
+#: src/MainMenu.cpp:136
+msgid "New Game"
+msgstr "Нова гра"
+
+#: src/MainMenu.cpp:137
+msgid "Play Online"
+msgstr "Грати онлайн"
+
+#: src/MainMenu.cpp:138
+msgid "Options"
+msgstr "Налаштування"
+
+#: src/AffinityClub.cpp:16
+msgid "Club"
+msgstr "Дубина"
+
+#: src/AffinityClub.cpp:17
+msgid "Fatiguing Blows"
+msgstr "Виснажливі удари"
+
+#: src/AffinityClub.cpp:17
+msgid "Club attacks deal more damage and stun enemies more."
+msgstr "Удари дубиною завдають більше шкоди та частіше оглушують ворогів."
+
+#: src/AffinityClub.cpp:18
+msgid "Charged Attack"
+msgstr "Заряджений удар"
+
+#: src/AffinityClub.cpp:18
+msgid "Hold the attack button to charge up your swing."
+msgstr "Утримуйте кнопку атаки для зарядки замаху."
+
+#: src/AffinityClub.cpp:19
+msgctxt "club affinity"
+msgid "Shockwave"
+msgstr "Ударна хвиля"
+
+#: src/AffinityClub.cpp:19
+msgid "Fully charged attacks unleash a powerful shockwave."
+msgstr "Повністю заряджені удари випускають потужну ударну хвилю."
+
+#: src/AffinityClub.cpp:20
+msgid "Faster Charge"
+msgstr "Швидше заряджання"
+
+#: src/AffinityClub.cpp:20
+msgid "Attacks charge up quicker."
+msgstr "Удари заряджаються швидше."
+
+#: src/AffinityEnchant.cpp:12
+msgid "Enchant"
+msgstr "Зачарування"
+
+#: src/AffinityEnchant.cpp:13
+msgid "Novice Enchanter"
+msgstr "Початковий чародій"
+
+#: src/AffinityEnchant.cpp:13
+msgid "Bestow a spell's power unto the user by pressing Interact during a fully-concentrated spell cast."
+msgstr "Надайте користувачу силу закляття, натиснувши Взаємодія під час повністю сконцентрованого закляття."
+
+#: src/AffinityEnchant.cpp:14
+msgid "Elemental Adept"
+msgstr "Майстер стихій"
+
+#: src/AffinityEnchant.cpp:14
+msgid "Higher tier spells bestow greater enchantments. Additionally, gain the ability to wield 2 elemental enchantments."
+msgstr "Закляття вищого рівня надають потужніші зачарування. Крім того, отримуєте здатність використовувати 2 стихійні зачарування."
+
+#: src/AffinityEnchant.cpp:15
+msgid "Rune Scribe"
+msgstr "Рунний писар"
+
+#: src/AffinityEnchant.cpp:15
+msgid "Etch elemental runes upon your equipped weapon. Additionally, gain the ability to wield 3 elemental enchantments."
+msgstr "Висічте стихійні руни на обладнаній зброї. Крім того, отримуєте здатність використовувати 3 стихійні зачарування."
+
+#: src/AffinityCaster.cpp:14
+msgid "Spellcaster"
+msgstr "Заклинатель"
+
+#: src/AffinityCaster.cpp:15
+msgid "Recovery"
+msgstr "Відновлення"
+
+#: src/AffinityCaster.cpp:15
+msgid "Spell cooldowns are reduced by 25%."
+msgstr "Час відновлення заклять зменшено на 25%."
+
+#: src/AffinityCaster.cpp:16
+msgid "Critical Magic"
+msgstr "Критична магія"
+
+#: src/AffinityCaster.cpp:16
+msgid "Chance to deal critical spell damage."
+msgstr "Шанс завдати критичної шкоди закляттям."
+
+#: src/AffinityCaster.cpp:17
+msgid "Resilience"
+msgstr "Стійкість"
+
+#: src/AffinityCaster.cpp:17
+msgid "Spell casting cannot be interrupted."
+msgstr "Неможливо перервати каст заклять."
+
+#: src/AffinityCaster.cpp:18
+msgid "Spell Charge"
+msgstr "Заряд закляття"
+
+#: src/AffinityCaster.cpp:18
+msgid "Enables complete movement control while casting a spell."
+msgstr "Дозволяє повністю контролювати рух під час касту закляття."
+
+#: src/Affinity.cpp:105
+msgid "Level {1} (NEXT)"
+msgstr "Рівень {1} (НАСТУПНИЙ)"
+
+#: src/Affinity.cpp:111
+msgid "Level {1} (MAXED)"
+msgstr "Рівень {1} (МАКСИМУМ)"
+
+#: src/Affinity.cpp:115
+msgid "Level {1} (LEARNED)"
+msgstr "Рівень {1} (ВИВЧЕНО)"
+
+#: src/NetMenu.cpp:135
+msgid "Lobby Name"
+msgstr "Назва лобі"
+
+#: src/NetMenu.cpp:137
+msgid "Private Lobby"
+msgstr "Приватне лобі"
+
+#: src/NetMenu.cpp:138
+msgid "Only Steam friends can join."
+msgstr "Приєднатися можуть лише друзі у Steam."
+
+#: src/NetMenu.cpp:140
+msgid "Custom Level"
+msgstr "Користувацький рівень"
+
+#: src/NetMenu.cpp:141
+msgid "Host a custom build level instead of the base Vagante game."
+msgstr "Запустіть користувацький рівень замість базової гри Vagante."
+
+#: src/NetMenu.cpp:143
+msgid "Host Steam Lobby"
+msgstr "Створити лобі у Steam"
+
+#: src/NetMenu.cpp:144
+msgid "Host a game through Steam, allowing Steam friends to join you."
+msgstr "Створіть гру через Steam, щоб друзі могли приєднатися."
+
+#: src/NetMenu.cpp:146
+msgid "Host Server"
+msgstr "Створити сервер"
+
+#: src/NetMenu.cpp:147
+msgid "Host a game without Steam, only players with your IP address can join."
+msgstr "Створіть гру без Steam, приєднатися можуть лише гравці з вашою IP-адресою."
+
+#: src/NetMenu.cpp:149
+msgid "Connect To Ip"
+msgstr "Підключитися до IP"
+
+#: src/NetMenu.cpp:150
+msgid "Connect to a specified server's IP"
+msgstr "Підключитися до вказаного IP сервера"
+
+#: src/NetMenu.cpp:152
+msgid "Refresh"
+msgstr "Оновити"
+
+#: src/NetMenu.cpp:153
+msgid "Refresh your Friends Playing list."
+msgstr "Оновити список друзів, які грають."
+
+#: src/NetMenu.cpp:155 src/Input.cpp:270 src/Input.cpp:366
+msgid "Back"
+msgstr "Назад"
+
+#: src/NetMenu.cpp:156
+msgid "Escape this dark menu"
+msgstr "Вийти з цього темного меню"
+
+#: src/NetMenu.cpp:696
+msgid "No Steam Lobbies Found"
+msgstr "Лобі у Steam не знайдено"
+
+#: src/NetMenu.cpp:712
+msgid "Enter Server IP Address"
+msgstr "Введіть IP-адресу сервера"
+
+#: src/NetMenu.cpp:826
+msgctxt "Joe's Game"
+msgid "{1}'s Game"
+msgstr "Гра {1}"
+
+#: src/NetMenu.cpp:999
+msgid "Loading..."
+msgstr "Завантаження..."
+
+#: src/NetMenu.cpp:1026
+msgid "Connecting to Server."
+msgstr "Підключення до сервера..."
+
+#: src/NetMenu.cpp:1057
+msgid "Rejected from game. Reason: {1}"
+msgstr "Відхилено у грі. Причина: {1}"
+
+#: src/NetMenu.cpp:1062
+msgid "Kicked from game. Reason: {1}"
+msgstr "Викинуто з гри. Причина: {1}"
+
+#: src/AffinityRod.cpp:14
+msgid "Rod"
+msgstr "Посох"
+
+#: src/AffinityRod.cpp:15
+msgid "Rod Adept"
+msgstr "Майстер посоха"
+
+#: src/AffinityRod.cpp:15
+msgid "Increase rod recharge rate."
+msgstr "Збільшує швидкість перезарядки посоха."
+
+#: src/AffinityRod.cpp:16
+msgid "Overcharge"
+msgstr "Перезарядка"
+
+#: src/AffinityRod.cpp:16
+msgid "Charge rod to increase damage."
+msgstr "Заряджайте посох для збільшення шкоди."
+
+#: src/AffinityRod.cpp:18
+msgid "Spell Syphon"
+msgstr "Всмоктування заклять"
+
+#: src/AffinityRod.cpp:18
+msgid "Rods will recharge from spell damage."
+msgstr "Посохи перезаряджаються від шкоди заклять."
+
+#: src/AffinityRod.cpp:19
+msgid "Leech Cast"
+msgstr "Автозакляття"
+
+#: src/AffinityRod.cpp:19
+msgid "Auto-cast rods if attack hits an enemy."
+msgstr "Автоматично використовувати закляття, якщо атака потрапляє по ворогу."
+
+#: src/AffinityRod.cpp:20
+msgid "Conductor"
+msgstr "Провідник"
+
+#: src/AffinityRod.cpp:20
+msgid "Automatically cast your current spell after overcharging rod."
+msgstr "Автоматично кастувати поточне закляття після перезарядки посоха."
+
+#: src/StatusEffect.cpp:58
+msgid "Regeneration"
+msgstr "Регенерація"
+
+#: src/StatusEffect.cpp:59
+msgid "Your injuries are rapidly healing."
+msgstr "Ваші травми швидко загоюються."
+
+#: src/StatusEffect.cpp:62
+msgid "Magic Power"
+msgstr "Магічна сила"
+
+#: src/StatusEffect.cpp:63
+msgid "Your body courses with unbounded magical energy."
+msgstr "Ваше тіло наповнене безмежною магічною енергією."
+
+#: src/StatusEffect.cpp:69
+msgid "You'll continue to take damage until the poison has run its course."
+msgstr "Ви продовжуватимете отримувати шкоду, поки отрута не вичерпається."
+
+#: src/StatusEffect.cpp:72
+msgid "Speedy"
+msgstr "Швидкий"
+
+#: src/StatusEffect.cpp:73
+msgid "You feel much quicker."
+msgstr "Ви відчуваєте себе значно швидшим."
+
+#: src/StatusEffect.cpp:76
+msgid "Stone Skin"
+msgstr "Кам'яна шкіра"
+
+#: src/StatusEffect.cpp:77
+msgid "Your skin is rock hard."
+msgstr "Ваша шкіра тверда, як камінь."
+
+#: src/StatusEffect.cpp:81
+msgid "You feel much stronger."
+msgstr "Ви відчуваєте себе набагато сильнішим."
+
+#: src/StatusEffect.cpp:86
+msgid "Stunned"
+msgstr "Оглушений"
+
+#: src/StatusEffect.cpp:87
+msgid "You're too stunned to do anything."
+msgstr "Ви занадто оглушені, щоб щось зробити."
+
+#: src/StatusEffect.cpp:91 src/ItemAttribute.cpp:422
+msgid "Featherfall"
+msgstr "Падіння пером"
+
+#: src/StatusEffect.cpp:92
+msgid "Your body feels as light as a feather."
+msgstr "Ваше тіло відчувається легким, як перо."
+
+#: src/StatusEffect.cpp:95 src/StatusEffect.cpp:101 src/ItemAttribute.cpp:551
+#: src/ItemAttribute.cpp:597 src/ItemAttribute.cpp:600
+msgid "Burning"
+msgstr "Палає"
+
+#: src/StatusEffect.cpp:96
+msgid "You're on fire! Quick, find some water!"
+msgstr "Ви палаєте! Швидко, знайдіть воду!"
+
+#: src/StatusEffect.cpp:102
+msgid "The coldness of this strange fire burns your skin."
+msgstr "Холод цього дивного вогню обпалює вашу шкіру."
+
+#: src/StatusEffect.cpp:108
+msgid "You're completely encased in ice."
+msgstr "Ви повністю покриті льодом."
+
+#: src/StatusEffect.cpp:113
+msgid "Fairy Fire"
+msgstr "Феєчий вогонь"
+
+#: src/StatusEffect.cpp:119
+msgid "Corrupted Fairy Fire"
+msgstr "Зіпсований феєчий вогонь"
+
+#: src/StatusEffect.cpp:124
+msgid "You feel like hitting something!"
+msgstr "Вам хочеться щось вдарити!"
+
+#: src/StatusEffect.cpp:129
+msgid "Sugar Rush"
+msgstr "Цукровий кайф"
+
+#: src/StatusEffect.cpp:130
+msgid "You feel energy coursing through you!"
+msgstr "Ви відчуваєте, як енергія тече крізь вас!"
+
+#: src/StatusEffect.cpp:134
+msgid "Charmed"
+msgstr "Зачарований"
+
+#: src/StatusEffect.cpp:135
+msgid "You can't tell friend from foe!"
+msgstr "Ви не можете відрізнити друга від ворога!"
+
+#: src/StatusEffect.cpp:140
+msgid "Exhausted"
+msgstr "Виснажений"
+
+#: src/StatusEffect.cpp:141
+msgid "After berserking, you feel exhausted."
+msgstr "Після берсеркування ви відчуваєте себе виснаженим."
+
+#: src/StatusEffect.cpp:146
+msgid "Flames surround your entire body!"
+msgstr "Полум’я оточує все ваше тіло!"
+
+#: src/StatusEffect.cpp:150
+msgid "Dead"
+msgstr "Мертвий"
+
+#: src/StatusEffect.cpp:151
+msgid "You're dead. Sorry."
+msgstr "Ви мертві. Вибачте."
+
+#: src/StatusEffect.cpp:157
+msgid "Cursed"
+msgstr "Проклятий"
+
+#: src/StatusEffect.cpp:163
+msgid "Slowed"
+msgstr "Сповільнений"
+
+#: src/StatusEffect.cpp:164
+msgid "Your movements are slowed."
+msgstr "Ваші рухи сповільнені."
+
+#: src/StatusEffect.cpp:170
+msgid "The blood of your enemies rejuvenates you."
+msgstr "Кров ваших ворогів відновлює вас."
+
+#: src/StatusEffect.cpp:174 src/ItemAttribute.cpp:354
+msgid "Unbounded Sight"
+msgstr "Незмірний зір"
+
+#: src/StatusEffect.cpp:175
+msgid "Your third eye is opened."
+msgstr "Ваш третій око відкрито."
+
+#: src/StatusEffect.cpp:179
+msgid "Breath Underwater"
+msgstr "Дихання під водою"
+
+#: src/StatusEffect.cpp:184
+msgid "Freeze Immune"
+msgstr "Імунітет до заморозки"
+
+#: src/StatusEffect.cpp:185
+msgid "Your body feels strangely warm."
+msgstr "Ваше тіло відчувається дивно теплим."
+
+#: src/StatusEffect.cpp:189
+msgid "Fire Enchanted"
+msgstr "Зачарований вогнем"
+
+#: src/StatusEffect.cpp:190
+msgid "Your hands surround everything you touch in fire."
+msgstr "Ваші руки оточують все, до чого ви торкаєтесь, вогнем."
+
+#: src/StatusEffect.cpp:195
+msgid "Ice Enchanted"
+msgstr "Зачарований льодом"
+
+#: src/StatusEffect.cpp:196
+msgid "Your hands have become unbearably cold."
+msgstr "Ваші руки стали нестерпно холодними."
+
+#: src/StatusEffect.cpp:201
+msgid "Lightning Enchanted"
+msgstr "Зачарований блискавкою"
+
+#: src/StatusEffect.cpp:202
+msgid "Lightning constantly arcs from your hands."
+msgstr "Блискавки постійно пробігають від ваших рук."
+
+#: src/StatusEffect.cpp:207
+msgid "Wind Enchanted"
+msgstr "Зачарований вітром"
+
+#: src/StatusEffect.cpp:208
+msgid "Razor-sharp winds augment your attacks."
+msgstr "Леза вітру підсилюють ваші атаки."
+
+#: src/StatusEffect.cpp:213
+msgid "Divine Aura"
+msgstr "Божественна аура"
+
+#: src/StatusEffect.cpp:214
+msgid "Holy aura surrounds your body."
+msgstr "Свята аура оточує ваше тіло."
+
+#: src/StatusEffect.cpp:219
+msgid "Holy Spirit"
+msgstr "Святий Дух"
+
+#: src/StatusEffect.cpp:220
+msgid "God will grant you a second chance once all hitpoints are lost."
+msgstr "Бог дасть вам другий шанс після втрати всіх очок життя."
+
+#: src/StatusEffect.cpp:225 src/AffinityShadow.cpp:17
+msgid "Stealth"
+msgstr "Невидимість"
+
+#: src/StatusEffect.cpp:226
+msgid "You are now one with the shadows."
+msgstr "Ви стали єдиним із тінями."
+
+#: src/StatusEffect.cpp:231 src/AffinityCQC.cpp:18
+msgid "Godfist"
+msgstr "Божий кулак"
+
+#: src/StatusEffect.cpp:232
+msgid "You feel powerful energies surging into your fist!"
+msgstr "Ви відчуваєте, як могутня енергія вливається у ваш кулак!"
+
+#: src/AffinityStats.cpp:30
+msgid "Dexterity increases your attack/cast speed and damage, especially with ranged weapons."
+msgstr "Спритність збільшує швидкість атак та кастів, а також шкоду, особливо з дистанційною зброєю."
+
+#: src/AffinityStats.cpp:40
+msgid "Intelligence increases your maximum spell charge, as well as your overall spell casting abilities."
+msgstr "Інтелект збільшує максимальну кількість зарядів заклять і покращує загальні здібності до кастування."
+
+#: src/AffinityStats.cpp:63
+msgctxt "+3 Total Strength"
+msgid "+{1} Total {2}"
+msgstr "+{1} всього {2}"
+
+#: src/AffinityStats.cpp:70
+msgid "Heavy Blows"
+msgstr "Могутні удари"
+
+#: src/AffinityStats.cpp:71
+msgid "Gain a small knockback bonus. "
+msgstr "Отримуєте невеликий бонус відштовхування. "
+
+#: src/AffinityStats.cpp:74
+msgid "Quick Step"
+msgstr "Швидкий крок"
+
+#: src/AffinityStats.cpp:75
+msgid "Move faster while attacking. "
+msgstr "Рухаєтесь швидше під час атак. "
+
+#: src/AffinityStats.cpp:78
+msgid "Thick Skin"
+msgstr "Груба шкіра"
+
+#: src/AffinityStats.cpp:79
+msgid "Gain a permanent +1 defense bonus. "
+msgstr "Отримуєте постійний бонус +1 до захисту. "
+
+#: src/AffinityStats.cpp:82
+msgid "Meditation"
+msgstr "Медитація"
+
+#: src/AffinityStats.cpp:83
+msgid "Your spell charge limit is increased. "
+msgstr "Ваш ліміт зарядів заклять збільшено. "
+
+#: src/AffinityStats.cpp:86
+msgid "Fortune"
+msgstr "Фортуна"
+
+#: src/AffinityStats.cpp:87
+msgid "Chests have a small chance to drop an extra item. "
+msgstr "Скрині мають невеликий шанс дати додатковий предмет. "
+
+#: src/AffinityStats.cpp:101
+msgid "Brute Force"
+msgstr "Сила грубіяна"
+
+#: src/AffinityStats.cpp:102
+msgid "Your maximum damage is increased. "
+msgstr "Максимальна шкода збільшена. "
+
+#: src/AffinityStats.cpp:105
+msgid "Finesse"
+msgstr "Точність"
+
+#: src/AffinityStats.cpp:106
+msgid "Your minimum damage is increased. "
+msgstr "Мінімальна шкода збільшена. "
+
+#: src/AffinityStats.cpp:110
+msgid "Gain +1 damage for each 20% of health missing. "
+msgstr "Отримуєте +1 до шкоди за кожні 20% втраченого здоров'я. "
+
+#: src/AffinityStats.cpp:113
+msgid "Preparation"
+msgstr "Підготовка"
+
+#: src/AffinityStats.cpp:114
+msgid "Your spell charge limit is greatly increased. "
+msgstr "Ваш ліміт зарядів заклять значно збільшено. "
+
+#: src/AffinityStats.cpp:117
+msgid "Lucky Resist"
+msgstr "Фартовий опір"
+
+#: src/AffinityStats.cpp:118
+msgid "Gain a chance to resist non-physical damage. "
+msgstr "Отримуєте шанс протистояти нефізичній шкоді. "
+
+#: src/AffinityPetOffense.cpp:12
+msgid "Pet Offense"
+msgstr "Атака вихованця"
+
+#: src/AffinityPetOffense.cpp:13
+msgid "Lunge"
+msgstr "Ривок"
+
+#: src/AffinityPetOffense.cpp:13
+msgid "Your pet can now lunge attack."
+msgstr "Ваш вихованець тепер може здійснювати ривкову атаку."
+
+#: src/AffinityPetOffense.cpp:14
+msgid "Weak Point"
+msgstr "Вразлива точка"
+
+#: src/AffinityPetOffense.cpp:14
+msgid "Attacks critically hit more often than normal."
+msgstr "Атаки частіше завдають критичний удар."
+
+#: src/AffinityPetOffense.cpp:15
+msgid "Limit Break"
+msgstr "Прорив"
+
+#: src/AffinityPetOffense.cpp:15
+msgid "Your pet can sometimes lunge multiple times in a row."
+msgstr "Ваш вихованець інколи може здійснити декілька ривків підряд."
+
+#: src/AffinityWand.cpp:14
+msgid "Wand"
+msgstr "Жезл"
+
+#: src/AffinityWand.cpp:15
+msgid "Wand Adept"
+msgstr "Майстер жезла"
+
+#: src/AffinityWand.cpp:15
+msgid "Grants additional melee power to wands, based on intelligence and type of wand. Expended wands gain even more melee power."
+msgstr "Надає додаткову ближню силу жезлам, залежно від інтелекту та типу жезла. Використані жезли отримують ще більше ближньої сили."
+
+#: src/AffinityWand.cpp:16
+msgid "Artificer"
+msgstr "Майстер-артифіцієр"
+
+#: src/AffinityWand.cpp:16
+msgid "Passively recharge wand charges by resting inbetween levels. Recharging scrolls become more effective."
+msgstr "Пасивно відновлює заряди жезла під час відпочинку між рівнями. Перезаряджені сувої стають ефективнішими."
+
+#: src/AffinityWand.cpp:17
+msgid "Wand Channelling"
+msgstr "Каналізація жезла"
+
+#: src/AffinityWand.cpp:17
+msgid "Can channel extra power into wands for greater effect. Recharge even more wand charges inbetween levels."
+msgstr "Можна направляти додаткову силу в жезли для більшого ефекту. Відновлює ще більше зарядів жезла між рівнями."
+
+#: src/AffinityWand.cpp:18
+msgid "Magic Amplifier"
+msgstr "Підсилювач магії"
+
+#: src/AffinityWand.cpp:18
+msgid "Gain passive spell damage bonuses by equipping wands of the same type. Recharge even more wand charges inbetween levels."
+msgstr "Отримуєте пасивний бонус до шкоди заклять, одягаючи жезли одного типу. Відновлює ще більше зарядів жезла між рівнями."
+
+#: src/AffinityAlchemy.cpp:17
+msgid "Alchemy"
+msgstr "Алхімія"
+
+#: src/AffinityAlchemy.cpp:18
+msgid "Potion Knowledge"
+msgstr "Знання зіллів"
+
+#: src/AffinityAlchemy.cpp:18
+msgid "All potions are identified."
+msgstr "Усі зілля розпізнані."
+
+#: src/AffinityAlchemy.cpp:19
+msgid "Chemical Transmutation"
+msgstr "Хімічна трансмутація"
+
+#: src/AffinityAlchemy.cpp:19
+msgid "Combine different potions to make a new potion."
+msgstr "Комбінуйте різні зілля для створення нового."
+
+#: src/AffinityAlchemy.cpp:20
+msgid "Alchemist"
+msgstr "Алхімік"
+
+#: src/AffinityAlchemy.cpp:20
+msgid "Potions you drink have stronger effects."
+msgstr "Зілля, які ви п’єте, мають сильніший ефект."
+
+#: src/AffinityAlchemy.cpp:21
+msgid "Exceed"
+msgstr "Перевершення"
+
+#: src/AffinityAlchemy.cpp:21
+msgid "Occasionally quaff potions multiple times."
+msgstr "Іноді п’єте зілля кілька разів підряд."
+
+#: src/Stats.cpp:91
+msgid "Reach progression level {1}."
+msgstr "Досягніть рівня прогресу {1}."
+
+#: src/Stats.cpp:114
+msgid "Training Dummy"
+msgstr "Манекен для тренувань"
+
+#: src/Stats.cpp:118
+msgid "Merchant"
+msgstr "Торговець"
+
+#: src/Stats.cpp:126
+msgid "Random Class"
+msgstr "Випадковий клас"
+
+#: src/Stats.cpp:135
+msgid "Faithless"
+msgstr "Безвіруючий"
+
+#: src/Stats.cpp:137
+msgid "Defeat ???"
+msgstr "Перемогти ???"
+
+#: src/Stats.cpp:141
+msgid "Defeat Vine Lord"
+msgstr "Перемогти Володаря Лоз"
+
+#: src/Stats.cpp:145
+msgid "Complete 3 floors with mortality armor."
+msgstr "Пройти 3 поверхи у броні смертності."
+
+#: src/Stats.cpp:149
+msgid "Beat the game as a knight."
+msgstr "Пройти гру лицарем."
+
+#: src/Stats.cpp:153
+msgid "Crossbowman"
+msgstr "Арбалетник"
+
+#: src/Stats.cpp:153
+msgid "Beat the game as a rogue."
+msgstr "Пройти гру розбійником."
+
+#: src/Stats.cpp:157
+msgid "Beat the game as a mage."
+msgstr "Пройти гру магом."
+
+#: src/Stats.cpp:161
+msgid "Beat the game as a wildling."
+msgstr "Пройти гру дикарем."
+
+#: src/Stats.cpp:165
+msgid "Beat the game as a Hound Master."
+msgstr "Пройти гру Мастером Псів."
+
+#: src/Stats.cpp:170
+msgid "Alternate Cave Theme"
+msgstr "Альтернативна тема печери"
+
+#: src/Stats.cpp:170
+msgid "Kill all Cave bosses."
+msgstr "Вбити всіх босів печери."
+
+#: src/Stats.cpp:175
+msgid "Alternate Forest Theme"
+msgstr "Альтернативна тема лісу"
+
+#: src/Stats.cpp:175
+msgid "Kill all Forest bosses."
+msgstr "Вбити всіх босів лісу."
+
+#: src/Stats.cpp:180
+msgid "Alternate Catacombs Theme"
+msgstr "Альтернативна тема катакомб"
+
+#: src/Stats.cpp:180
+msgid "Kill all Catacombs bosses."
+msgstr "Вбити всіх босів катакомб."
+
+#: src/Stats.cpp:185
+msgid "Alternate Rift Theme"
+msgstr "Альтернативна тема розриву"
+
+#: src/Stats.cpp:185
+msgid "Kill all Rift bosses."
+msgstr "Вбити всіх босів розриву."
+
+#: src/Stats.cpp:190
+msgid "Hard Mode"
+msgstr "Складний режим"
+
+#: src/Stats.cpp:190
+msgid "Beat the game on normal difficulty."
+msgstr "Пройти гру на нормальній складності."
+
+#: src/ItemAttribute.cpp:257
+msgid "Life Steal"
+msgstr "Поглинання життя"
+
+#: src/ItemAttribute.cpp:258
+msgid "Vampiric"
+msgstr "Вампіричне"
+
+#: src/ItemAttribute.cpp:260
+msgid "Bleed on attack"
+msgstr "Кровотеча при атаці"
+
+#: src/ItemAttribute.cpp:261
+msgid "Hemophiliac's"
+msgstr "Гемофілія"
+
+#: src/ItemAttribute.cpp:265
+msgid "Spirit Emitter"
+msgstr "Випромінювач духу"
+
+#: src/ItemAttribute.cpp:266
+msgid "of the Spirits"
+msgstr "духів"
+
+#: src/ItemAttribute.cpp:269
+msgid "+Knockback"
+msgstr "+Відштовхування"
+
+#: src/ItemAttribute.cpp:272
+msgid "Reduced Knockback"
+msgstr "Зменшене відштовхування"
+
+#: src/ItemAttribute.cpp:273
+msgid "Weak"
+msgstr "Слабкий"
+
+#: src/ItemAttribute.cpp:277
+msgid "Berserkitis"
+msgstr "Берсерк"
+
+#: src/ItemAttribute.cpp:278
+msgid "of Berserk"
+msgstr "берсерк"
+
+#: src/ItemAttribute.cpp:281
+msgid "Fairy Magic"
+msgstr "Феяча магія"
+
+#: src/ItemAttribute.cpp:282
+msgid "of Fairy Fire"
+msgstr "фейр-файр"
+
+#: src/ItemAttribute.cpp:284
+msgid "Corrupted Fairy Magic"
+msgstr "Зіпсована феяча магія"
+
+#: src/ItemAttribute.cpp:285
+msgid "of Corrupted Fairy Fire"
+msgstr "зіпсований фейр-файр"
+
+#: src/ItemAttribute.cpp:289
+msgid "Slow Enemies"
+msgstr "Повільні вороги"
+
+#: src/ItemAttribute.cpp:290
+msgid "of Slow"
+msgstr "повільності"
+
+#: src/ItemAttribute.cpp:293
+msgid "Double Jump"
+msgstr "Подвійний стрибок"
+
+#: src/ItemAttribute.cpp:294
+msgid "Raccoon"
+msgstr "Єнот"
+
+#: src/ItemAttribute.cpp:296
+msgid "Double Jump?"
+msgstr "Подвійний стрибок?"
+
+#: src/ItemAttribute.cpp:297 src/ItemAttribute.cpp:305
+msgid "Squirrel"
+msgstr "Білка"
+
+#: src/ItemAttribute.cpp:301
+msgid "Triple Jump"
+msgstr "Потрійний стрибок"
+
+#: src/ItemAttribute.cpp:302
+msgid "Aero"
+msgstr "Аеро"
+
+#: src/ItemAttribute.cpp:304
+msgid "Triple Jump?"
+msgstr "Потрійний стрибок?"
+
+#: src/ItemAttribute.cpp:309
+msgid "Trailblazer"
+msgstr "Піонер"
+
+#: src/ItemAttribute.cpp:310 src/ItemAttribute.cpp:577
+msgid "Blazing"
+msgstr "Палаючий"
+
+#: src/ItemAttribute.cpp:312
+msgid "Smoky Trail"
+msgstr "Димний слід"
+
+#: src/ItemAttribute.cpp:313
+msgid "Smoky"
+msgstr "Димний"
+
+#: src/ItemAttribute.cpp:318 src/ItemAttribute.cpp:319
+msgid "Bouncy"
+msgstr "Пружний"
+
+#: src/ItemAttribute.cpp:321
+msgid "Uncontrollable Bounciness"
+msgstr "Нестримна пружність"
+
+#: src/ItemAttribute.cpp:322
+msgid "Springy"
+msgstr "Пружний"
+
+#: src/ItemAttribute.cpp:326
+msgid "Super Speed"
+msgstr "Супершвидкість"
+
+#: src/ItemAttribute.cpp:327
+msgid "Quick"
+msgstr "Швидкий"
+
+#: src/ItemAttribute.cpp:329
+msgid "Unpredictable Speed"
+msgstr "Непередбачувана швидкість"
+
+#: src/ItemAttribute.cpp:330
+msgid "Laggy"
+msgstr "Затримка"
+
+#: src/ItemAttribute.cpp:334
+msgid "Grab Walls"
+msgstr "Лазіння по стінах"
+
+#: src/ItemAttribute.cpp:335
+msgid "Spider"
+msgstr "Павук"
+
+#: src/ItemAttribute.cpp:337
+msgid "Bounce off walls"
+msgstr "Відштовхується від стін"
+
+#: src/ItemAttribute.cpp:338
+msgid "Avoidant"
+msgstr "Обхідний"
+
+#: src/ItemAttribute.cpp:342
+msgid "Throw Hard"
+msgstr "Сильно кидати"
+
+#: src/ItemAttribute.cpp:343
+msgid "Gorilla"
+msgstr "Горила"
+
+#: src/ItemAttribute.cpp:345
+msgid "Weak Throws"
+msgstr "Слабкі кидки"
+
+#: src/ItemAttribute.cpp:346
+msgid "Feeble"
+msgstr "Кволий"
+
+#: src/ItemAttribute.cpp:350
+msgid "Sink like a Stone"
+msgstr "Тоне як камінь"
+
+#: src/ItemAttribute.cpp:351
+msgid "Metal"
+msgstr "Металевий"
+
+#: src/ItemAttribute.cpp:355
+msgid "Unbounded"
+msgstr "Безмежний"
+
+#: src/ItemAttribute.cpp:357
+msgid "Unfocused Sight"
+msgstr "Розфокусований зір"
+
+#: src/ItemAttribute.cpp:358
+msgid "Amaurotic"
+msgstr "Амавротичний"
+
+#: src/ItemAttribute.cpp:362
+msgid "Demonic Familiar"
+msgstr "Демоничний помічник"
+
+#: src/ItemAttribute.cpp:363 src/ItemAttribute.cpp:371
+#: src/ItemAttribute.cpp:379
+msgid "Helpful"
+msgstr "Корисний"
+
+#: src/ItemAttribute.cpp:365 src/ItemAttribute.cpp:373
+#: src/ItemAttribute.cpp:381
+msgid "Soul of an evil familiar"
+msgstr "Душа злісного помічника"
+
+#: src/ItemAttribute.cpp:366 src/ItemAttribute.cpp:374
+#: src/ItemAttribute.cpp:382
+msgid "Devilish"
+msgstr "Дияволячий"
+
+#: src/ItemAttribute.cpp:370
+msgid "Compassionate Familiar"
+msgstr "Співчутливий помічник"
+
+#: src/ItemAttribute.cpp:378
+msgid "Vengeful Familiar"
+msgstr "Мстивий помічник"
+
+#: src/ItemAttribute.cpp:386
+msgid "Death Protection"
+msgstr "Захист від смерті"
+
+#: src/ItemAttribute.cpp:389
+msgid "Cling to Life"
+msgstr "Ліплення за життя"
+
+#: src/ItemAttribute.cpp:390
+msgid "Unholy"
+msgstr "Нечестивий"
+
+#: src/ItemAttribute.cpp:394
+msgid "Luminous"
+msgstr "Світлий"
+
+#: src/ItemAttribute.cpp:395
+msgid "Blinding"
+msgstr "Сліпучий"
+
+#: src/ItemAttribute.cpp:397
+msgid "Shadowy"
+msgstr "Тіньовий"
+
+#: src/ItemAttribute.cpp:398
+msgid "of the Shadows"
+msgstr "тіней"
+
+#: src/ItemAttribute.cpp:402
+msgid "Jumping on enemies deals damage"
+msgstr "Стрибки по ворогах завдають шкоди"
+
+#: src/ItemAttribute.cpp:403
+msgid "Spiky"
+msgstr "Шипастий"
+
+#: src/ItemAttribute.cpp:405
+msgid "Jumping on enemies hurts your feet"
+msgstr "Стрибки по ворогах болять вашим ногам"
+
+#: src/ItemAttribute.cpp:406
+msgid "Uncomfortable"
+msgstr "Незручний"
+
+#: src/ItemAttribute.cpp:410
+msgid "Swim like a Fish"
+msgstr "Пливи як риба"
+
+#: src/ItemAttribute.cpp:411
+msgid "Webbed"
+msgstr "Перепончатий"
+
+#: src/ItemAttribute.cpp:414
+msgid "Underwater Breathing"
+msgstr "Дихання під водою"
+
+#: src/ItemAttribute.cpp:415
+msgid "Amphibian"
+msgstr "Амфібія"
+
+#: src/ItemAttribute.cpp:417
+msgid "Reduced lung capacity"
+msgstr "Зменшена ємність легень"
+
+#: src/ItemAttribute.cpp:418
+msgid "Asthmatic"
+msgstr "Астматичний"
+
+#: src/ItemAttribute.cpp:423
+msgid "Winged"
+msgstr "Крилатий"
+
+#: src/ItemAttribute.cpp:425
+msgid "Fall like a rock"
+msgstr "Падає як камінь"
+
+#: src/ItemAttribute.cpp:430
+msgid "Light Feet"
+msgstr "Легкі ноги"
+
+#: src/ItemAttribute.cpp:431
+msgid "Muted"
+msgstr "Притихлий"
+
+#: src/ItemAttribute.cpp:433
+msgid "Clunky"
+msgstr "Грубий"
+
+#: src/ItemAttribute.cpp:434
+msgid "Noisy"
+msgstr "Гучний"
+
+#: src/ItemAttribute.cpp:438
+msgid "Floor Phasing"
+msgstr "Прохід через підлогу"
+
+#: src/ItemAttribute.cpp:439
+msgid "Ethereal"
+msgstr "Ефірний"
+
+#: src/ItemAttribute.cpp:440
+msgid "Fall through floors"
+msgstr "Провалюється крізь підлоги"
+
+#: src/ItemAttribute.cpp:441
+msgid "Pitfall"
+msgstr "Яма"
+
+#: src/ItemAttribute.cpp:445
+msgid "Wall Phasing"
+msgstr "Прохід крізь стіни"
+
+#: src/ItemAttribute.cpp:446
+msgid "Transient"
+msgstr "Перехідний"
+
+#: src/ItemAttribute.cpp:447
+msgid "Absorbed by walls"
+msgstr "Поглинається стінами"
+
+#: src/ItemAttribute.cpp:448
+msgid "Ingurgitating"
+msgstr "Поглинаючий"
+
+#: src/ItemAttribute.cpp:452
+msgid "Shop Deals"
+msgstr "Знижки в магазині"
+
+#: src/ItemAttribute.cpp:453
+msgid "Frugal"
+msgstr "Економний"
+
+#: src/ItemAttribute.cpp:456
+msgid "Boulder Protection"
+msgstr "Захист від каменів"
+
+#: src/ItemAttribute.cpp:457
+msgid "Hard"
+msgstr "Твердий"
+
+#: src/ItemAttribute.cpp:459 src/ItemAttribute.cpp:460
+msgid "Immaterial"
+msgstr "Нематеріальний"
+
+#: src/ItemAttribute.cpp:464
+msgid "Slow Aura"
+msgstr "Аура повільності"
+
+#: src/ItemAttribute.cpp:465
+msgid "Timekeeper's"
+msgstr "Часового"
+
+#: src/ItemAttribute.cpp:468
+msgid "Freezing Aura"
+msgstr "Аура холоду"
+
+#: src/ItemAttribute.cpp:469
+msgid "Chilling"
+msgstr "Леденюча"
+
+#: src/ItemAttribute.cpp:472
+msgid "Flame Aura"
+msgstr "Аура полум’я"
+
+#: src/ItemAttribute.cpp:473
+msgid "Flickering"
+msgstr "Мерехтлива"
+
+#: src/ItemAttribute.cpp:476
+msgid "Gold Collector"
+msgstr "Колекціонер золота"
+
+#: src/ItemAttribute.cpp:477
+msgid "Greedy"
+msgstr "Жадібний"
+
+#: src/ItemAttribute.cpp:479
+msgid "Gold Repellent"
+msgstr "Відштовхує золото"
+
+#: src/ItemAttribute.cpp:485
+msgid "of Weakness"
+msgstr "слабкості"
+
+#: src/ItemAttribute.cpp:486
+msgid "-{1} damage"
+msgstr "-{1} до шкоди"
+
+#: src/ItemAttribute.cpp:490
+msgid "+{1} damage"
+msgstr "+{1} до шкоди"
+
+#: src/ItemAttribute.cpp:491
+msgid "of Slaying"
+msgstr "вбивства"
+
+#: src/ItemAttribute.cpp:507
+msgid "of Negligence"
+msgstr "недбалості"
+
+#: src/ItemAttribute.cpp:508
+#, c-format
+msgid "-{1}% critical chance"
+msgstr "-{1}% c шанс критичного удару"
+
+#: src/ItemAttribute.cpp:512
+#, c-format
+msgid "+{1}% critical chance"
+msgstr "+{1}% c шанс критичного удару"
+
+#: src/ItemAttribute.cpp:513
+msgid "of Insight"
+msgstr "проникливості"
+
+#: src/ItemAttribute.cpp:527 src/ItemAttribute.cpp:762
+msgid "+{1} defense"
+msgstr "+{1} до захисту"
+
+#: src/ItemAttribute.cpp:528
+msgid "of Protection"
+msgstr "захисту"
+
+#: src/ItemAttribute.cpp:530 src/ItemAttribute.cpp:767
+msgid "-{1} defense"
+msgstr "-{1} до захисту"
+
+#: src/ItemAttribute.cpp:531
+msgid "of Thin Skin"
+msgstr "тонкої шкіри"
+
+#: src/ItemAttribute.cpp:535
+msgid "Heavy Punches"
+msgstr "Сильні удари"
+
+#: src/ItemAttribute.cpp:536
+msgid "Kangaroo"
+msgstr "Кенгуру"
+
+#: src/ItemAttribute.cpp:538
+msgid "Weak Punches"
+msgstr "Слабкі удари"
+
+#: src/ItemAttribute.cpp:539
+msgid "Debilitating"
+msgstr "Ослаблюючий"
+
+#: src/ItemAttribute.cpp:543
+msgid "Improved Archery"
+msgstr "Покращена стрільба"
+
+#: src/ItemAttribute.cpp:544
+msgid "Precise"
+msgstr "Точний"
+
+#: src/ItemAttribute.cpp:546
+msgid "Shaky Hands"
+msgstr "Тремтячі руки"
+
+#: src/ItemAttribute.cpp:547
+msgid "Inaccurate"
+msgstr "Неточний"
+
+#: src/ItemAttribute.cpp:552
+msgid "Volcanic"
+msgstr "Вулканічний"
+
+#: src/ItemAttribute.cpp:555 src/ItemAttribute.cpp:612
+#: src/ItemAttribute.cpp:614
+msgid "Freezing"
+msgstr "Заморожуючий"
+
+#: src/ItemAttribute.cpp:556
+msgid "Tundra"
+msgstr "Тундра"
+
+#: src/ItemAttribute.cpp:559 src/ItemAttribute.cpp:605
+#: src/ItemAttribute.cpp:607
+msgid "Shocking"
+msgstr "Шокуючий"
+
+#: src/ItemAttribute.cpp:560
+msgid "Cumulus"
+msgstr "Кумулус"
+
+#: src/ItemAttribute.cpp:563 src/ItemAttribute.cpp:564
+msgid "Envenomed"
+msgstr "Отруйний"
+
+#: src/ItemAttribute.cpp:567
+msgid "Weightless Arrows"
+msgstr "Безвагові стріли"
+
+#: src/ItemAttribute.cpp:568 src/ItemAttribute.cpp:572
+msgid "Buoyant"
+msgstr "Плавучий"
+
+#: src/ItemAttribute.cpp:571
+msgid "\"Weightless\" Arrows"
+msgstr "«Безвагові» стріли"
+
+#: src/ItemAttribute.cpp:576
+msgid "Glowing Arrows"
+msgstr "Світні стріли"
+
+#: src/ItemAttribute.cpp:580
+msgid "Arrow Trajectory"
+msgstr "Траєкторія стріл"
+
+#: src/ItemAttribute.cpp:581
+msgid "Sharpshooter's"
+msgstr "Снайперська"
+
+#: src/ItemAttribute.cpp:584
+msgid "Multishot"
+msgstr "Мультистріл"
+
+#: src/ItemAttribute.cpp:585
+msgid "of Multishot"
+msgstr "мультистріли"
+
+#: src/ItemAttribute.cpp:588
+msgid "Coins seem to heal injuries"
+msgstr "Монети лікують поранення"
+
+#: src/ItemAttribute.cpp:589
+msgid "Churl"
+msgstr "Скупий"
+
+#: src/ItemAttribute.cpp:592
+msgid "Death becomes easier to encounter"
+msgstr "Смерть стає частішою"
+
+#: src/ItemAttribute.cpp:593
+msgid "Mortal"
+msgstr "Смертний"
+
+#: src/ItemAttribute.cpp:596
+msgid "Attackers will sometimes be burned"
+msgstr "Атакуючі іноді отримують опік"
+
+#: src/ItemAttribute.cpp:599
+msgid "Take extra fire damage when attacked"
+msgstr "Отримуєте додаткову вогняну шкоду при атакі"
+
+#: src/ItemAttribute.cpp:604
+msgid "Attackers will sometimes be shocked"
+msgstr "Атакуючі іноді отримують удар струмом"
+
+#: src/ItemAttribute.cpp:606
+msgid "Take extra lightning damage when attacked"
+msgstr "Отримуєте додаткову електричну шкоду при атакі"
+
+#: src/ItemAttribute.cpp:611
+msgid "Attackers will sometimes be frozen"
+msgstr "Атакуючі іноді заморожуються"
+
+#: src/ItemAttribute.cpp:613
+msgid "Take extra cold damage when attacked"
+msgstr "Отримуєте додаткову шкоду від холоду при атакі"
+
+#: src/ItemAttribute.cpp:618
+msgid "Attackers will sometimes be poisoned"
+msgstr "Атакуючі іноді отруюються"
+
+#: src/ItemAttribute.cpp:619 src/ItemAttribute.cpp:621
+msgid "Venomous"
+msgstr "Отруйний"
+
+#: src/ItemAttribute.cpp:620
+msgid "Take extra poison damage when attacked"
+msgstr "Отримуєте додаткову отруйну шкоду при атакі"
+
+#: src/ItemAttribute.cpp:625
+msgid "Damage Reflection"
+msgstr "Відбивання шкоди"
+
+#: src/ItemAttribute.cpp:626
+msgid "Speculum"
+msgstr "Спекулум"
+
+#: src/ItemAttribute.cpp:629
+msgid "Protected by Spirits"
+msgstr "Захищений духами"
+
+#: src/ItemAttribute.cpp:633
+msgid "Chance to turn into mist when hurt"
+msgstr "Шанс перетворитися на туман при пошкодженні"
+
+#: src/ItemAttribute.cpp:634
+msgid "Incorporeal"
+msgstr "Безтілесний"
+
+#: src/ItemAttribute.cpp:637
+msgid "Spike Protection"
+msgstr "Захист від шипів"
+
+#: src/ItemAttribute.cpp:638
+msgid "Spike Breaking"
+msgstr "Ламає шипи"
+
+#: src/ItemAttribute.cpp:640
+msgid "Does nothing against spikes"
+msgstr "Не допомагає проти шипів"
+
+#: src/ItemAttribute.cpp:641
+msgid "Useless"
+msgstr "Непотрібний"
+
+#: src/ItemAttribute.cpp:645
+msgid "Timing jumps allows for unlimited mid-air jumps"
+msgstr "Своєчасні стрибки дозволяють безмежно стрибати в повітрі"
+
+#: src/ItemAttribute.cpp:646
+msgid "Flapping"
+msgstr "Махаючий"
+
+#: src/ItemAttribute.cpp:649
+msgid "Attackers will get pushed back"
+msgstr "Атакуючих відкидає назад"
+
+#: src/ItemAttribute.cpp:650
+msgid "Reflex"
+msgstr "Рефлекс"
+
+#: src/ItemAttribute.cpp:653
+msgid "Reflects projectiles"
+msgstr "Відбиває снаряди"
+
+#: src/ItemAttribute.cpp:654
+msgid "Deflection"
+msgstr "Відхилення"
+
+#: src/ItemAttribute.cpp:657
+msgid "Subtly increases weapon reach"
+msgstr "Трохи збільшує дальність зброї"
+
+#: src/ItemAttribute.cpp:658
+msgid "Augmenting"
+msgstr "Підсилюючий"
+
+#: src/ItemAttribute.cpp:660
+msgid "Decreased weapon reach"
+msgstr "Зменшена дальність зброї"
+
+#: src/ItemAttribute.cpp:661
+msgid "Diminishing"
+msgstr "Ослаблюючий"
+
+#: src/ItemAttribute.cpp:665
+msgid "Homing Arrows"
+msgstr "Навідні стріли"
+
+#: src/ItemAttribute.cpp:666
+msgid "Archangel's"
+msgstr "Архангела"
+
+#: src/ItemAttribute.cpp:668
+msgid "Avoidant Arrows"
+msgstr "Ухильні стріли"
+
+#: src/ItemAttribute.cpp:670
+msgid "Prankster's"
+msgstr "Жартівника"
+
+#: src/ItemAttribute.cpp:674
+msgid "Reduces gravity"
+msgstr "Зменшує гравітацію"
+
+#: src/ItemAttribute.cpp:675
+msgid "Antigrav"
+msgstr "Антигравітаційний"
+
+#: src/ItemAttribute.cpp:678
+msgid "Cuts Through Both Time & Space"
+msgstr "Ріже час і простір"
+
+#: src/ItemAttribute.cpp:682
+msgid "Summon Lightning"
+msgstr "Заклик блискавки"
+
+#: src/ItemAttribute.cpp:683
+msgid "Thurisaz"
+msgstr "Турісаз"
+
+#: src/ItemAttribute.cpp:686
+msgid "Channel magic from the earth"
+msgstr "Направляє магію від землі"
+
+#: src/ItemAttribute.cpp:687
+msgid "Rise"
+msgstr "Підйом"
+
+#: src/ItemAttribute.cpp:690
+msgid "Increased chance of finding magic items"
+msgstr "Збільшує шанс знайти магічні предмети"
+
+#: src/ItemAttribute.cpp:691
+msgid "Lucky"
+msgstr "Щасливий"
+
+#: src/ItemAttribute.cpp:694
+msgid "Reduced Physical Damage"
+msgstr "Зменшена фізична шкода"
+
+#: src/ItemAttribute.cpp:698
+msgid "Damage to Gold"
+msgstr "Шкода для золота"
+
+#: src/ItemAttribute.cpp:699
+msgid "Midas"
+msgstr "Мідас"
+
+#: src/ItemAttribute.cpp:703
+msgid "Fire Jump"
+msgstr "Вогняний стрибок"
+
+#: src/ItemAttribute.cpp:704
+msgid "Firey"
+msgstr "Вогненний"
+
+#: src/ItemAttribute.cpp:707
+msgid "Spell Cost Reduction"
+msgstr "Зменшення вартості заклять"
+
+#: src/ItemAttribute.cpp:708
+msgid "Insightful"
+msgstr "Проникливий"
+
+#: src/ItemAttribute.cpp:711
+msgid "Splash Attack"
+msgstr "Пліс-атака"
+
+#: src/ItemAttribute.cpp:712
+msgid "Splashy"
+msgstr "Пліс-атакуючий"
+
+#: src/ItemAttribute.cpp:715
+msgid "Force Shield"
+msgstr "Силовий щит"
+
+#: src/ItemAttribute.cpp:716
+msgid "Shielded"
+msgstr "Захищений щитом"
+
+#: src/ItemAttribute.cpp:719
+msgid "Explosion Master"
+msgstr "Майстер вибухів"
+
+#: src/ItemAttribute.cpp:720
+msgid "Explosive"
+msgstr "Вибуховий"
+
+#: src/ItemAttribute.cpp:723
+msgid "Releases spirits upon opening a chest"
+msgstr "Випускає духів при відкритті скрині"
+
+#: src/ItemAttribute.cpp:724
+msgid "Vengeful"
+msgstr "Мстивий"
+
+#: src/ItemAttribute.cpp:727
+msgid "Heal upon opening a chest"
+msgstr "Лікує при відкритті скрині"
+
+#: src/ItemAttribute.cpp:728
+msgid "Generous"
+msgstr "Щедрий"
+
+#: src/ItemAttribute.cpp:731
+msgid "Keeper of Familiars"
+msgstr "Опікун фамільярів"
+
+#: src/ItemAttribute.cpp:732
+msgid "Keeper's"
+msgstr "Опікунський"
+
+#: src/ItemAttribute.cpp:735
+msgid "See enemy health bars"
+msgstr "Бачить шкалу здоров'я ворогів"
+
+#: src/ItemAttribute.cpp:738
+msgid "See hidden enemies"
+msgstr "Бачить прихованих ворогів"
+
+#: src/ItemAttribute.cpp:741
+msgid "Curse Bonus"
+msgstr "Бонус прокляття"
+
+#: src/ItemAttribute.cpp:745
+msgid "Faded Rune of Eleclance"
+msgstr "Вицвіла руна Елеклансу"
+
+#: src/ItemAttribute.cpp:752
+msgid "High Jump"
+msgstr "Високий стрибок"
+
+#: src/ItemAttribute.cpp:753
+msgid "Eagle"
+msgstr "Орел"
+
+#: src/ItemAttribute.cpp:756
+msgid "Charge up extra damage by walking"
+msgstr "Набирає додаткову шкоду ходьбою"
+
+#: src/ItemAttribute.cpp:757
+msgid "Plodding"
+msgstr "Повільний"
+
+#: src/ItemAttribute.cpp:763
+msgid "Mountain"
+msgstr "Гірський"
+
+#: src/ItemAttribute.cpp:768
+msgid "Shunted"
+msgstr "Відхилений"
+
+#: src/ItemAttribute.cpp:774
+msgid "+{1} fire resist"
+msgstr "+{1} до опору вогню"
+
+#: src/ItemAttribute.cpp:775
+msgid "Vermillion"
+msgstr "Червонуватий"
+
+#: src/ItemAttribute.cpp:779
+msgid "-{1} fire resist"
+msgstr "-{1} до опору вогню"
+
+#: src/ItemAttribute.cpp:780
+msgid "Charcoal"
+msgstr "Вугільний"
+
+#: src/ItemAttribute.cpp:786
+msgid "+{1} cold resist"
+msgstr "+{1} до опору холоду"
+
+#: src/ItemAttribute.cpp:787
+msgid "Cobalt"
+msgstr "Кобальтовий"
+
+#: src/ItemAttribute.cpp:791
+msgid "-{1} cold resist"
+msgstr "-{1} до опору холоду"
+
+#: src/ItemAttribute.cpp:792
+msgid "Brittle"
+msgstr "Крихкий"
+
+#: src/ItemAttribute.cpp:799
+msgid "+{1} poison resist"
+msgstr "+{1} до опору отруті"
+
+#: src/ItemAttribute.cpp:800
+msgid "Mantis"
+msgstr "Богомол"
+
+#: src/ItemAttribute.cpp:804
+msgid "-{1} poison resist"
+msgstr "-{1} до опору отруті"
+
+#: src/ItemAttribute.cpp:805
+msgid "Nauseating"
+msgstr "Нудотний"
+
+#: src/ItemAttribute.cpp:811
+msgid "+{1} lightning resist"
+msgstr "+{1} до опору електриці"
+
+#: src/ItemAttribute.cpp:812
+msgid "Ochre"
+msgstr "Охра"
+
+#: src/ItemAttribute.cpp:816
+msgid "-{1} lightning resist"
+msgstr "-{1} до опору електриці"
+
+#: src/ItemAttribute.cpp:817
+msgid "Moist"
+msgstr "Вологий"
+
+#: src/ItemAttribute.cpp:823
+msgid "+{1} all resistances"
+msgstr "+{1} до всіх опорів"
+
+#: src/ItemAttribute.cpp:824
+msgid "Prismatic"
+msgstr "Призматичний"
+
+#: src/ItemAttribute.cpp:828
+msgid "-{1} all resistances"
+msgstr "-{1} до всіх опорів"
+
+#: src/ItemAttribute.cpp:833
+msgid "Coated with poison"
+msgstr "Покритий отрутою"
+
+#: src/ItemAttribute.cpp:834
+msgid "Poisonous"
+msgstr "Отруйний"
+
+#: src/ItemAttribute.cpp:840
+msgid "+{1} strength"
+msgstr "+{1} до сили"
+
+#: src/ItemAttribute.cpp:841
+msgid "of Strength"
+msgstr "сили"
+
+#: src/ItemAttribute.cpp:845
+msgid "-{1} strength"
+msgstr "-{1} до сили"
+
+#: src/ItemAttribute.cpp:846
+msgid "of Weakening"
+msgstr "ослаблюючий"
+
+#: src/ItemAttribute.cpp:853
+msgid "+{1} dexterity"
+msgstr "+{1} до спритності"
+
+#: src/ItemAttribute.cpp:854
+msgid "of Dexterity"
+msgstr "спритності"
+
+#: src/ItemAttribute.cpp:858
+msgid "-{1} dexterity"
+msgstr "-{1} до спритності"
+
+#: src/ItemAttribute.cpp:859
+msgid "of Fumbling"
+msgstr "незграбний"
+
+#: src/ItemAttribute.cpp:866
+msgid "+{1} vitality"
+msgstr "+{1} до витривалості"
+
+#: src/ItemAttribute.cpp:867
+msgid "of Vitality"
+msgstr "витривалості"
+
+#: src/ItemAttribute.cpp:871
+msgid "-{1} vitality"
+msgstr "-{1} до витривалості"
+
+#: src/ItemAttribute.cpp:872
+msgid "of Debilitation"
+msgstr "ослаблюючий"
+
+#: src/ItemAttribute.cpp:879
+msgid "+{1} speed"
+msgstr "+{1} до швидкості"
+
+#: src/ItemAttribute.cpp:880
+msgid "of Speed"
+msgstr "швидкості"
+
+#: src/ItemAttribute.cpp:884
+msgid "-{1} speed"
+msgstr "-{1} до швидкості"
+
+#: src/ItemAttribute.cpp:885
+msgid "of Lethargy"
+msgstr "лінивий"
+
+#: src/ItemAttribute.cpp:892
+msgid "+{1} stability"
+msgstr "+{1} до стійкості"
+
+#: src/ItemAttribute.cpp:893
+msgid "of Stability"
+msgstr "стійкості"
+
+#: src/ItemAttribute.cpp:897
+msgid "-{1} stability"
+msgstr "-{1} до стійкості"
+
+#: src/ItemAttribute.cpp:898
+msgid "of Unsteadiness"
+msgstr "нестійкий"
+
+#: src/ItemAttribute.cpp:905
+msgid "+{1} intelligence"
+msgstr "+{1} до інтелекту"
+
+#: src/ItemAttribute.cpp:906
+msgid "of Intelligence"
+msgstr "інтелекту"
+
+#: src/ItemAttribute.cpp:910
+msgid "-{1} intelligence"
+msgstr "-{1} до інтелекту"
+
+#: src/ItemAttribute.cpp:911
+msgid "of Stupidity"
+msgstr "тупий"
+
+#: src/ItemAttribute.cpp:918
+msgid "+{1} luck"
+msgstr "+{1} до удачі"
+
+#: src/ItemAttribute.cpp:919
+msgid "of Luck"
+msgstr "удачі"
+
+#: src/ItemAttribute.cpp:923
+msgid "-{1} luck"
+msgstr "-{1} до удачі"
+
+#: src/ItemAttribute.cpp:924
+msgid "of Unluckiness"
+msgstr "неудачливий"
+
+#: src/LevelGenerator.cpp:1189
+msgid ""
+"Press jump while holding down\n"
+"to drop through platforms."
+msgstr ""
+"Натисніть стрибок, утримуючи вниз,\n"
+"щоб пройти крізь платформу."
+
+#: src/LevelGenerator.cpp:1190
+msgid "Press @JU to swim quickly."
+msgstr "Натисніть @JU, щоб швидко плавати."
+
+#: src/LevelGenerator.cpp:1191
+msgid "@JU Jump"
+msgstr "@JU Стрибок"
+
+#: src/LevelGenerator.cpp:1192
+msgid ""
+"While spikes are instant death,\n"
+"you can walk by them just fine."
+msgstr ""
+"Хоча шипи вбивають миттєво,\n"
+"ви можете пройти повз них безпечно."
+
+#: src/LevelGenerator.cpp:1193
+msgid "Hold @WA to walk slower."
+msgstr "Утримуйте @WA, щоб йти повільніше."
+
+#: src/LevelGenerator.cpp:1194
+msgid "Some walls hide secrets..."
+msgstr "Деякі стіни ховають таємниці..."
+
+#: src/LevelGenerator.cpp:1195
+msgid ""
+"After a learning a spell,\n"
+"cast it by holding @SK.\n"
+"\n"
+"Release @SK when the spell\n"
+" is fully charged."
+msgstr ""
+"Після вивчення закляття,\n"
+"активуйте його, утримуючи @SK.\n"
+"\n"
+"Відпустіть @SK, коли закляття\n"
+"повністю заряджене."
+
+#: src/LevelGenerator.cpp:1196
+msgid ""
+"To quickly swap weapons or \n"
+" skills, hold @SW and press the\n"
+" corresponding action."
+msgstr ""
+"Щоб швидко змінити зброю або навички,\n"
+"утримуйте @SW і натисніть потрібну дію."
+
+#: src/LevelGenerator.cpp:1197
+msgid ""
+"Try walking slowly \n"
+" off this ledge to\n"
+" safely swing over it."
+msgstr ""
+"Спробуйте повільно пройти з цього краю,\n"
+"щоб безпечно перекинутися через нього."
+
+#: src/LevelGenerator.cpp:1198
+msgid "Press @UP to open chests."
+msgstr "Натисніть @UP, щоб відкрити скрині."
+
+#: src/LevelGenerator.cpp:1199
+msgid "Press @DO to pick up items."
+msgstr "Натисніть @DO, щоб підібрати предмети."
+
+#: src/LevelGenerator.cpp:1200
+msgid ""
+"Hold down and press jump\n"
+"to release the ledge and\n"
+"safely drop down below."
+msgstr ""
+"Утримуйте вниз і натисніть стрибок,\n"
+"щоб відпустити край та\n"
+"безпечно впасти вниз."
+
+#: src/LevelGenerator.cpp:1201
+msgid ""
+"Try equipping your new weapon\n"
+" in your menu."
+msgstr ""
+"Спробуйте обладнати нову зброю\n"
+"у меню."
+
+#: src/LevelGenerator.cpp:1202
+msgid " @ME Open Menu"
+msgstr " @ME Відкрити меню"
+
+#: src/LevelGenerator.cpp:1203
+msgid ""
+"You can cycle to the inventory\n"
+" tab with either @SW or @EX"
+msgstr ""
+"Ви можете перейти до вкладки інвентарю\n"
+"за допомогою @SW або @EX"
+
+#: src/LevelGenerator.cpp:1204
+msgid "@AT Attack"
+msgstr "@AT Атака"
+
+#: src/LevelGenerator.cpp:1205
+msgid ""
+"Rest at bonfires to \n"
+"heal and level up."
+msgstr ""
+"Відпочивайте біля багаття, щоб\n"
+"відновити здоров'я та підняти рівень."
+
+#: src/LevelGenerator.cpp:1206
+msgid "@EX Use Bonfire"
+msgstr "@EX Використати багаття"
+
+#: src/LevelGenerator.cpp:1207
+msgid ""
+"You can equip a melee weapon and\n"
+" ranged weapon at the same time."
+msgstr ""
+"Ви можете одночасно екіпірувати\n"
+"ближню та дальню зброю."
+
+#: src/LevelGenerator.cpp:1208
+msgid ""
+"@RA Shoot Bow \n"
+"\n"
+"@UP @DO Aim"
+msgstr ""
+"@RA Стріляти з лука \n"
+"\n"
+"@UP @DO Ціль"
+
+#: src/LevelGenerator.cpp:1209
+msgid "Bonfires appear between every level."
+msgstr "Багаття з’являються між кожним рівнем."
+
+#: src/LevelGenerator.cpp:1210
+msgid ""
+"You can learn new spells by\n"
+" finding and reading spellbooks\n"
+" like this one."
+msgstr ""
+"Ви можете вивчати нові закляття,\n"
+"знаходячи та читаючи книжки заклять\n"
+"на кшталт цієї."
+
+#: src/LevelGenerator.cpp:1211
+msgid ""
+"Walk about a shop counter and\n"
+"press @EX to start shopping."
+msgstr ""
+"Пройдіться біля прилавка та\n"
+"натисніть @EX, щоб почати покупки."
+
+#: src/LevelGenerator.cpp:1212
+msgid "Run!"
+msgstr "Біжіть!"
+
+#: src/LevelGenerator.cpp:1213
+msgid ""
+"Press @SW or @EX to cycle\n"
+"to the level up tab."
+msgstr ""
+"Натисніть @SW або @EX, щоб перейти\n"
+"до вкладки підвищення рівня."
+
+#: src/LevelGenerator.cpp:1214
+msgid ""
+"Try spending your new\n"
+"level up point."
+msgstr ""
+"Спробуйте витратити свій новий\n"
+"бал підвищення рівня."
+
+#: src/LevelGenerator.cpp:1215
+msgid "@ME Open Menu"
+msgstr "@ME Відкрити меню"
+
+#: src/LevelGenerator.cpp:1216
+msgid " @SW + @AT Swap Melee"
+msgstr " @SW + @AT Змінити ближню зброю"
+
+#: src/LevelGenerator.cpp:1217
+msgid " @SW + @RA Swap Ranged"
+msgstr " @SW + @RA Змінити дальню зброю"
+
+#: src/LevelGenerator.cpp:1218
+msgid " @SW + @SK Swap Spells"
+msgstr " @SW + @SK Змінити закляття"
+
+#: src/LevelGenerator.cpp:1219
+msgid ""
+"Grab onto this ladder \n"
+"by holding up while in\n"
+"the air."
+msgstr ""
+"Хапайтеся за цю драбину,\n"
+"утримуючи вгору, перебуваючи в повітрі."
+
+#: src/LevelGenerator.cpp:1220
+msgid "@LE @RI Move"
+msgstr "@LE @RI Рух"
+
+#: src/LevelGenerator.cpp:1221
+msgid ""
+"The longer you hold jump, \n"
+" the higher you'll go."
+msgstr ""
+"Чим довше утримуєте стрибок,\n"
+"тим вище підніметеся."
+
+#: src/LevelGenerator.cpp:1222
+msgid " @UP Open Chest"
+msgstr " @UP Відкрити скриню"
+
+#: src/LevelGenerator.cpp:1223
+msgid ""
+"Release ladders at any \n"
+"time by pressing jump.\n"
+msgstr ""
+"Відпустіть драбину в будь-який момент\n"
+"натиснувши стрибок.\n"
+
+#: src/LevelGenerator.cpp:1224 src/LevelGenerator.cpp:1231
+msgid "@DO + @JU"
+msgstr "@DO + @JU"
+
+#: src/LevelGenerator.cpp:1225
+msgid " @JU Jump"
+msgstr " @JU Стрибок"
+
+#: src/LevelGenerator.cpp:1226
+msgid " @AT Attack"
+msgstr " @AT Атака"
+
+#: src/LevelGenerator.cpp:1227
+msgid ""
+"You can grab onto\n"
+"ledges by moving\n"
+"into them while in\n"
+"the air."
+msgstr ""
+"Ви можете хапатися за виступи,\n"
+"рухаючись до них у повітрі."
+
+#: src/LevelGenerator.cpp:1228
+msgid "@JU + @RI"
+msgstr "@JU + @RI"
+
+#: src/LevelGenerator.cpp:1229
+msgid "@JU Jump  @UP Up"
+msgstr "@JU Стрибок  @UP Вгору"
+
+#: src/LevelGenerator.cpp:1230
+msgid "@WA + @RI"
+msgstr "@WA + @RI"
+
+#: src/Shrine.cpp:137
+msgid "The Deranged"
+msgstr "Божевільний"
+
+#: src/Shrine.cpp:140
+msgid "The Bloody"
+msgstr "Кривавий"
+
+#: src/Shrine.cpp:152
+msgid "The Light"
+msgstr "Світлий"
+
+#: src/Shrine.cpp:162
+msgid "The Smith"
+msgstr "Коваль"
+
+#: src/Shrine.cpp:171
+msgid "The Shackled"
+msgstr "Прикутий"
+
+#: src/Shrine.cpp:175
+msgid "The Scholar"
+msgstr "Учений"
+
+#: src/Shrine.cpp:295
+msgid "May the light shine on you."
+msgstr "Нехай світло сяє над вами."
+
+#: src/Shrine.cpp:1161
+msgid "Here."
+msgstr "Тут."
+
+#: src/Shrine.cpp:1165
+msgid "Take this!"
+msgstr "Бери це!"
+
+#: src/Shrine.cpp:1178
+msgid "Spread my word!"
+msgstr "Поширюй моє слово!"
+
+#: src/Shrine.cpp:1187
+msgid "heh heh heh"
+msgstr "хе хе хе"
+
+#: src/Shrine.cpp:1202
+msgid "A slice of space"
+msgstr "Скибка простору"
+
+#: src/Shrine.cpp:1326
+msgid "Knowledge is true power."
+msgstr "Знання — це справжня сила."
+
+#: src/Shrine.cpp:1335
+msgid "Magic is everything."
+msgstr "Магія — це все."
+
+#: src/Shrine.cpp:1504
+msgid "I grant you this gift."
+msgstr "Я дарую тобі цей дар."
+
+#: src/Shrine.cpp:1516
+msgid "Behold!"
+msgstr "Оглянься!"
+
+#: src/Shrine.cpp:1594
+msgid "Bind thyself and serve me."
+msgstr "Прив’яжи себе і служи мені."
+
+#: src/Shrine.cpp:1825
+msgid "Show me your strength."
+msgstr "Покажи мені свою силу."
+
+#: src/Shrine.cpp:1830
+msgid "Show me your skill."
+msgstr "Покажи мені свою майстерність."
+
+#: src/Shrine.cpp:1860
+msgid "Your sacrifice is appreciated."
+msgstr "Твоя жертва цінується."
+
+#: src/Shrine.cpp:2094
+msgid "HAHAHA"
+msgstr "ХАХАХА"
+
+#: src/Shrine.cpp:2133
+msgid "Suffer!"
+msgstr "Страждай!"
+
+#: src/Shrine.cpp:2194
+msgid "Why do you turn from the light?"
+msgstr "Чому ти відвертаєшся від світла?"
+
+#: src/Shrine.cpp:2225
+msgid "Dare you defile my shrine?"
+msgstr "Смієшся осквернити моє святилище?"
+
+#: src/Shrine.cpp:2284
+msgid "I curse thee."
+msgstr "Я тебе проклинаю."
+
+#: src/Shrine.cpp:2319
+msgid "Such ignorance!"
+msgstr "Таке неуцтво!"
+
+#: src/Shrine.cpp:2324
+msgid "Closed minds have no future!"
+msgstr "Закриті уми не мають майбутнього!"
+
+#: src/AffinityShadow.cpp:16
+msgid "Shadow"
+msgstr "Тінь"
+
+#: src/AffinityShadow.cpp:17
+msgid "Enter stealth mode by ducking."
+msgstr "Увійдіть у режим прихованості, присівши."
+
+#: src/AffinityShadow.cpp:18
+msgid "Shadow Attunement"
+msgstr "Настроювання тіні"
+
+#: src/AffinityShadow.cpp:18
+msgid "Enter stealth mode quicker. Opening chests no longer breaks stealth."
+msgstr "Увійдіть у режим прихованості швидше. Відкривання скринь не порушує прихованість."
+
+#: src/AffinityShadow.cpp:19
+msgid "Moving Shadow"
+msgstr "Рухається тінь"
+
+#: src/AffinityShadow.cpp:19
+msgid "Attacks out of stealth critically hit. Stealth automatically when out of combat."
+msgstr "Атаки з прихованості наносять критичний удар. Автоматично переходить у прихованість поза боєм."
+
+#: src/AffinityShadow.cpp:20
+msgid "Strike of Darkness"
+msgstr "Удар Темряви"
+
+#: src/AffinityShadow.cpp:20
+msgid "Entering stealth releases a cloud of smoke. Increased critical damage."
+msgstr "Вхід у прихованість створює хмару диму. Збільшено критичний урон."
+
+#: src/AffinityDefense.cpp:11
+msgid "Defensive Stance"
+msgstr "Оборонна поза"
+
+#: src/AffinityDefense.cpp:11
+msgid "Hold down to block physical attacks."
+msgstr "Утримуйте, щоб блокувати фізичні атаки."
+
+#: src/AffinityDefense.cpp:12
+msgid "Aspect of Rock"
+msgstr "Аспект каменю"
+
+#: src/AffinityDefense.cpp:12
+msgid "Become immune to knockbacks when taking damage."
+msgstr "Станьте невразливим до відштовхувань при отриманні шкоди."
+
+#: src/AffinityDefense.cpp:13
+msgid "Bulwark"
+msgstr "Бастіон"
+
+#: src/AffinityDefense.cpp:13
+msgid "Gain a recharging defensive shield."
+msgstr "Отримайте перезаряджальний оборонний щит."
+
+#: src/AffinityDefense.cpp:14
+msgid "Reflex Stance"
+msgstr "Поза рефлексу"
+
+#: src/AffinityDefense.cpp:14
+msgid "Correctly timed blocks will reflect attack damage."
+msgstr "Правильні блоки відображають шкоду від атаки."
+
+#: src/AffinityDefense.cpp:15
+msgid "Aspect of Steel"
+msgstr "Аспект сталі"
+
+#: src/AffinityDefense.cpp:15
+msgid "Some attacks will be automatically blocked."
+msgstr "Деякі атаки будуть автоматично заблоковані."
+
+#: src/AffinityCQC.cpp:12
+msgid "Fist Weapon"
+msgstr "Зброя кулака"
+
+#: src/AffinityCQC.cpp:14
+msgid "Brawler"
+msgstr "Борець"
+
+#: src/AffinityCQC.cpp:14
+msgid "Change the direction of fist weapon attacks. Mixed-direction combos deal more damage."
+msgstr "Змінює напрямок атак зброєю кулака. Комбо в різних напрямках наносять більше шкоди."
+
+#: src/AffinityCQC.cpp:15
+msgid "Pummel 1"
+msgstr "Удар 1"
+
+#: src/AffinityCQC.cpp:15
+msgid "Hold attack to unleash multiple attacks when using fist weapons. Combos always deal more damage."
+msgstr "Утримуйте атаку, щоб виконати кілька ударів зброєю кулака. Комбо завжди наносять більше шкоди."
+
+#: src/AffinityCQC.cpp:16
+msgid "Pummel 2"
+msgstr "Удар 2"
+
+#: src/AffinityCQC.cpp:16
+msgid "Sustain longer rounds of pummeling."
+msgstr "Тримайте довші серії ударів."
+
+#: src/AffinityCQC.cpp:17
+msgid "Pummel 3"
+msgstr "Удар 3"
+
+#: src/AffinityCQC.cpp:17
+msgid "Sustain even longer rounds of pummeling."
+msgstr "Тримайте ще довші серії ударів."
+
+#: src/AffinityCQC.cpp:18
+msgid "Successful combos will allow you to channel the energy required for the ultimate punch."
+msgstr "Успішні комбо дозволяють накопичити енергію для фінального удару."
+
+#: src/Input.cpp:63
+msgid "Left"
+msgstr "Ліво"
+
+#: src/Input.cpp:64
+msgid "Right"
+msgstr "Право"
+
+#: src/Input.cpp:65
+msgid "Up"
+msgstr "Вгору"
+
+#: src/Input.cpp:66
+msgid "Down"
+msgstr "Вниз"
+
+#: src/Input.cpp:68
+msgid "Melee Attack"
+msgstr "Атака ближньої зброєю"
+
+#: src/Input.cpp:69
+msgid "Ranged Attack"
+msgstr "Атака дальньою зброєю"
+
+#: src/Input.cpp:70
+msgid "Jump"
+msgstr "Стрибок"
+
+#: src/Input.cpp:71
+msgid "Cast Spell"
+msgstr "Закляття"
+
+#: src/Input.cpp:73
+msgid "Swap/Cancel"
+msgstr "Змінити/Скасувати"
+
+#: src/Input.cpp:74
+msgid "Walk"
+msgstr "Ходьба"
+
+#: src/Input.cpp:75
+msgid "Menu"
+msgstr "Меню"
+
+#: src/Input.cpp:76
+msgid "Pause"
+msgstr "Пауза"
+
+#: src/Input.cpp:78
+msgid "Interact"
+msgstr "Взаємодія"
+
+#: src/Input.cpp:79
+msgid "Emote (Multiplayer Only)"
+msgstr "Емоція (тільки мультиплеєр)"
+
+#: src/Input.cpp:80
+msgid "In-Game Chat (Multiplayer Only)"
+msgstr "Чат у грі (тільки мультиплеєр)"
+
+#: src/Input.cpp:127
+msgid "HOLD A BUTTON"
+msgstr "УТРИМУВАТИ КНОПКУ"
+
+#: src/Input.cpp:131
+msgid "HOLD A KEY"
+msgstr "УТРИМУВАТИ КЛАВІШУ"
+
+#: src/Input.cpp:156
+msgid "ERROR"
+msgstr "ПОМИЛКА"
+
+#: src/Input.cpp:200
+msgctxt "Gamepad Binds"
+msgid "Axis {1}-"
+msgid_plural "Axis {1}+"
+msgstr[0] "Вісь {1}-"
+msgstr[1] "Вісь {1}+"
+msgstr[2] "Вісь {1}+"
+
+#: src/Input.cpp:207
+msgctxt "Gamepad Binds"
+msgid "Button {1}"
+msgstr "Кнопка {1}"
+
+#: src/Input.cpp:235 src/Input.cpp:328
+msgid "Right (L-Stk)"
+msgstr "Вправо (Л-Стік)"
+
+#: src/Input.cpp:235 src/Input.cpp:328
+msgid "Left (L-Stk)"
+msgstr "Вліво (Л-Стік)"
+
+#: src/Input.cpp:238 src/Input.cpp:331
+msgid "Down (L-Stk)"
+msgstr "Вниз (Л-Стік)"
+
+#: src/Input.cpp:238 src/Input.cpp:331
+msgid "Up (L-Stk)"
+msgstr "Вгору (Л-Стік)"
+
+#: src/Input.cpp:241 src/Input.cpp:334
+msgid "Right (R-Stk)"
+msgstr "Вправо (П-Стік)"
+
+#: src/Input.cpp:241 src/Input.cpp:334
+msgid "Left (R-Stk)"
+msgstr "Вліво (П-Стік)"
+
+#: src/Input.cpp:244 src/Input.cpp:337
+msgid "Down (R-Stk)"
+msgstr "Вниз (П-Стік)"
+
+#: src/Input.cpp:244 src/Input.cpp:337
+msgid "Up (R-Stk)"
+msgstr "Вгору (П-Стік)"
+
+#: src/Input.cpp:255 src/Input.cpp:321
+msgid "Up (D-pad)"
+msgstr "Вгору (D-pad)"
+
+#: src/Input.cpp:258 src/Input.cpp:321
+msgid "Down (D-pad)"
+msgstr "Вниз (D-pad)"
+
+#: src/Input.cpp:261 src/Input.cpp:313
+msgid "Left (D-pad)"
+msgstr "Вліво (D-pad)"
+
+#: src/Input.cpp:264 src/Input.cpp:313
+msgid "Right (D-pad)"
+msgstr "Вправо (D-pad)"
+
+#: src/Input.cpp:267 src/Input.cpp:369
+msgid "Start"
+msgstr "Пуск"
+
+#: src/Input.cpp:273
+msgid "Left Thumb"
+msgstr "Лівий великий палець"
+
+#: src/Input.cpp:276
+msgid "Right Thumb"
+msgstr "Правий великий палець"
+
+#: src/Input.cpp:279
+msgid "Left Shoulder"
+msgstr "Ліве плече"
+
+#: src/Input.cpp:282
+msgid "Right Shoulder"
+msgstr "Праве плече"
+
+#: src/Input.cpp:325
+msgid "Left Trigger"
+msgstr "Лівий тригер"
+
+#: src/Input.cpp:325
+msgid "Right Trigger"
+msgstr "Правий тригер"
+
+#: src/Input.cpp:360
+msgid "Left Bumper"
+msgstr "Лівий бампер"
+
+#: src/Input.cpp:363
+msgid "Right Bumper"
+msgstr "Правий бампер"
+
+#: src/Client.cpp:6888
+msgid "Creating Steam Lobby..."
+msgstr "Створення лобі Steam..."
+
+#: src/Client.cpp:6893
+msgid "Connecting to Steam Lobby..."
+msgstr "Підключення до лобі Steam..."
+
+#: src/Client.cpp:6897
+msgid "Initializing..."
+msgstr "Ініціалізація..."
+
+#: src/Client.cpp:6901
+msgid "Connecting to IP..."
+msgstr "Підключення до IP..."
+
+#: src/Client.cpp:6905
+msgid "Connecting to Steam Game Server..."
+msgstr "Підключення до сервера гри Steam..."
+
+#: src/Client.cpp:8865 src/Client.cpp:8875
+msgid "{1} port: {2}"
+msgstr "Порт {1}: {2}"
+
+#: src/Client.cpp:9085
+msgid "Game Over"
+msgstr "Гра завершена"
+
+#: src/Client.cpp:9102
+msgid "Most traps can be triggered by dropped items."
+msgstr "Більшість пасток можна активувати кинутими предметами."
+
+#: src/Client.cpp:9103
+msgid "Your controls can always be configured in the options."
+msgstr "Ваші керування завжди можна налаштувати в опціях."
+
+#: src/Client.cpp:9104
+msgid "Sacrifice extra equipment to The Smith for a chance at new gear."
+msgstr "Принесіть зайве спорядження Ковалю за шанс отримати нову екіпіровку."
+
+#: src/Client.cpp:9105
+msgid "Equip/unequip your spells in the spellbook tab of your menu."
+msgstr "Екіпіруйте/знімайте закляття у вкладці «Книга заклять» у меню."
+
+#: src/Client.cpp:9106
+msgid "Shrines to certain gods accept sacrifices in exchange for favor."
+msgstr "Святилища певних богів приймають жертви в обмін на благовоління."
+
+#: src/Client.cpp:9107
+msgid "While poison deals damage over time, it will never kill you."
+msgstr "Хоча отрута завдає шкоди з часом, вона ніколи не вб’є вас."
+
+#: src/Client.cpp:9108
+msgid "The Rogue is invincible to attacks while rolling."
+msgstr "Розбійник невразливий до атак під час кувирків."
+
+#: src/Client.cpp:9109
+msgid "Donate extra gold to The Light and you may receive his blessing."
+msgstr "Пожертвуйте зайве золото Світлу і можете отримати його благословення."
+
+#: src/Client.cpp:9110
+msgid "Elemental resistances max out at +4, granting you immunity to an element."
+msgstr "Опір стихіям максимальний на +4, що надає імунітет до елемента."
+
+#: src/Client.cpp:9111
+msgid "It's possible to steal an item from the shop and escape the level before being noticed."
+msgstr "Можна викрасти предмет у магазині та вийти з рівня, не будучи поміченим."
+
+#: src/Client.cpp:9112
+msgid "While The Deranged will accept any item as sacrifice, be wary of his \"rewards\""
+msgstr "Божевільний прийме будь-який предмет як жертву, але остерігайтесь його «нагород»."
+
+#: src/Client.cpp:9113
+msgid "Hold jump while bouncing off an enemy's head to reach greater heights."
+msgstr "Утримуйте стрибок, відскакуючи від голови ворога, щоб піднятися вище."
+
+#: src/Client.cpp:9114
+msgid "Defeating the boss of a level will instantly grant you a full level."
+msgstr "Перемога над босом рівня одразу дає вам повний рівень."
+
+#: src/Client.cpp:9115
+msgid "While spikes are a lethal threat, they can also be used against most enemies."
+msgstr "Хоча шипи смертельно небезпечні, їх можна використати проти більшості ворогів."
+
+#: src/Client.cpp:9116
+msgid "Each class has strengths and weaknesses. Find the one that matches your playstyle."
+msgstr "У кожного класу є сильні та слабкі сторони. Знайдіть той, що підходить вашому стилю гри."
+
+#: src/Client.cpp:9117
+msgid "The Shackled's shrine can be used to identify cursed items."
+msgstr "Святилище Прикутих можна використовувати для виявлення проклятих предметів."
+
+#: src/Client.cpp:9118
+msgid "Sit at campfires inbetween levels to regain your health."
+msgstr "Сидіть біля багать у проміжках між рівнями, щоб відновити здоров’я."
+
+#: src/Client.cpp:9119
+msgid "The Bloody accepts sacrifices of blood in exchange for greater power."
+msgstr "Кривавий приймає жертви кров’ю за обмін на більшу силу."
+
+#: src/Client.cpp:9120
+msgid "Drop unwanted scrolls or books while sitting at a campfire for extra healing."
+msgstr "Кидайте непотрібні сувої або книги, сидячи біля багаття, для додаткового лікування."
+
+#: src/Client.cpp:9121
+msgid "Combine an identified poison potion with your weapon to envenom it."
+msgstr "Поєднайте визначену отруту з вашою зброєю, щоб отруїти її."
+
+#: src/Client.cpp:9122
+msgid "Combine a bomb with an arrow to craft an explosive arrow."
+msgstr "Поєднайте бомбу зі стрілою, щоб створити вибухову стрілу."
+
+#: src/Client.cpp:9123
+msgid "Water is a natural counter to fire."
+msgstr "Вода природний контр до вогню."
